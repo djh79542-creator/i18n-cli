@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  translation-gui-dev:
+    build: 
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: translation-gui-dev
+    ports:
+      - "3000:3000"
+    volumes:
+      # 开发模式：挂载整个项目目录
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - PORT=3000
+    restart: unless-stopped
+    command: npm run dev
+    networks:
+      - translation-network
+
+networks:
+  translation-network:
+    driver: bridge
