@@ -65,7 +65,6 @@
   "addFirstDevice": "Προσθέστε την πρώτη σας συσκευή",
   "addDevice": "Προσθήκη συσκευής",
   "loadingDeviceList": "Φόρτωση λίστας συσκευών...",
-  "lastFed": "Τελευταία τροφοδοσία",
   "online": "Διαδικτυακά",
   "offline": "Εκτός σύνδεσης",
   "smartCatFeeder": "Έξυπνος τροφοδότης για γάτες",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Άλμπουμ",
   "pageTitleHelpCenterV2": "Κέντρο Βοήθειας",
   "pageTitleAlarmTone": "Καταγράψτε τον τόνο κλήσης",
-  "all": "Όλα"
+  "all": "Όλα",
+  "noChatsYet": "Δεν υπάρχουν ακόμα συνομιλίες",
+  "startConversationToBegin": "Ξεκινήστε μια συνομιλία για να ξεκινήσετε",
+  "albumEmptyDescription": "Φαίνεται άδειο.  .\nΑς πιάσουμε το κατοικίδιο ζώο σας σε δράση σύντομα!",
+  "lastFed": "Τελευταία φορά"
 }

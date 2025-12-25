@@ -65,7 +65,6 @@
   "addFirstDevice": "Bættu við fyrstu græjunni þinni",
   "addDevice": "Bæta við græju",
   "loadingDeviceList": "Hleð listann yfir græjur...",
-  "lastFed": "Síðasta fóðrun",
   "online": "Á netinu",
   "offline": "Ótengt",
   "smartCatFeeder": "Snjall kattamatsgræja",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Plötur",
   "pageTitleHelpCenterV2": "Hjálpmiðstöð",
   "pageTitleAlarmTone": "Skráðu símtönn",
-  "all": "Allt"
+  "all": "Allt",
+  "noChatsYet": "Engin spjall enn",
+  "startConversationToBegin": "Byrja samræðu til að byrja",
+  "albumEmptyDescription": "Virðist tómt.  .\nVið skulum ná gæludýrinu þínu í aðgerð fljótlega!",
+  "lastFed": "Síðast"
 }

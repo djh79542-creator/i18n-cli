@@ -65,7 +65,6 @@
   "addFirstDevice": "Voeg uw eerste apparaat toe",
   "addDevice": "Apparaat toevoegen",
   "loadingDeviceList": "Apparaatlijst laden...",
-  "lastFed": "Laatste voeding",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Slimme kattenvoeder",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Helpcentrum",
   "pageTitleAlarmTone": "Neem de oproeptoon op",
-  "all": "Alle"
+  "all": "Alle",
+  "noChatsYet": "Nog geen chats",
+  "startConversationToBegin": "Begin een gesprek om te beginnen",
+  "albumEmptyDescription": "Lijkt leeg.  .\nLaten we uw huisdier binnenkort in actie vangen!",
+  "lastFed": "Laatste keer"
 }

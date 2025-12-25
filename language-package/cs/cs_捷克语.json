@@ -65,7 +65,6 @@
   "addFirstDevice": "Přidejte své první zařízení",
   "addDevice": "Přidat zařízení",
   "loadingDeviceList": "Načítání seznamu zařízení...",
-  "lastFed": "Naposledy nakrmeno",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Chytré krmítko pro kočky",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Centrum nápovědy",
   "pageTitleAlarmTone": "Nahrávat hovorový tón",
-  "all": "Všechny"
+  "all": "Všechny",
+  "noChatsYet": "Zatím žádné chaty",
+  "startConversationToBegin": "Začněte konverzaci",
+  "albumEmptyDescription": "Vypadá to prázdně.  .\nPojďme chytit svého mazlíčka v akci brzy!",
+  "lastFed": "Poslední"
 }

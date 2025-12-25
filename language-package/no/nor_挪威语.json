@@ -65,7 +65,6 @@
   "addFirstDevice": "Legg til din første enhet",
   "addDevice": "Legg til enhet",
   "loadingDeviceList": "Laster enhetsliste...",
-  "lastFed": "Sist mating",
   "online": "Online",
   "offline": "Frakoblet",
   "smartCatFeeder": "Smart kattemater",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Hjelp Center",
   "pageTitleAlarmTone": "Skriv opp telefonstonen",
-  "all": "Alle sammen"
+  "all": "Alle sammen",
+  "noChatsYet": "Ingen samtaler ennå.",
+  "startConversationToBegin": "Start en samtale",
+  "albumEmptyDescription": "Ser tom ut. ..\nLet's catch your pet in action soon!",
+  "lastFed": "Sist gang"
 }

@@ -65,7 +65,6 @@
   "addFirstDevice": "Add hozzá az első eszközöd",
   "addDevice": "Eszköz hozzáadása",
   "loadingDeviceList": "Eszközlista betöltése...",
-  "lastFed": "Utolsó etetés",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Intelligens macskaetető egység",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Segítőközpont",
   "pageTitleAlarmTone": "A hívási hang felvétele",
-  "all": "Minden"
+  "all": "Minden",
+  "noChatsYet": "Még nincs csevegés",
+  "startConversationToBegin": "Indítson beszélgetést a kezdéshez",
+  "albumEmptyDescription": "Úgy tűnik, üres.  .\nKapjuk el a háziállatot a akcióban hamarosan!",
+  "lastFed": "Utolsó alkalommal"
 }

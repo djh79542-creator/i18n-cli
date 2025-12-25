@@ -65,7 +65,6 @@
   "addFirstDevice": "最初のデバイスを追加",
   "addDevice": "デバイスを追加",
   "loadingDeviceList": "デバイスリストを読み込み中...",
-  "lastFed": "最終給餌",
   "online": "オンライン",
   "offline": "オフライン",
   "smartCatFeeder": "スマートキャットフィーダー",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "アルバム",
   "pageTitleHelpCenterV2": "ヘルプセンター",
   "pageTitleAlarmTone": "コールトーンを記録する",
-  "all": "すべて"
+  "all": "すべて",
+  "noChatsYet": "まだチャットはありません",
+  "startConversationToBegin": "会話を始める",
+  "albumEmptyDescription": "空に見える ..\nすぐにペットを捕まえましょう！",
+  "lastFed": "最後の回"
 }

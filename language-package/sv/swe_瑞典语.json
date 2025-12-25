@@ -65,7 +65,6 @@
   "addFirstDevice": "Lägg till din första enhet",
   "addDevice": "Lägg till enhet",
   "loadingDeviceList": "Laddar enhetslista...",
-  "lastFed": "Senaste matning",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Smart kattmatare",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Hjälpcenter",
   "pageTitleAlarmTone": "Spela in samtalstonen",
-  "all": "Alla"
+  "all": "Alla",
+  "noChatsYet": "Inga chattar ännu",
+  "startConversationToBegin": "Starta en konversation för att börja",
+  "albumEmptyDescription": "Ser tom ut.  .\nLåt oss fånga ditt husdjur i aktion snart!",
+  "lastFed": "Senaste gången"
 }

@@ -66,7 +66,6 @@
   "addFirstDevice": "添加第一台设备",
   "addDevice": "添加设备",
   "loadingDeviceList": "正在加载设备列表...",
-  "lastFed": "上次喂食",
   "online": "在线",
   "offline": "离线",
   "smartCatFeeder": "智能猫咪喂食器",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "专辑",
   "pageTitleHelpCenterV2": "帮助中心",
   "pageTitleAlarmTone": "记录通话铃声",
-  "all": "全部"
+  "all": "全部",
+  "noChatsYet": "还没有聊天",
+  "startConversationToBegin": "开始对话",
+  "albumEmptyDescription": "看起来空荡荡的。..__新闻__让我们尽快抓住你的宠物！",
+  "lastFed": "上次"
 }

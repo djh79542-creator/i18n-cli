@@ -65,7 +65,6 @@
   "addFirstDevice": "Dodaj swoje pierwsze urządzenie",
   "addDevice": "Dodaj urządzenie",
   "loadingDeviceList": "Ładowanie listy urządzeń...",
-  "lastFed": "Ostatnie karmienie",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Inteligentny automatyczny karmnik dla kotów",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Centrum Pomocy",
   "pageTitleAlarmTone": "Nagraj ton połączenia",
-  "all": "Wszystkie"
+  "all": "Wszystkie",
+  "noChatsYet": "Jeszcze nie ma czatów",
+  "startConversationToBegin": "Rozpocznij rozmowę, aby rozpocząć",
+  "albumEmptyDescription": "Wygląda na puste.  .\nWkrótce złapimy swojego zwierzęcia w akcji!",
+  "lastFed": "Ostatni raz"
 }

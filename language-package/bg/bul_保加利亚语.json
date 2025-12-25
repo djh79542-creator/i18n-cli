@@ -65,7 +65,6 @@
   "addFirstDevice": "Добавете първото си устройство",
   "addDevice": "Добавяне на устройство",
   "loadingDeviceList": "Списъкът с устройства се зарежда...",
-  "lastFed": "Последно хранен",
   "online": "Онлайн",
   "offline": "Офлайн",
   "smartCatFeeder": "Интелигентна хранилка за котки",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Албум",
   "pageTitleHelpCenterV2": "Център за помощ",
   "pageTitleAlarmTone": "Запишете тона на обаждането",
-  "all": "Всички"
+  "all": "Всички",
+  "noChatsYet": "Все още няма чатове",
+  "startConversationToBegin": "Започнете разговор, за да започнете",
+  "albumEmptyDescription": "Изглежда празна.  .\nНека хванем вашия домашен любимец в действие скоро!",
+  "lastFed": "Последен път"
 }

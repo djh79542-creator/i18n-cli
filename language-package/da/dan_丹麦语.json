@@ -65,7 +65,6 @@
   "addFirstDevice": "Tilføj din første enhed",
   "addDevice": "Tilføj enhed",
   "loadingDeviceList": "Indlæser enhedsliste...",
-  "lastFed": "Sidst fodret",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Smart kattefoderautomat",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Hjælpecenter",
   "pageTitleAlarmTone": "Optag opkaldetonen",
-  "all": "Alle"
+  "all": "Alle",
+  "noChatsYet": "Ingen chats endnu",
+  "startConversationToBegin": "Start en samtale for at starte",
+  "albumEmptyDescription": "Det ser tomt ud.  .\nLad os snart fange dit kæledyr i aktion!",
+  "lastFed": "Sidste gang"
 }

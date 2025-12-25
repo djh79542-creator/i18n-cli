@@ -65,7 +65,6 @@
   "addFirstDevice": "Adicione seu primeiro dispositivo",
   "addDevice": "Adicionar dispositivo",
   "loadingDeviceList": "Carregando lista de dispositivos...",
-  "lastFed": "Última alimentação",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Alimentador inteligente de gatos",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Álbum",
   "pageTitleHelpCenterV2": "Centro de Ajuda",
   "pageTitleAlarmTone": "Gravar o tom da chamada",
-  "all": "Todos"
+  "all": "Todos",
+  "noChatsYet": "Ainda não há conversas",
+  "startConversationToBegin": "Iniciar uma conversa para começar",
+  "albumEmptyDescription": "Parece vazio.  .\nVamos pegar seu animal de estimação em ação em breve!",
+  "lastFed": "Última vez"
 }

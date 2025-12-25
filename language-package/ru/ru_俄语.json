@@ -65,7 +65,6 @@
   "addFirstDevice": "Добавьте ваше первое устройство",
   "addDevice": "Добавить устройство",
   "loadingDeviceList": "Загрузка списка устройств...",
-  "lastFed": "Последняя кормёжка",
   "online": "В сети",
   "offline": "Не в сети",
   "smartCatFeeder": "Умная кормушка для кошки",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Альбом",
   "pageTitleHelpCenterV2": "Центр помощи",
   "pageTitleAlarmTone": "Записывайте тон звонка",
-  "all": "Все"
+  "all": "Все",
+  "noChatsYet": "Пока нет чатов",
+  "startConversationToBegin": "Начните разговор, чтобы начать",
+  "albumEmptyDescription": "Похоже пустой.  .\nДавайте поймаем вашего питомца в действии в ближайшее время!",
+  "lastFed": "Последний раз"
 }

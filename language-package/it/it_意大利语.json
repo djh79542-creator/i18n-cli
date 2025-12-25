@@ -65,7 +65,6 @@
   "addFirstDevice": "Aggiungi il tuo primo dispositivo",
   "addDevice": "Aggiungi dispositivo",
   "loadingDeviceList": "Caricamento lista dispositivi...",
-  "lastFed": "Ultimo pasto",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Distributore automatico intelligente per gatti",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Centro di assistenza",
   "pageTitleAlarmTone": "Registrare il tono di chiamata",
-  "all": "Tutti"
+  "all": "Tutti",
+  "noChatsYet": "Nessuna chat ancora",
+  "startConversationToBegin": "Inizia una conversazione per iniziare",
+  "albumEmptyDescription": "Sembra vuoto.  .\nPrendiamo il tuo animale in azione presto!",
+  "lastFed": "Ultima volta"
 }

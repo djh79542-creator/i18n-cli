@@ -65,7 +65,6 @@
   "addFirstDevice": "Lisää ensimmäinen laitteesi",
   "addDevice": "Lisää laite",
   "loadingDeviceList": "Ladataan laiteluetteloa…",
-  "lastFed": "Viimeisin syöttö",
   "online": "Verkossa",
   "offline": "Ei yhteydessä",
   "smartCatFeeder": "Älykäs kissansyöttölaite",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Albumi",
   "pageTitleHelpCenterV2": "Apukeskus",
   "pageTitleAlarmTone": "Nauhoita puhelun ääni",
-  "all": "Kaikki"
+  "all": "Kaikki",
+  "noChatsYet": "Ei vielä chatteja",
+  "startConversationToBegin": "Aloita keskustelu aloittamiseksi",
+  "albumEmptyDescription": "Näyttää tyhjältä.  .\nSaadaan lemmikkisi kiinni toimintaan pian!",
+  "lastFed": "Viimeinen kerta"
 }

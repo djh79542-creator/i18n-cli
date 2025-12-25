@@ -65,7 +65,6 @@
   "addFirstDevice": "첫 번째 기기 추가",
   "addDevice": "기기 추가",
   "loadingDeviceList": "기기 목록을 불러오는 중...",
-  "lastFed": "마지막 급여",
   "online": "온라인",
   "offline": "오프라인",
   "smartCatFeeder": "스마트 고양이 급식기",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "앨범",
   "pageTitleHelpCenterV2": "도움말 센터",
   "pageTitleAlarmTone": "통화 음성을 기록",
-  "all": "모두"
+  "all": "모두",
+  "noChatsYet": "아직 채팅이 없습니다.",
+  "startConversationToBegin": "대화를 시작하기",
+  "albumEmptyDescription": "빈 것처럼 보입니다. .\n곧 애완 동물을 잡아보자!",
+  "lastFed": "마지막으로"
 }

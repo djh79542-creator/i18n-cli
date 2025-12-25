@@ -65,7 +65,6 @@
   "addFirstDevice": "Додайте свій перший пристрій",
   "addDevice": "Додати пристрій",
   "loadingDeviceList": "Завантаження списку пристроїв...",
-  "lastFed": "Остання годування",
   "online": "Онлайн",
   "offline": "Не в мережі",
   "smartCatFeeder": "Розумна годівниця для котів",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Альбом",
   "pageTitleHelpCenterV2": "Центр допомоги",
   "pageTitleAlarmTone": "Запис тону дзвінка",
-  "all": "Всі"
+  "all": "Всі",
+  "noChatsYet": "Поки немає чатів",
+  "startConversationToBegin": "Почніть розмову, щоб почати",
+  "albumEmptyDescription": "Виглядає порожнім.  .\nДавайте швидко поймаємо вашого домашнього тварина в дії!",
+  "lastFed": "Останній раз"
 }

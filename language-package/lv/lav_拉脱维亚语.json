@@ -65,7 +65,6 @@
   "addFirstDevice": "Pievienojiet savu pirmo ierīci",
   "addDevice": "Pievienot ierīci",
   "loadingDeviceList": "Ierīču saraksta ielāde...",
-  "lastFed": "Pēdējā barošana",
   "online": "Tiešsaistē",
   "offline": "Bezsaistē",
   "smartCatFeeder": "Viedā kaķu barotava",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Albums",
   "pageTitleHelpCenterV2": "Palīdzības centrs",
   "pageTitleAlarmTone": "Ierakstīt zvana tonu",
-  "all": "Visas"
+  "all": "Visas",
+  "noChatsYet": "Vēl nav tērzēšanās",
+  "startConversationToBegin": "Sākt sarunu, lai sāktu",
+  "albumEmptyDescription": "Izskatās tukšs.  .\nNoķerēsim savu mājdzīvnieku rīcībā drīz!",
+  "lastFed": "Pēdējo reizi"
 }

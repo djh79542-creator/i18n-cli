@@ -65,7 +65,6 @@
   "addFirstDevice": "Fügen Sie Ihr erstes Gerät hinzu",
   "addDevice": "Gerät hinzufügen",
   "loadingDeviceList": "Geräteliste wird geladen...",
-  "lastFed": "Zuletzt gefüttert",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Intelligenter Katzenfutterautomat",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Hilfezentrum",
   "pageTitleAlarmTone": "Aufzeichnen Sie den Rufton",
-  "all": "Alle"
+  "all": "Alle",
+  "noChatsYet": "Noch keine Chats",
+  "startConversationToBegin": "Starten Sie ein Gespräch, um zu beginnen",
+  "albumEmptyDescription": "Sieht leer aus.  .\nLasst uns dein Haustier bald in Aktion fangen!",
+  "lastFed": "Letztes Mal"
 }

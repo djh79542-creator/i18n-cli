@@ -65,7 +65,6 @@
   "addFirstDevice": "أضف جهازك الأول",
   "addDevice": "إضافة جهاز",
   "loadingDeviceList": "جارٍ تحميل قائمة الأجهزة...",
-  "lastFed": "آخر تغذية",
   "online": "على الانترنت",
   "offline": "غير متصل",
   "smartCatFeeder": "جهاز تغذية القطط الذكي",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "ألبوم",
   "pageTitleHelpCenterV2": "مركز المساعدة",
   "pageTitleAlarmTone": "سجل نغمة المكالمة",
-  "all": "كل"
+  "all": "كل",
+  "noChatsYet": "لا دردشات بعد",
+  "startConversationToBegin": "ابدأ محادثة للبدء",
+  "albumEmptyDescription": "تبدو فارغة  ..\nدعونا نلتقط حيوانك الأليف في العمل قريباً!",
+  "lastFed": "آخر مرة"
 }

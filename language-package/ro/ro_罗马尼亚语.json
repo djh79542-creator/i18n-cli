@@ -65,7 +65,6 @@
   "addFirstDevice": "Adaugă primul tău dispozitiv",
   "addDevice": "Adăugare dispozitiv",
   "loadingDeviceList": "Se încarcă lista dispozitivelor...",
-  "lastFed": "Ultima hrănire",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Dispozitiv inteligent de hrănire pentru pisici",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "query-sort",
   "pageTitleHelpCenterV2": "Centro ajuda",
   "pageTitleAlarmTone": "Grabitel o tono de telefono",
-  "all": "disc"
+  "all": "disc",
+  "noChatsYet": "Či das inker khanči",
+  "startConversationToBegin": "Avil jekh vorba te nachinal",
+  "albumEmptyDescription": "Čačes vuči. ..NEWLINE__Vasles tut o loš pêtisardo strazo!",
+  "lastFed": "Ultime"
 }

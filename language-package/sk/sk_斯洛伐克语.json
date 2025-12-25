@@ -65,7 +65,6 @@
   "addFirstDevice": "Pridajte svoje prvé zariadenie",
   "addDevice": "Pridať zariadenie",
   "loadingDeviceList": "Načítavanie zoznamu zariadení...",
-  "lastFed": "Posledné kŕmenie",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Inteligentná mačacia miska",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Diskusia",
   "pageTitleHelpCenterV2": "Pomocné centrum",
   "pageTitleAlarmTone": "Nahrávať hovorový tón",
-  "all": "Všetky"
+  "all": "Všetky",
+  "noChatsYet": "Zatiaľ žiadne chaty",
+  "startConversationToBegin": "Začnite konverzáciu, aby ste začali",
+  "albumEmptyDescription": "Vyzerá to prázdne.  .\nPoďme chytiť svojho domáceho maznáčika v akcii čoskoro!",
+  "lastFed": "Posledný krát"
 }

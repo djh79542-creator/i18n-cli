@@ -65,7 +65,6 @@
   "addFirstDevice": "Lisa oma esimene seade",
   "addDevice": "Lisa seade",
   "loadingDeviceList": "Seadmete loendi laadimine...",
-  "lastFed": "Viimati söödetu",
   "online": "Võrgus",
   "offline": "Võrgust väljas",
   "smartCatFeeder": "Nutikas kassisöötur",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Abikeskus",
   "pageTitleAlarmTone": "Salvesta kõne toon",
-  "all": "Kõik"
+  "all": "Kõik",
+  "noChatsYet": "Veel ei ole vestlusi",
+  "startConversationToBegin": "Alusta vestlust, et alustada",
+  "albumEmptyDescription": "Tundub tühi.  .\nPüüame oma lemmiklooma kiiresti!",
+  "lastFed": "Viimane kord"
 }

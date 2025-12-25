@@ -65,7 +65,6 @@
   "addFirstDevice": "Pridėkite pirmąjį įrenginį",
   "addDevice": "Pridėti įrenginį",
   "loadingDeviceList": "Įkeliamas įrenginių sąrašas...",
-  "lastFed": "Paskutinį kartą maitinamas",
   "online": "Prisijungę",
   "offline": "Neprisijungus",
   "smartCatFeeder": "Išmanusis kačių tiektuvas",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Albumas",
   "pageTitleHelpCenterV2": "Pagalbos centras",
   "pageTitleAlarmTone": "Įrašyti skambučio toną",
-  "all": "Visi"
+  "all": "Visi",
+  "noChatsYet": "Kol kas jokių pokalbių",
+  "startConversationToBegin": "Pradėti pokalbį pradėti",
+  "albumEmptyDescription": "Atrodo tuščia.  .\nGreitai sugauti savo augintinį!",
+  "lastFed": "Paskutinį kartą"
 }

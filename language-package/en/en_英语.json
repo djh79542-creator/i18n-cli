@@ -67,7 +67,7 @@
   "addFirstDevice": "Add your first device",
   "addDevice": "Add Device",
   "loadingDeviceList": "Loading device list...",
-  "lastFed": "Last fed",
+  "lastFed": "Last time",
   "online": "Online",
   "offline": "Offline",
   "smartCatFeeder": "Smart Cat Feeder",
@@ -913,5 +913,8 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Help Center",
   "pageTitleAlarmTone": "Record the call tone",
-  "all": "All"
+  "all": "All",
+  "noChatsYet": "No chats yet",
+  "startConversationToBegin": "Start a conversation to begin",
+  "albumEmptyDescription": "Looks empty...\nLet's catch your pet in action soon!"
 }

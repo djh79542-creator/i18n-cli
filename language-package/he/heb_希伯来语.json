@@ -65,7 +65,6 @@
   "addFirstDevice": "הוסף את המכשיר הראשון שלך",
   "addDevice": "הוסף מכשיר",
   "loadingDeviceList": "טוען רשימת מכשירים...",
-  "lastFed": "האכלה אחרונה",
   "online": "באינטרנט",
   "offline": "לא מקוון",
   "smartCatFeeder": "מזין חתולים חכם",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "אלבום",
   "pageTitleHelpCenterV2": "מרכז עזרה",
   "pageTitleAlarmTone": "להקליט את צליל השיחה",
-  "all": "כל"
+  "all": "כל",
+  "noChatsYet": "עדיין אין צ'אטים",
+  "startConversationToBegin": "להתחיל שיחה כדי להתחיל",
+  "albumEmptyDescription": "נראה ריק. בואו נתפוס את חיית המחמד שלך בפעולה בקרוב!",
+  "lastFed": "בפעם האחרונה"
 }

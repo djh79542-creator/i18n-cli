@@ -65,7 +65,6 @@
   "addFirstDevice": "İlk cihazını ekle",
   "addDevice": "Cihaz ekle",
   "loadingDeviceList": "Cihaz listesi yükleniyor...",
-  "lastFed": "Son besleme",
   "online": "Çevrimiçi",
   "offline": "Çevrimdışı",
   "smartCatFeeder": "Akıllı Kedi Besleme Ünitesi",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Albüm",
   "pageTitleHelpCenterV2": "Yardım Merkezi",
   "pageTitleAlarmTone": "Çağrı sesini kaydedin",
-  "all": "Tüm"
+  "all": "Tüm",
+  "noChatsYet": "Henüz sohbet yok",
+  "startConversationToBegin": "Başlamak için bir sohbet başlatın",
+  "albumEmptyDescription": "Boş görünüyor.  .\nYakında evcil hayvanınızı harekete geçirelim!",
+  "lastFed": "Son sefer"
 }

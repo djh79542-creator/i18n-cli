@@ -65,7 +65,6 @@
   "addFirstDevice": "Dodaj svojo prvo napravo",
   "addDevice": "Dodaj napravo",
   "loadingDeviceList": "Nalagam seznam naprav...",
-  "lastFed": "Zadnja hranjenja",
   "online": "Na spletu",
   "offline": "Izključeno",
   "smartCatFeeder": "Pametni hranilec za mačke",
@@ -913,5 +912,9 @@
   "pageTitlePetAlbum": "Album",
   "pageTitleHelpCenterV2": "Središče za pomoč",
   "pageTitleAlarmTone": "Snemi ton klica",
-  "all": "Vse"
+  "all": "Vse",
+  "noChatsYet": "Ni še pogovorov.",
+  "startConversationToBegin": "Začni pogovor za začetek",
+  "albumEmptyDescription": "Videti je prazno. .\nUjemimo vašega hišnega ljubljenčka v akciji kmalu!",
+  "lastFed": "Zadnjič"
 }
