@@ -916,5 +916,7 @@
   "noChatsYet": "まだチャットはありません",
   "startConversationToBegin": "会話を始める",
   "albumEmptyDescription": "空に見える ..\nすぐにペットを捕まえましょう！",
-  "lastFed": "最後の回"
+  "lastFed": "最後の回",
+  "chat": "チャット",
+  "me": "私"
 }

@@ -916,5 +916,7 @@
   "noChatsYet": "Jeszcze nie ma czatów",
   "startConversationToBegin": "Rozpocznij rozmowę, aby rozpocząć",
   "albumEmptyDescription": "Wygląda na puste.  .\nWkrótce złapimy swojego zwierzęcia w akcji!",
-  "lastFed": "Ostatni raz"
+  "lastFed": "Ostatni raz",
+  "chat": "Czat",
+  "me": "mnie"
 }

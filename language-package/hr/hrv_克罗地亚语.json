@@ -916,5 +916,7 @@
   "noChatsYet": "Još nema chatova",
   "startConversationToBegin": "Počnite razgovor za početak",
   "albumEmptyDescription": "Izgleda prazno.  .\nUhvatimo vašeg ljubimca u akciji uskoro!",
-  "lastFed": "Posljednji put"
+  "lastFed": "Posljednji put",
+  "chat": "Razgovor",
+  "me": "za mene"
 }

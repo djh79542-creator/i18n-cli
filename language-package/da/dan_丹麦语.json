@@ -916,5 +916,7 @@
   "noChatsYet": "Ingen chats endnu",
   "startConversationToBegin": "Start en samtale for at starte",
   "albumEmptyDescription": "Det ser tomt ud.  .\nLad os snart fange dit kæledyr i aktion!",
-  "lastFed": "Sidste gang"
+  "lastFed": "Sidste gang",
+  "chat": "chat",
+  "me": "mig"
 }

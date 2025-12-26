@@ -916,5 +916,7 @@
   "noChatsYet": "Veel ei ole vestlusi",
   "startConversationToBegin": "Alusta vestlust, et alustada",
   "albumEmptyDescription": "Tundub tühi.  .\nPüüame oma lemmiklooma kiiresti!",
-  "lastFed": "Viimane kord"
+  "lastFed": "Viimane kord",
+  "chat": "Vestlus",
+  "me": "mina"
 }

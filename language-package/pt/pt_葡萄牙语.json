@@ -916,5 +916,7 @@
   "noChatsYet": "Ainda não há conversas",
   "startConversationToBegin": "Iniciar uma conversa para começar",
   "albumEmptyDescription": "Parece vazio.  .\nVamos pegar seu animal de estimação em ação em breve!",
-  "lastFed": "Última vez"
+  "lastFed": "Última vez",
+  "chat": "Conversa",
+  "me": "eu"
 }

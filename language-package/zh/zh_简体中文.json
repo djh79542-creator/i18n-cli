@@ -916,5 +916,7 @@
   "noChatsYet": "还没有聊天",
   "startConversationToBegin": "开始对话",
   "albumEmptyDescription": "看起来空荡荡的。..__新闻__让我们尽快抓住你的宠物！",
-  "lastFed": "上次"
+  "lastFed": "上次",
+  "chat": "聊天",
+  "me": "我"
 }

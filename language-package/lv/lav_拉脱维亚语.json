@@ -916,5 +916,7 @@
   "noChatsYet": "Vēl nav tērzēšanās",
   "startConversationToBegin": "Sākt sarunu, lai sāktu",
   "albumEmptyDescription": "Izskatās tukšs.  .\nNoķerēsim savu mājdzīvnieku rīcībā drīz!",
-  "lastFed": "Pēdējo reizi"
+  "lastFed": "Pēdējo reizi",
+  "chat": "Čats",
+  "me": "man"
 }

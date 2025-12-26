@@ -916,5 +916,7 @@
   "noChatsYet": "Engin spjall enn",
   "startConversationToBegin": "Byrja samræðu til að byrja",
   "albumEmptyDescription": "Virðist tómt.  .\nVið skulum ná gæludýrinu þínu í aðgerð fljótlega!",
-  "lastFed": "Síðast"
+  "lastFed": "Síðast",
+  "chat": "Spjall",
+  "me": "mig"
 }

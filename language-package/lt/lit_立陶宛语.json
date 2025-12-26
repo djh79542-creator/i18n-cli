@@ -916,5 +916,7 @@
   "noChatsYet": "Kol kas jokių pokalbių",
   "startConversationToBegin": "Pradėti pokalbį pradėti",
   "albumEmptyDescription": "Atrodo tuščia.  .\nGreitai sugauti savo augintinį!",
-  "lastFed": "Paskutinį kartą"
+  "lastFed": "Paskutinį kartą",
+  "chat": "Pokalbiai",
+  "me": "man"
 }

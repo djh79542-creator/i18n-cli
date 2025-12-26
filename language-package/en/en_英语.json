@@ -916,5 +916,7 @@
   "all": "All",
   "noChatsYet": "No chats yet",
   "startConversationToBegin": "Start a conversation to begin",
-  "albumEmptyDescription": "Looks empty...\nLet's catch your pet in action soon!"
+  "albumEmptyDescription": "Looks empty...\nLet's catch your pet in action soon!",
+  "chat": "Chat",
+  "me": "me"
 }

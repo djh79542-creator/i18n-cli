@@ -916,5 +916,7 @@
   "noChatsYet": "עדיין אין צ'אטים",
   "startConversationToBegin": "להתחיל שיחה כדי להתחיל",
   "albumEmptyDescription": "נראה ריק. בואו נתפוס את חיית המחמד שלך בפעולה בקרוב!",
-  "lastFed": "בפעם האחרונה"
+  "lastFed": "בפעם האחרונה",
+  "chat": "צ'אט",
+  "me": "אני"
 }

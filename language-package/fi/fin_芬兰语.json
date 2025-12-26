@@ -916,5 +916,7 @@
   "noChatsYet": "Ei vielä chatteja",
   "startConversationToBegin": "Aloita keskustelu aloittamiseksi",
   "albumEmptyDescription": "Näyttää tyhjältä.  .\nSaadaan lemmikkisi kiinni toimintaan pian!",
-  "lastFed": "Viimeinen kerta"
+  "lastFed": "Viimeinen kerta",
+  "chat": "Keskustelu",
+  "me": "minä"
 }

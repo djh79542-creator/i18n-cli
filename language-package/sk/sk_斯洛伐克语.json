@@ -916,5 +916,7 @@
   "noChatsYet": "Zatiaľ žiadne chaty",
   "startConversationToBegin": "Začnite konverzáciu, aby ste začali",
   "albumEmptyDescription": "Vyzerá to prázdne.  .\nPoďme chytiť svojho domáceho maznáčika v akcii čoskoro!",
-  "lastFed": "Posledný krát"
+  "lastFed": "Posledný krát",
+  "chat": "Chatovanie",
+  "me": "mňa"
 }

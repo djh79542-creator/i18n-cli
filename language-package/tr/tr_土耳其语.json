@@ -916,5 +916,7 @@
   "noChatsYet": "Henüz sohbet yok",
   "startConversationToBegin": "Başlamak için bir sohbet başlatın",
   "albumEmptyDescription": "Boş görünüyor.  .\nYakında evcil hayvanınızı harekete geçirelim!",
-  "lastFed": "Son sefer"
+  "lastFed": "Son sefer",
+  "chat": "Sohbet",
+  "me": "benim"
 }

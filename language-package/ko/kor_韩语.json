@@ -916,5 +916,7 @@
   "noChatsYet": "아직 채팅이 없습니다.",
   "startConversationToBegin": "대화를 시작하기",
   "albumEmptyDescription": "빈 것처럼 보입니다. .\n곧 애완 동물을 잡아보자!",
-  "lastFed": "마지막으로"
+  "lastFed": "마지막으로",
+  "chat": "채팅",
+  "me": "나"
 }

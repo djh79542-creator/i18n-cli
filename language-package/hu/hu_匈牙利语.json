@@ -916,5 +916,7 @@
   "noChatsYet": "Még nincs csevegés",
   "startConversationToBegin": "Indítson beszélgetést a kezdéshez",
   "albumEmptyDescription": "Úgy tűnik, üres.  .\nKapjuk el a háziállatot a akcióban hamarosan!",
-  "lastFed": "Utolsó alkalommal"
+  "lastFed": "Utolsó alkalommal",
+  "chat": "Csevegés",
+  "me": "nekem"
 }

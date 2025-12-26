@@ -916,5 +916,7 @@
   "noChatsYet": "Či das inker khanči",
   "startConversationToBegin": "Avil jekh vorba te nachinal",
   "albumEmptyDescription": "Čačes vuči. ..NEWLINE__Vasles tut o loš pêtisardo strazo!",
-  "lastFed": "Ultime"
+  "lastFed": "Ultime",
+  "chat": "Chat",
+  "me": "Me"
 }

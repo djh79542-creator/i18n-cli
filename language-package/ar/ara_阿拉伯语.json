@@ -916,5 +916,7 @@
   "noChatsYet": "لا دردشات بعد",
   "startConversationToBegin": "ابدأ محادثة للبدء",
   "albumEmptyDescription": "تبدو فارغة  ..\nدعونا نلتقط حيوانك الأليف في العمل قريباً!",
-  "lastFed": "آخر مرة"
+  "lastFed": "آخر مرة",
+  "chat": "دردشة",
+  "me": "أنا"
 }

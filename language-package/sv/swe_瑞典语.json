@@ -916,5 +916,7 @@
   "noChatsYet": "Inga chattar ännu",
   "startConversationToBegin": "Starta en konversation för att börja",
   "albumEmptyDescription": "Ser tom ut.  .\nLåt oss fånga ditt husdjur i aktion snart!",
-  "lastFed": "Senaste gången"
+  "lastFed": "Senaste gången",
+  "chat": "Chatta",
+  "me": "mig"
 }
