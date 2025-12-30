@@ -934,8 +934,6 @@
   "more": "Lisää",
   "deleteThisRecording": "Poistaako tämä nauhoitus?",
   "exit": "lähtö",
-  "Clickthebuttontopreview": "Klikkaa painiketta \\nesikatseluun",
-  "Tapthebuttontostartrecording": "Napauta painiketta \\naloittaa tallennus",
   "qualitySwitching": "vaihtaa laatua. ..",
   "pageTitlePage": "Sivu",
   "resendCodeInSeconds": "Lähetä koodi uudelleen {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Virheellinen koodi. Yritä uudelleen",
   "liveReadingModeOn": "Live-lukutila on käytössä",
   "liveReadingModeOff": "Live-lukutila poistettu käytöstä",
-  "wifiSetupGuideInstructionPT08V": "1.Paina ja pidä ohjauspaneelin \\\"SET\\\" painiketta.  \\n2.Pidä kiinni noin 5 sekuntia, kunnes merkkivalo alkaa vilkkua vihreästi.",
   "selectLanguage2": "Valitse kieli",
   "done": "Valmis",
   "photoIsSaving": "Valokuva säästää. ..",
@@ -966,5 +963,11 @@
   "productType": "Tyyppi",
   "helloMaster": "Terve, Mestari.",
   "wifiSetupGuideInstructionPT08V2": "Pidä kiinni noin 5 sekuntia, kunnes merkkivalo alkaa vilkkua vihreästi.",
-  "selectDeviceModel": "Valitse laitteen malli"
+  "selectDeviceModel": "Valitse laitteen malli",
+  "wifiSetupGuideInstructionPT08V": "1.Paina ja pidä \"SET\" -painiketta ohjauspaneelissa.",
+  "Tapthebuttontostartrecording": "Napauta painiketta \naloittaa tallennus",
+  "Clickthebuttontopreview": "Klikkaa painiketta \n esikatseluun",
+  "networksAvailable": "verkko käytettävissä",
+  "AIgeneration": "AI-sukupolvi",
+  "DeletethisSchedule": "Poistaako tämä aikataulu?"
 }

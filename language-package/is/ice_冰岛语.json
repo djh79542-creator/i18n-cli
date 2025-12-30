@@ -934,8 +934,6 @@
   "more": "Meira",
   "deleteThisRecording": "Eyða þessari upptöku?",
   "exit": "hætta",
-  "Clickthebuttontopreview": "Smelltu á hnappinn til að \\nforsýna",
-  "Tapthebuttontostartrecording": "Smelltu á hnappinn til að \\nbyrja upptöku",
   "qualitySwitching": "Skifta gæði. ..",
   "pageTitlePage": "Síða",
   "resendCodeInSeconds": "Endursenda kóða í {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Ógildur kóður. Vinsamlegast reyndu aftur",
   "liveReadingModeOn": "Live lesa háttur virkt",
   "liveReadingModeOff": "Live lestur háttur óvirkt",
-  "wifiSetupGuideInstructionPT08V": "1.Trylltu og haldið á \\\"SET\\\" hnappinn á stjórnborðinu.  \\n2.Haldið áfram í um 5 sekúndur þar til ljósið byrjar að blinta grænt.",
   "selectLanguage2": "Veldu tungumál",
   "done": "Gerð",
   "photoIsSaving": "Myndin er að spara. ..",
@@ -966,5 +963,11 @@
   "productType": "tegund",
   "helloMaster": "Halló, meistari.",
   "wifiSetupGuideInstructionPT08V2": " .Haltu halda í um 5 sekúndur þar til vísir ljós byrjar að blimpa grænt.",
-  "selectDeviceModel": "Veldu tækjagerð"
+  "selectDeviceModel": "Veldu tækjagerð",
+  "wifiSetupGuideInstructionPT08V": "1.Trylltu og haldið á \"SET\" hnappinn á stýrisstjórninni.",
+  "Tapthebuttontostartrecording": "Smelltu á hnappinn til að \nbyrja upptöku",
+  "Clickthebuttontopreview": "Smelltu á hnappinn til að \n forsýna",
+  "networksAvailable": "net í boði",
+  "AIgeneration": "AI kynslóð",
+  "DeletethisSchedule": "Eyða þessari áætlun?"
 }

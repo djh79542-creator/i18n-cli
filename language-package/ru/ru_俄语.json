@@ -934,8 +934,6 @@
   "more": "Больше",
   "deleteThisRecording": "Удалить запись?",
   "exit": "выход",
-  "Clickthebuttontopreview": "Нажмите кнопку для\\npreview",
-  "Tapthebuttontostartrecording": "Нажмите кнопку, чтобы\\nначать запись",
   "qualitySwitching": "Переключение качества. ..",
   "pageTitlePage": "Страница",
   "resendCodeInSeconds": "Переотправить код в {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Неправильный код. Пожалуйста, попробуйте еще раз",
   "liveReadingModeOn": "Включен режим прямого чтения",
   "liveReadingModeOff": "Режим прямого чтения отключен",
-  "wifiSetupGuideInstructionPT08V": "1.Нажмите и удержите кнопку \\\"SET\\\" на панели управления. \\n2.Продолжайте держать около 5 секунд, пока индикатор не начнет мигать зеленым цветом.",
   "selectLanguage2": "Выберите язык",
   "done": "Выполнено",
   "photoIsSaving": "Фото сохраняет. ..",
@@ -966,5 +963,11 @@
   "productType": "Тип",
   "helloMaster": "Здравствуйте, Мастер.",
   "wifiSetupGuideInstructionPT08V2": "Держите держать около 5 секунд, пока индикатор не начнет мигать зеленым.",
-  "selectDeviceModel": "Выберите модель устройства"
+  "selectDeviceModel": "Выберите модель устройства",
+  "wifiSetupGuideInstructionPT08V": "1.Нажмите и удержите кнопку \"SET\" на панели управления.",
+  "Tapthebuttontostartrecording": "Нажмите кнопку для\nзапуска записи",
+  "Clickthebuttontopreview": "Нажмите кнопку для \n предварительного просмотра",
+  "networksAvailable": "сеть доступна",
+  "AIgeneration": "Генерация ИИ",
+  "DeletethisSchedule": "Удалить этот график?"
 }

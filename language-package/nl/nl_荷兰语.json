@@ -934,8 +934,6 @@
   "more": "Meer",
   "deleteThisRecording": "Deze opname verwijderen?",
   "exit": "uitgang",
-  "Clickthebuttontopreview": "Klik op de knop om\\npreview",
-  "Tapthebuttontostartrecording": "Tik op de knop om\\nopname te starten",
   "qualitySwitching": "Kwaliteit wisselen. ..",
   "pageTitlePage": "Pagina",
   "resendCodeInSeconds": "Code opnieuw verzenden in {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Ongeldige code. Probeer het opnieuw",
   "liveReadingModeOn": "Live leesmodus ingeschakeld",
   "liveReadingModeOff": "Live lezen modus uitgeschakeld",
-  "wifiSetupGuideInstructionPT08V": "1.Druk en houd de knop \\\"SET\\\" op het bedieningspaneel. \\n2.Houd ongeveer 5 seconden vast totdat het indicatorlicht groen begint te knipperen.",
   "selectLanguage2": "Selecteer een taal",
   "done": "Gedaan",
   "photoIsSaving": "Foto's besparen. ..",
@@ -966,5 +963,11 @@
   "productType": "Type",
   "helloMaster": "Hallo, meester.",
   "wifiSetupGuideInstructionPT08V2": " .Houd ongeveer 5 seconden vast totdat het indicatorlicht groen knippert.",
-  "selectDeviceModel": "Selecteer apparaatmodel"
+  "selectDeviceModel": "Selecteer apparaatmodel",
+  "wifiSetupGuideInstructionPT08V": "1.Druk en houd de knop \"SET\" op het bedieningspaneel.",
+  "Tapthebuttontostartrecording": "Tik op de knop om \nopname te starten",
+  "Clickthebuttontopreview": "Klik op de knop om \n preview te bekijken",
+  "networksAvailable": "netwerk beschikbaar",
+  "AIgeneration": "AI generatie",
+  "DeletethisSchedule": "Verwijder deze schema?"
 }

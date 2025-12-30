@@ -934,8 +934,6 @@
   "more": "Vairāk",
   "deleteThisRecording": "Dzēst šo ierakstu?",
   "exit": "izeja",
-  "Clickthebuttontopreview": "Noklikšķiniet uz pogu \\npreview",
-  "Tapthebuttontostartrecording": "Pieskarieties uz pogu, lai \\nsāktu ierakstīšanu",
   "qualitySwitching": "Pārmaiņas kvalitāte. ..",
   "pageTitlePage": "Lappuse",
   "resendCodeInSeconds": "Atsūtīt kodu {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Nederīgs kods. Lūdzu, mēģiniet vēlreiz",
   "liveReadingModeOn": "Live lasīšanas režīms aktivizēts",
   "liveReadingModeOff": "Live lasīšanas režīms ir izslēgts",
-  "wifiSetupGuideInstructionPT08V": "1.Nospiediet un turējiet pogu \\\"SET\\\" vadības panelī.  \\n2.Turiet turēt apmēram 5 sekundes, līdz indikatora gaisma sāk mirgt zaļā.",
   "selectLanguage2": "Izvēlieties valodu",
   "done": "Darīts",
   "photoIsSaving": "Foto ietaupa. ..",
@@ -966,5 +963,11 @@
   "productType": "Tips",
   "helloMaster": "Sveiki, meistars.",
   "wifiSetupGuideInstructionPT08V2": "Turiet turēt apmēram 5 sekundes, līdz indikatora gaisma sāk mirgt zaļā.",
-  "selectDeviceModel": "Izvēlieties ierīces modeli"
+  "selectDeviceModel": "Izvēlieties ierīces modeli",
+  "wifiSetupGuideInstructionPT08V": "1.Nospiediet un turējiet pogu \"SET\" vadības panelī.",
+  "Tapthebuttontostartrecording": "Pieskarieties uz pogu, lai \nsāktu ierakstīšanu",
+  "Clickthebuttontopreview": "Noklikšķiniet uz pogu, lai \n iepriekšskatītu",
+  "networksAvailable": "pieejams tīkls",
+  "AIgeneration": "AI paaugstināšana",
+  "DeletethisSchedule": "Izdzēst šo grafiku?"
 }

@@ -934,8 +934,6 @@
   "more": "Viac informácií",
   "deleteThisRecording": "Vymazať tento záznam?",
   "exit": "výstup",
-  "Clickthebuttontopreview": "Kliknite na tlačidlo \\nnáhľad",
-  "Tapthebuttontostartrecording": "Kliknite na tlačidlo \\nspustiť nahrávanie",
   "qualitySwitching": "Zmena kvality. ..",
   "pageTitlePage": "Stránka",
   "resendCodeInSeconds": "Odoslať kód v {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Neplatný kód. Prosím skúste znova",
   "liveReadingModeOn": "Režim živého čítania povolený",
   "liveReadingModeOff": "Režim živého čítania vypnutý",
-  "wifiSetupGuideInstructionPT08V": "1.Stlačte a podržte tlačidlo \\\"SET\\\" na ovládacom paneli.  \\n2.Držte asi 5 sekúnd, kým indikátor nezačne blikať zelene.",
   "selectLanguage2": "Vyberte si jazyk",
   "done": "Vytvorené",
   "photoIsSaving": "Fotografia je úspora. ..",
@@ -966,5 +963,11 @@
   "productType": "Kľúčové informácie",
   "helloMaster": "Dobrý deň, majster.",
   "wifiSetupGuideInstructionPT08V2": "Držte asi 5 sekúnd, kým indikátor svetlo začne blikať zelene.",
-  "selectDeviceModel": "Vyberte model zariadenia"
+  "selectDeviceModel": "Vyberte model zariadenia",
+  "wifiSetupGuideInstructionPT08V": "1.Stlačte a podržte tlačidlo \"SET\" na ovládacom paneli.",
+  "Tapthebuttontostartrecording": "Kliknite na tlačidlo \nstart nahrávanie",
+  "Clickthebuttontopreview": "Kliknite na tlačidlo pre \n náhľad",
+  "networksAvailable": "dostupná sieť",
+  "AIgeneration": "Generácia AI",
+  "DeletethisSchedule": "Vymazať tento rozvrh?"
 }

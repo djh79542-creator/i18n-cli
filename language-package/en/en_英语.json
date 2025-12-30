@@ -934,8 +934,6 @@
   "more": "More",
   "deleteThisRecording": "Delete this recording?",
   "exit": "exit",
-  "Clickthebuttontopreview": "Click the button to\\npreview",
-  "Tapthebuttontostartrecording": "Tap the button to\\nstart recording",
   "qualitySwitching": "Switching quality...",
   "pageTitlePage": "Page",
   "resendCodeInSeconds": "Resend code in {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Invalid code. Please try again",
   "liveReadingModeOn": "Live reading mode enabled",
   "liveReadingModeOff": "Live reading mode disabled",
-  "wifiSetupGuideInstructionPT08V": "1.Press and hold the \\\"SET\\\" button on the control panel.",
   "selectLanguage2": "Select a Language",
   "done": "Done",
   "photoIsSaving": "Photo is saving...",
@@ -965,6 +962,12 @@
   "productModel": "Model",
   "productType": "Type",
   "helloMaster": "Hello, Master",
-  "wifiSetupGuideInstructionPT08V2": ".Keep holding for about 5 seconds until the indicator light starts flashing green.",
-  "selectDeviceModel": "Select Device Model"
+  "selectDeviceModel": "Select Device Model",
+  "wifiSetupGuideInstructionPT08V": "1.Press and hold the \"SET\" button on the control panel.",
+  "wifiSetupGuideInstructionPT08V2": "2.Keep holding for about 5 seconds until the indicator light starts flashing green.",
+  "Tapthebuttontostartrecording": "Tap the button to\nstart recording",
+  "Clickthebuttontopreview": "Click the button to\n preview",
+  "networksAvailable": "network available",
+  "AIgeneration": "AI generation",
+  "DeletethisSchedule": "Delete this Schedule?"
 }

@@ -924,7 +924,7 @@
   "scheduleAlreadyExists": "スケジュールは既に存在しています",
   "aiGenerating": "生成",
   "aiGenerationStopped": "世代が止まった",
-  "chatGuideSubtitle": "You can tell me like this　こんな感じで言える",
+  "chatGuideSubtitle": "こんな感じで言える",
   "guideCardText4": "ペットに食事を加えてください。",
   "holdToSpeak": "押して話す",
   "setFailed": "セットアップ失敗",
@@ -934,8 +934,6 @@
   "more": "もっと",
   "deleteThisRecording": "この録音を削除?",
   "exit": "出口",
-  "Clickthebuttontopreview": "ボタンをクリックして\\npreview",
-  "Tapthebuttontostartrecording": "ボタンをタップして\\nレコーディングを開始します",
   "qualitySwitching": "品質の変更。..",
   "pageTitlePage": "ページ",
   "resendCodeInSeconds": "コードを再送信する {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "無効なコード再試してください",
   "liveReadingModeOn": "ライブ読み込みモードが有効",
   "liveReadingModeOff": "ライブ読み取りモード無効",
-  "wifiSetupGuideInstructionPT08V": "1.コントロールパネルの \\\"SET\\\" ボタンを押して保持します。 \\n2.指示灯が緑色に指指示灯が指指示灯が指指示灯が緑色に点灯するまで約5秒間保持します。",
   "selectLanguage2": "言語を選択",
   "done": "完成",
   "photoIsSaving": "写真が保存されています。..",
@@ -966,5 +963,11 @@
   "productType": "タイプ",
   "helloMaster": "こんにちは マスター",
   "wifiSetupGuideInstructionPT08V2": "インジケータライトが緑色を指指示し始めるまで約5秒保持します。",
-  "selectDeviceModel": "デバイスモデルを選択"
+  "selectDeviceModel": "デバイスモデルを選択",
+  "wifiSetupGuideInstructionPT08V": "1.コントロールパネルの「SET」ボタンを押しておいてください。",
+  "Tapthebuttontostartrecording": "ボタンをタップして\nレコーディングを開始します",
+  "Clickthebuttontopreview": "ボタンをクリックして\nプレビュー",
+  "networksAvailable": "利用可能なネットワーク",
+  "AIgeneration": "AI生成",
+  "DeletethisSchedule": "このスケジュールを削除？"
 }

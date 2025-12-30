@@ -934,8 +934,6 @@
   "more": "Mer",
   "deleteThisRecording": "Delete this recording?",
   "exit": "exit",
-  "Clickthebuttontopreview": "Klikk på knappen til\\npreview",
-  "Tapthebuttontostartrecording": "Tap knappen til\\nstartregistrering",
   "qualitySwitching": "Switching quality. Hva er det?",
   "pageTitlePage": "Page",
   "resendCodeInSeconds": "Gjenopprette kode i _PLACEHOLDER_1__S",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Ubedragelig kode.  Please try again",
   "liveReadingModeOn": "Levlesingsmodus aktivert",
   "liveReadingModeOff": "Levlesingsmodus disabled",
-  "wifiSetupGuideInstructionPT08V": "Press og hold _PLACEHOLDER_1__SET\\\"knapppå kontrollpanelet. Fortsett å vente i omtrent 5 sekunder til indikatoren begynner å lyse grønt.",
   "selectLanguage2": "Select a Language",
   "done": "Ferdig",
   "photoIsSaving": "Bildet sparer. Hva er det?",
@@ -966,5 +963,11 @@
   "productType": "Type",
   "helloMaster": "Hello, Master",
   "wifiSetupGuideInstructionPT08V2": "Fortsett å vente i omtrent 5 sekunder til indikatoren begynner å lyse grønt.",
-  "selectDeviceModel": "Velg Device Model"
+  "selectDeviceModel": "Velg Device Model",
+  "wifiSetupGuideInstructionPT08V": "Press og hold SET-knappen på kontrollpanelet.",
+  "Tapthebuttontostartrecording": "Slå knappen til\nbegynneå registrere",
+  "Clickthebuttontopreview": "Click the button to\n preview",
+  "networksAvailable": "tilgjengelig nettverk",
+  "AIgeneration": "AI generasjon",
+  "DeletethisSchedule": "Delete this Schedule?"
 }

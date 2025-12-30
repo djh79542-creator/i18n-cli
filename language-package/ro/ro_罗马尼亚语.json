@@ -934,8 +934,6 @@
   "more": "Plus",
   "deleteThisRecording": "Delete this recording",
   "exit": "exit",
-  "Clickthebuttontopreview": "Fracă pe boton pentru\\npreview",
-  "Tapthebuttontostartrecording": "Toncar o boton pentru\\ncumentăregistrere",
   "qualitySwitching": "Šaltelpe kvalitate. ..",
   "pageTitlePage": "Pagina",
   "resendCodeInSeconds": "Torne o còdo în _PLACEHOLDER_1__s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Ungînrde kodo. Jaččas te zumaves mai iek data",
   "liveReadingModeOn": "Modul lecturaţi abilitât",
   "liveReadingModeOff": "Modul lecturaţi deaktivât",
-  "wifiSetupGuideInstructionPT08V": "1.Princar ai phandav la _PLACEHOLDER_1__SET__PLACEHOLDER_2_ boton pe panel kontrole. __PLACEHOLDER",
   "selectLanguage2": "Selekter un lingua",
   "done": "Fatul",
   "photoIsSaving": "O foto si skepime. ..",
@@ -966,5 +963,11 @@
   "productType": "Tipe",
   "helloMaster": "Salute, Gazda",
   "wifiSetupGuideInstructionPT08V2": "Garav tume desh pe panzh sekunduria zhi ke e vediara zhal sar e vediara strefial zeleno.",
-  "selectDeviceModel": "Selezione modelu dispositive"
+  "selectDeviceModel": "Selezione modelu dispositive",
+  "wifiSetupGuideInstructionPT08V": "1.Princar ai phandav o boton \"SET\" pe o panel la kontrole.",
+  "Tapthebuttontostartrecording": "Top o botele al\nstartregistrere",
+  "Clickthebuttontopreview": "Fracă o botele pentru\npreview",
+  "networksAvailable": "Route disponibil",
+  "AIgeneration": "Generalită AI",
+  "DeletethisSchedule": "Dilepe kado plano?"
 }

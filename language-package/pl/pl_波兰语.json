@@ -934,8 +934,6 @@
   "more": "Więcej",
   "deleteThisRecording": "Usunąć nagranie?",
   "exit": "wyjście",
-  "Clickthebuttontopreview": "Kliknij przycisk \\npreview",
-  "Tapthebuttontostartrecording": "Naciśnij przycisk, aby \\nrozpocząć nagrywanie",
   "qualitySwitching": "Zmiana jakości. ..",
   "pageTitlePage": "Strona",
   "resendCodeInSeconds": "Wyślij ponownie kod w {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Nieprawidłowy kod. Proszę spróbować ponownie",
   "liveReadingModeOn": "Włączony tryb odczytu na żywo",
   "liveReadingModeOff": "Tryb czytania na żywo wyłączony",
-  "wifiSetupGuideInstructionPT08V": "1.Naciśnij i przytrzymaj przycisk \\\"SET\\\" na panelu sterowania. \\n2.Utrzymaj przez około 5 sekund, aż światło wskaźnika zacznie migać na zielono.",
   "selectLanguage2": "Wybierz język",
   "done": "Zrobione",
   "photoIsSaving": "Zdjęcie oszczędza. ..",
@@ -966,5 +963,11 @@
   "productType": "Typ",
   "helloMaster": "Cześć, Mistrzu.",
   "wifiSetupGuideInstructionPT08V2": " .Trzymaj przez około 5 sekund, aż światło wskaźnika zacznie migać na zielono.",
-  "selectDeviceModel": "Wybierz model urządzenia"
+  "selectDeviceModel": "Wybierz model urządzenia",
+  "wifiSetupGuideInstructionPT08V": "1.Naciśnij i przytrzymaj przycisk \"SET\" na panelu sterowania.",
+  "Tapthebuttontostartrecording": "Naciśnij przycisk, aby \nrozpocząć nagrywanie",
+  "Clickthebuttontopreview": "Kliknij przycisk do \n podglądu",
+  "networksAvailable": "dostępna sieć",
+  "AIgeneration": "Generacja AI",
+  "DeletethisSchedule": "Usuń ten harmonogram?"
 }

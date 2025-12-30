@@ -934,8 +934,6 @@
   "more": "Plus",
   "deleteThisRecording": "Supprimer cet enregistrement ?",
   "exit": "sortie",
-  "Clickthebuttontopreview": "Cliquez sur le bouton pour\\npreview",
-  "Tapthebuttontostartrecording": "Appuyez sur le bouton pour\\ndémarrer l'enregistrement",
   "qualitySwitching": "changer de qualité. ..",
   "pageTitlePage": "Page",
   "resendCodeInSeconds": "Envoyer le code dans {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Code non valide. Veuillez essayer à nouveau",
   "liveReadingModeOn": "Mode de lecture en direct activé",
   "liveReadingModeOff": "Mode de lecture en direct désactivé",
-  "wifiSetupGuideInstructionPT08V": "1.Appuyez et maintenez le bouton \\\"SET\\\" sur le panneau de commande. \\n2.Maintenez-le pendant environ 5 secondes jusqu'à ce que l'indicateur commence à clignoter en vert.",
   "selectLanguage2": "Sélectionnez une langue",
   "done": "Fait",
   "photoIsSaving": "La photo est sauvegardée. ..",
@@ -966,5 +963,11 @@
   "productType": "Type",
   "helloMaster": "Bonjour, maître.",
   "wifiSetupGuideInstructionPT08V2": "Continuez à tenir pendant environ 5 secondes jusqu'à ce que l'indicateur commence à clignoter en vert.",
-  "selectDeviceModel": "Sélectionner le modèle de périphérique"
+  "selectDeviceModel": "Sélectionner le modèle de périphérique",
+  "wifiSetupGuideInstructionPT08V": "1.Appuyez et maintenez le bouton \"SET\" sur le panneau de commande.",
+  "Tapthebuttontostartrecording": "Appuyez sur le bouton pour\ndémarrer l'enregistrement",
+  "Clickthebuttontopreview": "Cliquez sur le bouton pour prévisualiser\n",
+  "networksAvailable": "réseau disponible",
+  "AIgeneration": "Génération d'IA",
+  "DeletethisSchedule": "Supprimer cet horaire ?"
 }

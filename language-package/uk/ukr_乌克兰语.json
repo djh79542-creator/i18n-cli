@@ -934,8 +934,6 @@
   "more": "Більше",
   "deleteThisRecording": "Видалити цей запис?",
   "exit": "вихід",
-  "Clickthebuttontopreview": "Натисніть кнопку \\npreview",
-  "Tapthebuttontostartrecording": "Натисніть кнопку \\nпочати запис",
   "qualitySwitching": "Зміна якості. ..",
   "pageTitlePage": "Сторінка",
   "resendCodeInSeconds": "Передіслати код в {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Неправильний код. Спробуйте знову",
   "liveReadingModeOn": "Включений режим живого читання",
   "liveReadingModeOff": "Режим живого читання вимкнутий",
-  "wifiSetupGuideInstructionPT08V": "1.Натисніть і тримайте кнопку \\\"SET\\\" на панелі управління.  \\n2.Тримайте тримати близько 5 секунд, поки світло показника не почне мигати зеленою.",
   "selectLanguage2": "Виберіть мову",
   "done": "Виконано",
   "photoIsSaving": "Фото заощаджує. ..",
@@ -966,5 +963,11 @@
   "productType": "Тип",
   "helloMaster": "Привіт, майстер.",
   "wifiSetupGuideInstructionPT08V2": "Продовжуйте тримати близько 5 секунд, поки світло показника не почне мигати зеленою.",
-  "selectDeviceModel": "Виберіть модель пристрою"
+  "selectDeviceModel": "Виберіть модель пристрою",
+  "wifiSetupGuideInstructionPT08V": "1.Натисніть і утримуйте кнопку \"SET\" на панелі управління.",
+  "Tapthebuttontostartrecording": "Натисніть кнопку \nstart запису",
+  "Clickthebuttontopreview": "Натисніть кнопку для перегляду \n",
+  "networksAvailable": "мережа доступна",
+  "AIgeneration": "Генерація штучного інтелекту",
+  "DeletethisSchedule": "Видалити цей розклад?"
 }

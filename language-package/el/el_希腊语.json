@@ -934,8 +934,6 @@
   "more": "Περισσότερα",
   "deleteThisRecording": "Διαγράψτε αυτή την εγγραφή;",
   "exit": "εξόδου",
-  "Clickthebuttontopreview": "Κάντε κλικ στο κουμπί \\npreview",
-  "Tapthebuttontostartrecording": "Πατήστε το κουμπί για να ξεκινήσετε την εγγραφή \\n",
   "qualitySwitching": "Αλλαγή ποιότητας. ..",
   "pageTitlePage": "Σελίδα",
   "resendCodeInSeconds": "Αποστολή κωδικού στο {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Μη έγκυρος κωδικός. Παρακαλώ δοκιμάστε ξανά",
   "liveReadingModeOn": "Ενεργοποιημένη η λειτουργία ζωντανής ανάγνωσης",
   "liveReadingModeOff": "Λειτουργία ζωντανής ανάγνωσης απενεργοποιημένη",
-  "wifiSetupGuideInstructionPT08V": "1.Πατήστε και κρατήστε το κουμπί \\\"SET\\\" στον πίνακα ελέγχου.  \\n2.Κρατήστε κρατημένο για περίπου 5 δευτερόλεπτα μέχρι το φως δείκτη να αρχίσει να αναμπλέπει πράσινο.",
   "selectLanguage2": "Επιλέξτε μια γλώσσα",
   "done": "Έκανε",
   "photoIsSaving": "Η φωτογραφία αποθηκεύει. ..",
@@ -966,5 +963,11 @@
   "productType": "Τύπος",
   "helloMaster": "Γεια σου, Δάσκαλε.",
   "wifiSetupGuideInstructionPT08V2": "Συνεχίστε να κρατάτε για περίπου 5 δευτερόλεπτα μέχρι το φως δείκτη να αρχίσει να αναμπλέπει πράσινο.",
-  "selectDeviceModel": "Επιλέξτε μοντέλο συσκευής"
+  "selectDeviceModel": "Επιλέξτε μοντέλο συσκευής",
+  "wifiSetupGuideInstructionPT08V": "1.Press και κρατήστε το κουμπί \"SET\" στον πίνακα ελέγχου.",
+  "Tapthebuttontostartrecording": "Πατήστε το κουμπί για να\nξεκινήσετε την εγγραφή",
+  "Clickthebuttontopreview": "Κάντε κλικ στο κουμπί για την προεπισκόπηση \n",
+  "networksAvailable": "διαθέσιμο δίκτυο",
+  "AIgeneration": "Η γενιά AI",
+  "DeletethisSchedule": "Διαγράψτε αυτό το πρόγραμμα;"
 }

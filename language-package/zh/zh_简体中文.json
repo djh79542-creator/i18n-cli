@@ -934,8 +934,6 @@
   "more": "更多",
   "deleteThisRecording": "删除此录音？",
   "exit": "退出",
-  "Clickthebuttontopreview": "点击按钮\\n查看",
-  "Tapthebuttontostartrecording": "点击按钮\\n开始录制",
   "qualitySwitching": "切换质量。..",
   "pageTitlePage": "页",
   "resendCodeInSeconds": "在{seconds}s中重新发送代码",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "无效代码。请再试一次",
   "liveReadingModeOn": "启用实时阅读模式",
   "liveReadingModeOff": "实时阅读模式已禁用",
-  "wifiSetupGuideInstructionPT08V": "1.按住控制面板上的\\\"SET_PLACEHOLDER _2__按钮。\\n2.保持约5秒，直到指示灯开始闪烁绿色。",
   "selectLanguage2": "选择语言",
   "done": "完成",
   "photoIsSaving": "照片正在保存。..",
@@ -966,5 +963,11 @@
   "productType": "类型",
   "helloMaster": "你好，主人",
   "wifiSetupGuideInstructionPT08V2": "。保持约5秒，直到指示灯开始闪烁绿色。",
-  "selectDeviceModel": "选择设备型号"
+  "selectDeviceModel": "选择设备型号",
+  "wifiSetupGuideInstructionPT08V": "1.按住控制面板上的“SET”按钮。",
+  "Tapthebuttontostartrecording": "点击按钮\n开始录制",
+  "Clickthebuttontopreview": "点击按钮预览\n",
+  "networksAvailable": "网络可用",
+  "AIgeneration": "人工智能一代",
+  "DeletethisSchedule": "删除此计划？"
 }

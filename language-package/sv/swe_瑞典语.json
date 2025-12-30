@@ -934,8 +934,6 @@
   "more": "Mer",
   "deleteThisRecording": "Ta bort den här inspelningen?",
   "exit": "utgång",
-  "Clickthebuttontopreview": "Klicka på knappen för \\npreview",
-  "Tapthebuttontostartrecording": "Tryck på knappen för att \\nstarta inspelning",
   "qualitySwitching": "Byta kvalitet. ..",
   "pageTitlePage": "Sida",
   "resendCodeInSeconds": "Skicka koden i {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Ogiltig kod. Försök igen",
   "liveReadingModeOn": "Live-läsningsläge aktiverat",
   "liveReadingModeOff": "Live-läsningsläge inaktiverat",
-  "wifiSetupGuideInstructionPT08V": "1.Tryck och håll ner knappen \\\"SET\\\" på kontrollpanelen.  \\n2.Håll i ungefär 5 sekunder tills indikatorljuset börjar blinka grönt.",
   "selectLanguage2": "Välj ett språk",
   "done": "Gört",
   "photoIsSaving": "Bilden sparar. ..",
@@ -966,5 +963,11 @@
   "productType": "Typ",
   "helloMaster": "Hej, mästare.",
   "wifiSetupGuideInstructionPT08V2": "Håll i ungefär 5 sekunder tills indikatorljuset börjar blinka grönt.",
-  "selectDeviceModel": "Välj enhetsmodell"
+  "selectDeviceModel": "Välj enhetsmodell",
+  "wifiSetupGuideInstructionPT08V": "1.Tryck och håll ner knappen \"SET\" på kontrollpanelen.",
+  "Tapthebuttontostartrecording": "Tryck på knappen för att \nstarta inspelning",
+  "Clickthebuttontopreview": "Klicka på knappen för \n förhandsvisning",
+  "networksAvailable": "nätverk tillgängligt",
+  "AIgeneration": "AI-generation",
+  "DeletethisSchedule": "Ta bort detta schema?"
 }

@@ -934,8 +934,6 @@
   "more": "Daugiau",
   "deleteThisRecording": "Ištrinti šį įrašą?",
   "exit": "išėjimas",
-  "Clickthebuttontopreview": "Spustelėkite mygtuką \\npreview",
-  "Tapthebuttontostartrecording": "Paspauskite mygtuką, kad \\npradėtumėte įrašyti",
   "qualitySwitching": "Kokybės keitimas. ..",
   "pageTitlePage": "Puslapis",
   "resendCodeInSeconds": "Perkelti kodą {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Neteisingas kodas. Prašome pabandyti dar kartą",
   "liveReadingModeOn": "Įjungtas gyvojo skaitymo režimas",
   "liveReadingModeOff": "Tiesioginio skaitymo režimas išjungtas",
-  "wifiSetupGuideInstructionPT08V": "1.Paspauskite ir laikykite mygtuką \\\"SET\\\" valdymo skydelyje.  \\n2.Laikykite jį maždaug 5 sekundes, kol indikatorius pradės mirkyti žaliai.",
   "selectLanguage2": "Pasirinkite kalbą",
   "done": "Nustatyta",
   "photoIsSaving": "Nuotrauka taupo. ..",
@@ -966,5 +963,11 @@
   "productType": "Tipas",
   "helloMaster": "Sveiki, mokytojau.",
   "wifiSetupGuideInstructionPT08V2": "Laikykite laikyti apie 5 sekundes, kol indikatoriaus šviesa pradeda mirkyti žaliai.",
-  "selectDeviceModel": "Pasirinkite įrenginio modelį"
+  "selectDeviceModel": "Pasirinkite įrenginio modelį",
+  "wifiSetupGuideInstructionPT08V": "1.Paspauskite ir laikykite mygtuką \"SET\" valdymo skydelyje.",
+  "Tapthebuttontostartrecording": "Paspauskite mygtuką, kad \npradėtumėte įrašyti",
+  "Clickthebuttontopreview": "Spustelėkite mygtuką \n peržiūrėti",
+  "networksAvailable": "tinklas prieinamas",
+  "AIgeneration": "AI kūrimas",
+  "DeletethisSchedule": "Ištrinti šį tvarkaraštį?"
 }

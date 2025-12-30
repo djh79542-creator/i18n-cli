@@ -934,8 +934,6 @@
   "more": "المزيد",
   "deleteThisRecording": "حذف هذا التسجيل؟",
   "exit": "الخروج",
-  "Clickthebuttontopreview": "انقر على الزر ل\\npreview",
-  "Tapthebuttontostartrecording": "اضغط على الزر \\nبدء التسجيل",
   "qualitySwitching": "تغيير الجودة. ..",
   "pageTitlePage": "صفحة",
   "resendCodeInSeconds": "إعادة إرسال الرمز في {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "رمز غير صالح. رجاءً حاول مرة أخرى",
   "liveReadingModeOn": "تمكين وضع القراءة الحية",
   "liveReadingModeOff": "وضع القراءة الحية معطل",
-  "wifiSetupGuideInstructionPT08V": "1. اضغط واضغط على زر \\\"SET\\\" على لوحة التحكم.  \\n2. استمر في الاحتفاظ لمدة حوالي 5 ثوان حتى يبدأ ضوء المؤشر في الومض الأخضر.",
   "selectLanguage2": "اختر لغة",
   "done": "إنتهى",
   "photoIsSaving": "الصورة هي حفظ. ..",
@@ -966,5 +963,11 @@
   "productType": "نوع",
   "helloMaster": "مرحبا يا سيدي",
   "wifiSetupGuideInstructionPT08V2": " . الحفاظ على عقد لمدة حوالي 5 ثوان حتى يبدأ ضوء المؤشر في الومض الأخضر.",
-  "selectDeviceModel": "حدد نموذج الجهاز"
+  "selectDeviceModel": "حدد نموذج الجهاز",
+  "wifiSetupGuideInstructionPT08V": "1. اضغط واضغط على زر \"SET\" على لوحة التحكم.",
+  "Tapthebuttontostartrecording": "اضغط على الزر \nبدء التسجيل",
+  "Clickthebuttontopreview": "انقر على الزر لمعاينة \n",
+  "networksAvailable": "شبكة متاحة",
+  "AIgeneration": "جيل الذكاء الاصطناعي",
+  "DeletethisSchedule": "حذف هذا الجدول؟"
 }

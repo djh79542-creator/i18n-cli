@@ -934,8 +934,6 @@
   "more": "Több",
   "deleteThisRecording": "Törölni ezt a felvételt?",
   "exit": "kilépés",
-  "Clickthebuttontopreview": "Kattintson a gombra \\nelőnézet",
-  "Tapthebuttontostartrecording": "Kattintson a gombra a \\nfelvétel indításához",
   "qualitySwitching": "Váltó minőség. ..",
   "pageTitlePage": "Oldal",
   "resendCodeInSeconds": "Kód újraküldése {seconds}s-ben",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Érvénytelen kód. Kérem próbálja meg újra",
   "liveReadingModeOn": "Élő olvasási mód engedélyezve",
   "liveReadingModeOff": "Élő olvasási mód letiltva",
-  "wifiSetupGuideInstructionPT08V": "1.Nyomja meg és tartsa tartva a \\\"SET\\\" gombot a vezérlőpulton.  \\n2.Tartsa tartva körülbelül 5 másodpercig, amíg a jelzőfény zöldet villog.",
   "selectLanguage2": "Válasszon nyelvet",
   "done": "Kész",
   "photoIsSaving": "A fénykép megtakarítja. ..",
@@ -966,5 +963,11 @@
   "productType": "típus",
   "helloMaster": "Üdvözlöm, Mester!",
   "wifiSetupGuideInstructionPT08V2": " .Tartsa tartva körülbelül 5 másodpercig, amíg a jelző fény zöld villog.",
-  "selectDeviceModel": "Válassza ki az eszközmodellt"
+  "selectDeviceModel": "Válassza ki az eszközmodellt",
+  "wifiSetupGuideInstructionPT08V": "1.Nyomja meg és tartsa tartva a \"SET\" gombot a vezérlőpulton.",
+  "Tapthebuttontostartrecording": "Kattintson a gombra a \nfelvétel indításához",
+  "Clickthebuttontopreview": "Kattintson a gombra a\n előnézetéhez",
+  "networksAvailable": "hálózat rendelkezésre áll",
+  "AIgeneration": "AI generáció",
+  "DeletethisSchedule": "Törölni ezt a menetrendot?"
 }

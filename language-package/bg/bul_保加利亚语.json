@@ -934,8 +934,6 @@
   "more": "Повече",
   "deleteThisRecording": "Изтриване на записа?",
   "exit": "излизане",
-  "Clickthebuttontopreview": "Кликнете върху бутона \\npreview",
-  "Tapthebuttontostartrecording": "Докоснете бутона за\\nстартиране на записа",
   "qualitySwitching": "Смяна на качеството. ..",
   "pageTitlePage": "Страница",
   "resendCodeInSeconds": "Преизпращане на код в {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Невалиден код. Моля опитайте отново",
   "liveReadingModeOn": "Режим на четене на живо включен",
   "liveReadingModeOff": "Режимът на четене на живо е изключен",
-  "wifiSetupGuideInstructionPT08V": "1.Натиснете и задържете бутона \\\"SET\\\" на контролния панел.  \\n2.Дръжте за около 5 секунди, докато индикаторът започне да мига зелено.",
   "selectLanguage2": "Изберете език",
   "done": "Свършено",
   "photoIsSaving": "Снимката спестява. ..",
@@ -966,5 +963,11 @@
   "productType": "Тип",
   "helloMaster": "Здравейте, Учителю.",
   "wifiSetupGuideInstructionPT08V2": "Дръжте за около 5 секунди, докато индикаторът започне да мига зелено.",
-  "selectDeviceModel": "Изберете модел на устройство"
+  "selectDeviceModel": "Изберете модел на устройство",
+  "wifiSetupGuideInstructionPT08V": "1.Натиснете и задържете бутона \"SET\" на контролния панел.",
+  "Tapthebuttontostartrecording": "Докоснете бутона за \nстартиране на записа",
+  "Clickthebuttontopreview": "Кликнете върху бутона за \n предварителен преглед",
+  "networksAvailable": "налична мрежа",
+  "AIgeneration": "Генерация на изкуствен интелект",
+  "DeletethisSchedule": "Изтрийте ли този график?"
 }

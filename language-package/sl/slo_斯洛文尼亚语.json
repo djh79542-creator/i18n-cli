@@ -934,8 +934,6 @@
   "more": "Več",
   "deleteThisRecording": "Izbrišem ta posnetek?",
   "exit": "izstop",
-  "Clickthebuttontopreview": "Kliknite gumb za\\npredogled",
-  "Tapthebuttontostartrecording": "Tapnite gumb za\\nzačetek snemanja",
   "qualitySwitching": "Zamenjava kvalitete. ..",
   "pageTitlePage": "Stran",
   "resendCodeInSeconds": "Ponovno pošlji kodo v {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Neveljavna koda. Prosim, poskusite znova.",
   "liveReadingModeOn": "Omogočen način branja v živo",
   "liveReadingModeOff": "Način branja v živo onemogočen",
-  "wifiSetupGuideInstructionPT08V": "1.Pritisnite in držite gumb \\\"SET\\\" na nadzorni plošči. \\n2.Držite približno 5 sekund, dokler indikatorska luč ne utripa zeleno.",
   "selectLanguage2": "Izberite jezik",
   "done": "Končano",
   "photoIsSaving": "Fotografija shranjuje. ..",
@@ -966,5 +963,11 @@
   "productType": "Vrsta",
   "helloMaster": "Zdravo, gospodar.",
   "wifiSetupGuideInstructionPT08V2": "Držite približno 5 sekund, dokler indikatorska lučka ne utripa zeleno.",
-  "selectDeviceModel": "Izberite model naprave"
+  "selectDeviceModel": "Izberite model naprave",
+  "wifiSetupGuideInstructionPT08V": "1.Pritisnite in držite gumb \"SET\" na nadzorni plošči.",
+  "Tapthebuttontostartrecording": "Tapnite gumb za\nzačetek snemanja",
+  "Clickthebuttontopreview": "Kliknite gumb za\n predogled",
+  "networksAvailable": "omrežje na voljo",
+  "AIgeneration": "Ustvarjanje umetne inteligence",
+  "DeletethisSchedule": "Izbrišem ta urnik?"
 }

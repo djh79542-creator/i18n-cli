@@ -934,8 +934,6 @@
   "more": "Daha fazla",
   "deleteThisRecording": "Bu kaydı silmek mi?",
   "exit": "çıkış",
-  "Clickthebuttontopreview": " \\nönizleme için düğmeye tıklayın",
-  "Tapthebuttontostartrecording": " \\nkayıt başlatmak için düğmeye dokunun",
   "qualitySwitching": "Kaliteyi değiştirin. ..",
   "pageTitlePage": "Sayfa",
   "resendCodeInSeconds": "Kodu {seconds}s'de yeniden gönder",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Geçersiz kod. Lütfen tekrar deneyin.",
   "liveReadingModeOn": "Canlı okuma modu etkinleştirilmiştir",
   "liveReadingModeOff": "Canlı okuma modu devre dışı",
-  "wifiSetupGuideInstructionPT08V": "1. Kontrol panelindeki \\\"SET\\\" düğmesine basın ve tutun.  \\n2.Göstergi ışığı yeşil yanıp sönmeye başlayana kadar yaklaşık 5 saniye tutmayı sürdürün.",
   "selectLanguage2": "Dil Seçin",
   "done": "Yapıldı",
   "photoIsSaving": "Fotoğraf tasarruf ediyor. ..",
@@ -966,5 +963,11 @@
   "productType": "Türü",
   "helloMaster": "Merhaba, Usta.",
   "wifiSetupGuideInstructionPT08V2": " . Gösterge ışığı yeşil yanıp sönmeye başlayana kadar yaklaşık 5 saniye tutmaya devam edin.",
-  "selectDeviceModel": "Cihaz Modelini Seçin"
+  "selectDeviceModel": "Cihaz Modelini Seçin",
+  "wifiSetupGuideInstructionPT08V": "1. Kontrol panelindeki \"SET\" düğmesine basın ve tutun.",
+  "Tapthebuttontostartrecording": " \nkayıt başlatmak için düğmeye dokunun",
+  "Clickthebuttontopreview": " \n önizleme için düğmeye tıklayın",
+  "networksAvailable": "ağ mevcut",
+  "AIgeneration": "AI nesil",
+  "DeletethisSchedule": "Bu programı silmek mi?"
 }

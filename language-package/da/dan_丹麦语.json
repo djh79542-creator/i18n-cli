@@ -934,8 +934,6 @@
   "more": "Mere",
   "deleteThisRecording": "Slette denne optagelse?",
   "exit": "udgang",
-  "Clickthebuttontopreview": "Klik på knappen til\\npreview",
-  "Tapthebuttontostartrecording": "Tryk på knappen til\\nstart optagelse",
   "qualitySwitching": "Skift kvalitet. ..",
   "pageTitlePage": "Side",
   "resendCodeInSeconds": "Gensend kode i {seconds}s",
@@ -944,7 +942,6 @@
   "invalidCodeTryAgain": "Ugyldig kode. Prøv igen",
   "liveReadingModeOn": "Live læsning tilstand aktiveret",
   "liveReadingModeOff": "Live læsningstilstand deaktiveret",
-  "wifiSetupGuideInstructionPT08V": "1.Tryk og hold på knappen \\\"SET\\\" på kontrolpanelet. \\n2.Hold fast i ca. 5 sekunder, indtil indikatorlyset begynder at blinke grønt.",
   "selectLanguage2": "Vælg et sprog",
   "done": "Udført",
   "photoIsSaving": "Billedet sparer. ..",
@@ -966,5 +963,11 @@
   "productType": "Type",
   "helloMaster": "Hej, mester.",
   "wifiSetupGuideInstructionPT08V2": "Hold fast i ca. 5 sekunder, indtil indikatorlyset begynder at blinke grønt.",
-  "selectDeviceModel": "Vælg enhedsmodel"
+  "selectDeviceModel": "Vælg enhedsmodel",
+  "wifiSetupGuideInstructionPT08V": "1.Tryk og hold knappen \"SET\" på kontrolpanelet.",
+  "Tapthebuttontostartrecording": "Tryk på knappen for \nstart optagelse",
+  "Clickthebuttontopreview": "Klik på knappen til \n preview",
+  "networksAvailable": "netværk tilgængeligt",
+  "AIgeneration": "AI-generation",
+  "DeletethisSchedule": "Slette denne tidsplan?"
 }
