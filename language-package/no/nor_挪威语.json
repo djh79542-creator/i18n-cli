@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Velg en enhet å fortsette",
   "productModel": "Model",
   "productType": "Type",
-  "helloMaster": "Hello, Master"
+  "helloMaster": "Hello, Master",
+  "wifiSetupGuideInstructionPT08V2": "Fortsett å vente i omtrent 5 sekunder til indikatoren begynner å lyse grønt.",
+  "selectDeviceModel": "Velg Device Model"
 }

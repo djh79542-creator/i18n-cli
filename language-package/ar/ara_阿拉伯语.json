@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "حدد جهاز لمواصلة",
   "productModel": "نموذج",
   "productType": "نوع",
-  "helloMaster": "مرحبا يا سيدي"
+  "helloMaster": "مرحبا يا سيدي",
+  "wifiSetupGuideInstructionPT08V2": " . الحفاظ على عقد لمدة حوالي 5 ثوان حتى يبدأ ضوء المؤشر في الومض الأخضر.",
+  "selectDeviceModel": "حدد نموذج الجهاز"
 }

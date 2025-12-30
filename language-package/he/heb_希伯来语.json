@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "בחר מכשיר כדי להמשיך",
   "productModel": "מודל",
   "productType": "סוג",
-  "helloMaster": "שלום, מאסטר."
+  "helloMaster": "שלום, מאסטר.",
+  "wifiSetupGuideInstructionPT08V2": "המשיכו להחזיק במשך כ-5 שניות עד שהאור המדגים מתחיל להבהיב ירוק.",
+  "selectDeviceModel": "בחר דגם המכשיר"
 }

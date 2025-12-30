@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Επιλέξτε μια συσκευή για να συνεχίσετε",
   "productModel": "μοντέλο",
   "productType": "Τύπος",
-  "helloMaster": "Γεια σου, Δάσκαλε."
+  "helloMaster": "Γεια σου, Δάσκαλε.",
+  "wifiSetupGuideInstructionPT08V2": "Συνεχίστε να κρατάτε για περίπου 5 δευτερόλεπτα μέχρι το φως δείκτη να αρχίσει να αναμπλέπει πράσινο.",
+  "selectDeviceModel": "Επιλέξτε μοντέλο συσκευής"
 }

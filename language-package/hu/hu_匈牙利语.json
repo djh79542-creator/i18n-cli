@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Válasszon egy eszközt a folytatáshoz",
   "productModel": "modell",
   "productType": "típus",
-  "helloMaster": "Üdvözlöm, Mester!"
+  "helloMaster": "Üdvözlöm, Mester!",
+  "wifiSetupGuideInstructionPT08V2": " .Tartsa tartva körülbelül 5 másodpercig, amíg a jelző fény zöld villog.",
+  "selectDeviceModel": "Válassza ki az eszközmodellt"
 }

@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Izvēlieties ierīci, lai turpinātu",
   "productModel": "modeļs",
   "productType": "Tips",
-  "helloMaster": "Sveiki, meistars."
+  "helloMaster": "Sveiki, meistars.",
+  "wifiSetupGuideInstructionPT08V2": "Turiet turēt apmēram 5 sekundes, līdz indikatora gaisma sāk mirgt zaļā.",
+  "selectDeviceModel": "Izvēlieties ierīces modeli"
 }

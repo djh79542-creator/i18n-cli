@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Izberite napravo za nadaljevanje",
   "productModel": "Vzorec",
   "productType": "Vrsta",
-  "helloMaster": "Zdravo, gospodar."
+  "helloMaster": "Zdravo, gospodar.",
+  "wifiSetupGuideInstructionPT08V2": "Držite približno 5 sekund, dokler indikatorska lučka ne utripa zeleno.",
+  "selectDeviceModel": "Izberite model naprave"
 }

@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Välj en enhet för att fortsätta",
   "productModel": "Modell",
   "productType": "Typ",
-  "helloMaster": "Hej, mästare."
+  "helloMaster": "Hej, mästare.",
+  "wifiSetupGuideInstructionPT08V2": "Håll i ungefär 5 sekunder tills indikatorljuset börjar blinka grönt.",
+  "selectDeviceModel": "Välj enhetsmodell"
 }

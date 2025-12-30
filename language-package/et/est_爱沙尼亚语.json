@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Valige jätkamiseks seade",
   "productModel": "mudel",
   "productType": "Tüüp",
-  "helloMaster": "Tere, meister."
+  "helloMaster": "Tere, meister.",
+  "wifiSetupGuideInstructionPT08V2": "Hoidke seda umbes 5 sekundit, kuni näitaja valgus hakkab vilkuma roheliselt.",
+  "selectDeviceModel": "Vali seadme mudel"
 }

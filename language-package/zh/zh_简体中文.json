@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "选择一个设备以继续",
   "productModel": "模型",
   "productType": "类型",
-  "helloMaster": "你好，大师"
+  "helloMaster": "你好，主人",
+  "wifiSetupGuideInstructionPT08V2": "。保持约5秒，直到指示灯开始闪烁绿色。",
+  "selectDeviceModel": "选择设备型号"
 }

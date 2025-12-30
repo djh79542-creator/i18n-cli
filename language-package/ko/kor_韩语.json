@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "계속하려는 장치를 선택하십시오.",
   "productModel": "모델",
   "productType": "유형",
-  "helloMaster": "안녕하세요, 마스터"
+  "helloMaster": "안녕하세요, 마스터",
+  "wifiSetupGuideInstructionPT08V2": "표시등이 녹색으로 표시될 때까지 약 5 초 동안 유지하십시오.Keep.",
+  "selectDeviceModel": "장치 모델 선택"
 }

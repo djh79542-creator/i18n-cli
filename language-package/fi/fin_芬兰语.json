@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Valitse jatkettava laite",
   "productModel": "malli",
   "productType": "Tyyppi",
-  "helloMaster": "Terve, Mestari."
+  "helloMaster": "Terve, Mestari.",
+  "wifiSetupGuideInstructionPT08V2": "Pidä kiinni noin 5 sekuntia, kunnes merkkivalo alkaa vilkkua vihreästi.",
+  "selectDeviceModel": "Valitse laitteen malli"
 }

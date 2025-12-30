@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Wählen Sie ein Gerät aus, um fortzufahren",
   "productModel": "Modell",
   "productType": "Typ",
-  "helloMaster": "Hallo, Meister."
+  "helloMaster": "Hallo, Meister.",
+  "wifiSetupGuideInstructionPT08V2": "Halten Sie ungefähr 5 Sekunden fest, bis das Anzeigelicht grün blinkt.",
+  "selectDeviceModel": "Gerätemodell auswählen"
 }

@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Vyberte zařízení pro pokračování",
   "productModel": "modelu",
   "productType": "Typ",
-  "helloMaster": "Zdravím, mistře."
+  "helloMaster": "Zdravím, mistře.",
+  "wifiSetupGuideInstructionPT08V2": "Udržujte přibližně 5 sekund, dokud indikátor začne blikat zeleně.",
+  "selectDeviceModel": "Vyberte model zařízení"
 }

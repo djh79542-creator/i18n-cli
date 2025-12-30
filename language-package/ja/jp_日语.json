@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "続けるデバイスを選択",
   "productModel": "モデル",
   "productType": "タイプ",
-  "helloMaster": "こんにちは マスター"
+  "helloMaster": "こんにちは マスター",
+  "wifiSetupGuideInstructionPT08V2": "インジケータライトが緑色を指指示し始めるまで約5秒保持します。",
+  "selectDeviceModel": "デバイスモデルを選択"
 }

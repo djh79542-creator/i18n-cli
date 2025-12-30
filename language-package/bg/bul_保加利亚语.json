@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Изберете устройство, за да продължите",
   "productModel": "модел",
   "productType": "Тип",
-  "helloMaster": "Здравейте, Учителю."
+  "helloMaster": "Здравейте, Учителю.",
+  "wifiSetupGuideInstructionPT08V2": "Дръжте за около 5 секунди, докато индикаторът започне да мига зелено.",
+  "selectDeviceModel": "Изберете модел на устройство"
 }

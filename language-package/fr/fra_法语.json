@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Sélectionnez un appareil pour continuer",
   "productModel": "Modèle",
   "productType": "Type",
-  "helloMaster": "Bonjour, maître."
+  "helloMaster": "Bonjour, maître.",
+  "wifiSetupGuideInstructionPT08V2": "Continuez à tenir pendant environ 5 secondes jusqu'à ce que l'indicateur commence à clignoter en vert.",
+  "selectDeviceModel": "Sélectionner le modèle de périphérique"
 }

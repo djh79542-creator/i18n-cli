@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Odaberite uređaj za nastavak",
   "productModel": "Proizvodnja",
   "productType": "Vrsta",
-  "helloMaster": "Zdravo, učitelju."
+  "helloMaster": "Zdravo, učitelju.",
+  "wifiSetupGuideInstructionPT08V2": "Držite oko 5 sekundi dok svjetlo pokazatelja ne počne treperiti zeleno.",
+  "selectDeviceModel": "Odaberite model uređaja"
 }

@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Vyberte zariadenie na pokračovanie",
   "productModel": "Príslušenstvo",
   "productType": "Kľúčové informácie",
-  "helloMaster": "Dobrý deň, majster."
+  "helloMaster": "Dobrý deň, majster.",
+  "wifiSetupGuideInstructionPT08V2": "Držte asi 5 sekúnd, kým indikátor svetlo začne blikať zelene.",
+  "selectDeviceModel": "Vyberte model zariadenia"
 }

@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Devam etmek için bir cihaz seçin",
   "productModel": "Model",
   "productType": "Türü",
-  "helloMaster": "Merhaba, Usta."
+  "helloMaster": "Merhaba, Usta.",
+  "wifiSetupGuideInstructionPT08V2": " . Gösterge ışığı yeşil yanıp sönmeye başlayana kadar yaklaşık 5 saniye tutmaya devam edin.",
+  "selectDeviceModel": "Cihaz Modelini Seçin"
 }

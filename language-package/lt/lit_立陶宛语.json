@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Pasirinkite įrenginį tęsti",
   "productModel": "Modelis",
   "productType": "Tipas",
-  "helloMaster": "Sveiki, mokytojau."
+  "helloMaster": "Sveiki, mokytojau.",
+  "wifiSetupGuideInstructionPT08V2": "Laikykite laikyti apie 5 sekundes, kol indikatoriaus šviesa pradeda mirkyti žaliai.",
+  "selectDeviceModel": "Pasirinkite įrenginio modelį"
 }

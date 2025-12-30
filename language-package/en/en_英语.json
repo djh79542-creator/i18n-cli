@@ -565,7 +565,7 @@
   "welcome": "Welcome",
   "welcomeBack": "Welcome Back",
   "createAccount": "Create Account",
-  "signInToContinue": "Sign in to continue",
+  "signInToContinue": "Choose a way to sign in or sign up",
   "phoneNumber": "Phone Number",
   "emailAddress": "Email Address",
   "personalAIPetButler": "Your personal AI Pet Butler for feeding, health, and companionship.",
@@ -899,8 +899,8 @@
   "qrConfigGuideStep1": "1.  Aim the QR code at the device camera.",
   "qrConfigGuideStep2": "2. Make sure the green light is blinking and keep 15-25 cm distance.",
   "qrConfigGuideStep3": "3. Wait for scanning to complete, about 15-25 seconds",
-  "signUpWithEmail": "Sign up with email",
-  "orSignUpWith": "Or sign up with",
+  "signUpWithEmail": "Continue with email",
+  "orSignUpWith": "Or",
   "exitQRCodeConfigCancel": "Cancel",
   "exitQRCodeConfigExit": "Exit",
   "pageTitleWifiSetupGuide": "Add New Device",
@@ -944,7 +944,7 @@
   "invalidCodeTryAgain": "Invalid code. Please try again",
   "liveReadingModeOn": "Live reading mode enabled",
   "liveReadingModeOff": "Live reading mode disabled",
-  "wifiSetupGuideInstructionPT08V": "1.Press and hold the \\\"SET\\\" button on the control panel.\\n2.Keep holding for about 5 seconds until the indicator light starts flashing green.",
+  "wifiSetupGuideInstructionPT08V": "1.Press and hold the \\\"SET\\\" button on the control panel.",
   "selectLanguage2": "Select a Language",
   "done": "Done",
   "photoIsSaving": "Photo is saving...",
@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Select a device to continue",
   "productModel": "Model",
   "productType": "Type",
-  "helloMaster": "Hello, Master"
+  "helloMaster": "Hello, Master",
+  "wifiSetupGuideInstructionPT08V2": ".Keep holding for about 5 seconds until the indicator light starts flashing green.",
+  "selectDeviceModel": "Select Device Model"
 }

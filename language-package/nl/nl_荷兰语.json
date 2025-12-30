@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Selecteer een apparaat om verder te gaan",
   "productModel": "Model",
   "productType": "Type",
-  "helloMaster": "Hallo, meester."
+  "helloMaster": "Hallo, meester.",
+  "wifiSetupGuideInstructionPT08V2": " .Houd ongeveer 5 seconden vast totdat het indicatorlicht groen knippert.",
+  "selectDeviceModel": "Selecteer apparaatmodel"
 }

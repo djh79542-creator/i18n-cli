@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Selecione um dispositivo para continuar",
   "productModel": "Modelo",
   "productType": "Tipo",
-  "helloMaster": "Olá, Mestre."
+  "helloMaster": "Olá, Mestre.",
+  "wifiSetupGuideInstructionPT08V2": "Continue segurando por cerca de 5 segundos até que a luz do indicador comece a piscar verde.",
+  "selectDeviceModel": "Selecionar modelo de dispositivo"
 }

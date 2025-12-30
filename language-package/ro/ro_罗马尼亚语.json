@@ -964,5 +964,7 @@
   "selectDeviceToContinue": "Selekter un dispositiv pentru siguire",
   "productModel": "Model",
   "productType": "Tipe",
-  "helloMaster": "Salute, Gazda"
+  "helloMaster": "Salute, Gazda",
+  "wifiSetupGuideInstructionPT08V2": "Garav tume desh pe panzh sekunduria zhi ke e vediara zhal sar e vediara strefial zeleno.",
+  "selectDeviceModel": "Selezione modelu dispositive"
 }
