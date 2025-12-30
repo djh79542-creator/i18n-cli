@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Gardez l'appareil allumé et à proximité",
   "waitForDiscovery": "Essayez de réinitialiser l'appareil",
   "notificationList": "Liste des notifications",
-  "allRead": "Tout marquer comme lu",
+  "allRead": "Lu",
   "noMoreNotification": "Plus de notifications",
   "alarmEventDefault": "Événement",
   "alarmEventPIRAlarm": "Traîner",

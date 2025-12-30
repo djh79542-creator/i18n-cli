@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Mantén el dispositivo encendido y cerca",
   "waitForDiscovery": "Intenta reiniciar el dispositivo",
   "notificationList": "Lista de notificaciones",
-  "allRead": "Marcar todo como leído",
+  "allRead": "Leído",
   "noMoreNotification": "No hay más notificaciones",
   "alarmEventDefault": "Evento",
   "alarmEventPIRAlarm": "Merodear",

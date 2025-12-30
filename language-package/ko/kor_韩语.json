@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "장치를 켜고 가까이 두세요",
   "waitForDiscovery": "장치를 재설정해 보세요",
   "notificationList": "알림 목록",
-  "allRead": "모두 읽음으로 표시",
+  "allRead": "읽음",
   "noMoreNotification": "더 이상 알림이 없습니다",
   "alarmEventDefault": "이벤트",
   "alarmEventPIRAlarm": "배회",

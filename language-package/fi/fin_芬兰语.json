@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Pidä laite päällä ja lähellä",
   "waitForDiscovery": "Yritä nollata laite",
   "notificationList": "Ilmoituslista",
-  "allRead": "Merkitse kaikki luetuiksi",
+  "allRead": "Luettu",
   "noMoreNotification": "Ei enempää ilmoituksia",
   "alarmEventDefault": "Tapahtuma",
   "alarmEventPIRAlarm": "Loitteleminen",

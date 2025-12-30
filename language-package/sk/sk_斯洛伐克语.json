@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Nechajte zariadenie zapnuté a blízko",
   "waitForDiscovery": "Skúste zariadenie resetovať",
   "notificationList": "Zoznam upozornení",
-  "allRead": "Označiť všetko ako prečítané",
+  "allRead": "Prečítané",
   "noMoreNotification": "Žiadne ďalšie upozornenia",
   "alarmEventDefault": "Udalosť",
   "alarmEventPIRAlarm": "Povalovať sa",

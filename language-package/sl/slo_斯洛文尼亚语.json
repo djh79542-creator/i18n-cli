@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Napravo imejte vklopljeno in blizu",
   "waitForDiscovery": "Poskusite ponastaviti napravo",
   "notificationList": "Seznam obvestil",
-  "allRead": "Označi vse kot prebrano",
+  "allRead": "Prebrano",
   "noMoreNotification": "Ni več obvestil",
   "alarmEventDefault": "Dogodek",
   "alarmEventPIRAlarm": "Lenenje",

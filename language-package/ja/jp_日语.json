@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "デバイスをオンにして近くに置いてください",
   "waitForDiscovery": "デバイスをリセットしてみてください",
   "notificationList": "通知リスト",
-  "allRead": "すべて既読にする",
+  "allRead": "既読",
   "noMoreNotification": "これ以上通知はありません",
   "alarmEventDefault": "イベント",
   "alarmEventPIRAlarm": "さまよう",

@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Tartsd az eszközt bekapcsolva és közel",
   "waitForDiscovery": "Próbáld meg visszaállítani az eszközt",
   "notificationList": "Értesítések listája",
-  "allRead": "Mindet olvasottként jelöl",
+  "allRead": "Elolvasva",
   "noMoreNotification": "Nincs több értesítés",
   "alarmEventDefault": "Esemény",
   "alarmEventPIRAlarm": "Lógás",

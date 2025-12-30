@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Laikykite įrenginį įjungtą ir šalia",
   "waitForDiscovery": "Pabandykite iš naujo nustatyti įrenginį",
   "notificationList": "Pranešimų sąrašas",
-  "allRead": "Visi Skaityti",
+  "allRead": "Perskaityta",
   "noMoreNotification": "Daugiau jokių pranešimų",
   "alarmEventDefault": "Renginys",
   "alarmEventPIRAlarm": "Loiter",

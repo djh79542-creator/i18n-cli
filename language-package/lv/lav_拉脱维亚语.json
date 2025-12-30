@@ -614,7 +614,7 @@
   "keepDevicePoweredOnAndNearby": "Turiet ierīci ieslēgtu un tuvumā",
   "waitForDiscovery": "Mēģiniet atiestatīt ierīci",
   "notificationList": "Paziņojumu saraksts",
-  "allRead": "Atzīmēt visu kā izlasītu",
+  "allRead": "Izlasīts",
   "noMoreNotification": "Vairs nav paziņojumu",
   "alarmEventDefault": "Notikums",
   "alarmEventPIRAlarm": "Klaiņošana",
