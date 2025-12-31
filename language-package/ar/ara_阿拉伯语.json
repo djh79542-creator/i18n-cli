@@ -798,7 +798,7 @@
   "rebindFailed": "فشلت إعادة الربط",
   "rebindFailedWithReason": "فشلت إعادة الربط: {reason}",
   "scheduledFeeding": "التغذية المجدولة",
-  "tdscheduledFeeding": "تغذية اليوم المجدولة",
+  "tdscheduledFeeding": "خطة اليوم",
   "addSchedule": "إضافة جدول زمني",
   "noScheduledFeeding": "لم يتم تعيين خطة التغذية",
   "noScheduledFeedingTip": "قم بإعداد التغذية المجدولة للحفاظ على تغذية حيوانك الأليف في الوقت المحدد",

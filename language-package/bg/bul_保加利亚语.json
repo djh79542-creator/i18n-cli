@@ -798,7 +798,7 @@
   "rebindFailed": "Неуспешно повторно свързване",
   "rebindFailedWithReason": "Неуспешно повторно свързване: {reason}",
   "scheduledFeeding": "Хранене по график",
-  "tdscheduledFeeding": "Днешно планирано хранене",
+  "tdscheduledFeeding": "План за днес",
   "addSchedule": "Добавяне на график",
   "noScheduledFeeding": "Няма зададен план за хранене",
   "noScheduledFeedingTip": "Настройте хранене по график, за да поддържате домашния си любимец нахранен навреме",

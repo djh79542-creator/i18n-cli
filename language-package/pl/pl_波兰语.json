@@ -798,7 +798,7 @@
   "rebindFailed": "Ponowne połączenie nie powiodło się",
   "rebindFailedWithReason": "Ponowne połączenie nie powiodło się: {reason}",
   "scheduledFeeding": "Zaplanowane karmienie",
-  "tdscheduledFeeding": "Dzisiejsze zaplanowane karmienie",
+  "tdscheduledFeeding": "Plan na dziś",
   "addSchedule": "Dodaj harmonogram",
   "noScheduledFeeding": "Nie ustawiono planu karmienia",
   "noScheduledFeedingTip": "Ustaw zaplanowane karmienie, aby zapewnić swojemu zwierzakowi posiłek o odpowiedniej porze",

@@ -798,7 +798,7 @@
   "rebindFailed": "Opětovné svázání se nezdařilo",
   "rebindFailedWithReason": "Opětovné svázání se nezdařilo: {reason}",
   "scheduledFeeding": "Plánované krmení",
-  "tdscheduledFeeding": "Dnešní plánované krmení",
+  "tdscheduledFeeding": "Plán na dnešek",
   "addSchedule": "Přidejte rozvrh",
   "noScheduledFeeding": "Není stanoven žádný plán krmení",
   "noScheduledFeedingTip": "Nastavte si plánované krmení, aby byl váš mazlíček krmen včas",

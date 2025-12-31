@@ -798,7 +798,7 @@
   "rebindFailed": "再接続に失敗しました",
   "rebindFailedWithReason": "再接続に失敗しました: {reason}",
   "scheduledFeeding": "定期給餌",
-  "tdscheduledFeeding": "今日の定期給餌",
+  "tdscheduledFeeding": "今日の予定",
   "addSchedule": "スケジュールを追加",
   "noScheduledFeeding": "給餌計画が設定されていません",
   "noScheduledFeedingTip": "ペットが時間通りに食べられるように、定期給餌を設定してください",

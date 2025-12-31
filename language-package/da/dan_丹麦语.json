@@ -798,7 +798,7 @@
   "rebindFailed": "Genbinding mislykkedes",
   "rebindFailedWithReason": "Genbinding mislykkedes: {reason}",
   "scheduledFeeding": "Planlagt fodring",
-  "tdscheduledFeeding": "Tdy Planlagt Fodring",
+  "tdscheduledFeeding": "Dagens plan",
   "addSchedule": "Tilføj en tidsplan",
   "noScheduledFeeding": "Der er ikke fastsat foderplan",
   "noScheduledFeedingTip": "Indstil planlagt fodring for at holde dit kæledyr fodret til tiden",

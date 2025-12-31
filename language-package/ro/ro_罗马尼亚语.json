@@ -798,7 +798,7 @@
   "rebindFailed": "Reconectarea a eșuat",
   "rebindFailedWithReason": "Reconectarea a eșuat: {reason}",
   "scheduledFeeding": "Hrănire programată",
-  "tdscheduledFeeding": "Hrănirea programată pentru astăzi",
+  "tdscheduledFeeding": "Planul de azi",
   "addSchedule": "Adaugă program",
   "noScheduledFeeding": "Nu a fost stabilit niciun plan de hrănire",
   "noScheduledFeedingTip": "Configurează hrănirea programată pentru a te asigura că animăluțul tău este hrănit la timpul potrivit",

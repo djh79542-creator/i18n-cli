@@ -798,7 +798,7 @@
   "rebindFailed": "Perrišimas nepavyko",
   "rebindFailedWithReason": "Perrišimas nepavyko: {reason}",
   "scheduledFeeding": "Suplanuotas maitinimas",
-  "tdscheduledFeeding": "Tdy suplanuotas maitinimas",
+  "tdscheduledFeeding": "Šiandienos planas",
   "addSchedule": "Pridėkite tvarkaraštį",
   "noScheduledFeeding": "Nenustatytas maitinimo planas",
   "noScheduledFeedingTip": "Nustatykite suplanuotą šėrimą, kad jūsų augintinis būtų maitinamas laiku",

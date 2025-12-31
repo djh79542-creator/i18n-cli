@@ -798,7 +798,7 @@
   "rebindFailed": "הכריכה מחדש נכשלה",
   "rebindFailedWithReason": "הכריכה מחדש נכשלה: {reason}",
   "scheduledFeeding": "האכלה מתוזמנת",
-  "tdscheduledFeeding": "Tdy האכלה מתוזמנת",
+  "tdscheduledFeeding": "תוכנית להיום",
   "addSchedule": "הוסף לוח זמנים",
   "noScheduledFeeding": "לא נקבעה תוכנית האכלה",
   "noScheduledFeedingTip": "הגדר האכלה מתוזמנת כדי לשמור על חיית המחמד שלך להאכיל בזמן",

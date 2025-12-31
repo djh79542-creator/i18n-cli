@@ -798,7 +798,7 @@
   "rebindFailed": "Pārsavienošana neizdevās",
   "rebindFailedWithReason": "Pārsavienošana neizdevās: {reason}",
   "scheduledFeeding": "Plānotā barošana",
-  "tdscheduledFeeding": "Šodienas plānotā barošana",
+  "tdscheduledFeeding": "Šodienas plāns",
   "addSchedule": "Pievienot grafiku",
   "noScheduledFeeding": "Barošanas plāns nav izveidots",
   "noScheduledFeedingTip": "Lūdzu, izveidojiet plānoto barošanu, lai nodrošinātu, ka jūsu mājdzīvnieks tiek pabarots laikā",

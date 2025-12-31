@@ -798,7 +798,7 @@
   "rebindFailed": "Újrakapcsolódás sikertelen",
   "rebindFailedWithReason": "Újrakapcsolódás sikertelen: {reason}",
   "scheduledFeeding": "Ütemezett etetés",
-  "tdscheduledFeeding": "Mai ütemezett etetés",
+  "tdscheduledFeeding": "Mai terv",
   "addSchedule": "Menetrend hozzáadása",
   "noScheduledFeeding": "Nincs beállítva etetési terv",
   "noScheduledFeedingTip": "Állíts be ütemezett etetést, hogy biztosítsd kedvenced időben történő etetését",

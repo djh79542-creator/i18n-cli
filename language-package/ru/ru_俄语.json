@@ -798,7 +798,7 @@
   "rebindFailed": "Сбой повторного подключения",
   "rebindFailedWithReason": "Сбой повторного подключения: {reason}",
   "scheduledFeeding": "Запланированное кормление",
-  "tdscheduledFeeding": "Запланированное кормление на сегодня",
+  "tdscheduledFeeding": "План на сегодня",
   "addSchedule": "Добавить график",
   "noScheduledFeeding": "План кормления не установлен",
   "noScheduledFeedingTip": "Настройте запланированное кормление, чтобы обеспечить кормление вашего питомца вовремя",

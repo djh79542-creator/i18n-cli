@@ -798,7 +798,7 @@
   "rebindFailed": "Échec de la reconnexion",
   "rebindFailedWithReason": "Échec de la reconnexion : {reason}",
   "scheduledFeeding": "Alimentation programmée",
-  "tdscheduledFeeding": "Alimentation programmée pour aujourd'hui",
+  "tdscheduledFeeding": "Plan du jour",
   "addSchedule": "Ajouter un planning",
   "noScheduledFeeding": "Aucun plan d'alimentation défini",
   "noScheduledFeedingTip": "Configurez l'alimentation programmée pour vous assurer que votre animal de compagnie est nourri à l'heure prévue",

@@ -798,7 +798,7 @@
   "rebindFailed": "Pokušaj ponovnog povezivanja nije uspio",
   "rebindFailedWithReason": "Pokušaj ponovnog povezivanja nije uspio: {reason}",
   "scheduledFeeding": "Planirano hranjenje",
-  "tdscheduledFeeding": "Današnje planirano hranjenje",
+  "tdscheduledFeeding": "Plan za danas",
   "addSchedule": "Dodaj raspored",
   "noScheduledFeeding": "Plan hranjenja nije postavljen",
   "noScheduledFeedingTip": "Postavite planirano hranjenje kako biste osigurali da vaše kućno ljubimce bude hranjeno na vrijeme",

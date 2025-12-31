@@ -798,7 +798,7 @@
   "rebindFailed": "Zlyhalo opätovné pripojenie",
   "rebindFailedWithReason": "Zlyhalo opätovné pripojenie: {reason}",
   "scheduledFeeding": "Plánované kŕmenie",
-  "tdscheduledFeeding": "Dnešné plánované kŕmenie",
+  "tdscheduledFeeding": "Plán na dnes",
   "addSchedule": "Pridať harmonogram",
   "noScheduledFeeding": "Žiadny plán kŕmenia nie je nastavený",
   "noScheduledFeedingTip": "Nastavte plánované kŕmenie, aby ste zabezpečili kŕmenie vášho domáceho miláčika včas",

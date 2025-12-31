@@ -798,7 +798,7 @@
   "rebindFailed": "Falha ao reconectar",
   "rebindFailedWithReason": "Falha ao reconectar: {reason}",
   "scheduledFeeding": "Alimentação programada",
-  "tdscheduledFeeding": "Alimentação programada para hoje",
+  "tdscheduledFeeding": "Plano de hoje",
   "addSchedule": "Adicionar cronograma",
   "noScheduledFeeding": "Nenhum plano de alimentação definido",
   "noScheduledFeedingTip": "Configure a alimentação programada para garantir que seu pet seja alimentado no horário correto",

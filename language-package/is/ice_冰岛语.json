@@ -798,7 +798,7 @@
   "rebindFailed": "Mistókst að endurtengja",
   "rebindFailedWithReason": "Mistókst að endurtengja: {reason}",
   "scheduledFeeding": "Tímaáætlað fóður",
-  "tdscheduledFeeding": "Tímaáætlað fóður fyrir daginn",
+  "tdscheduledFeeding": "Áætlun dagsins",
   "addSchedule": "Bæta við töflu",
   "noScheduledFeeding": "Fóðuráætlun ekki stillt",
   "noScheduledFeedingTip": "Stilltu tímaáætlun fóðrunar til að tryggja að gæludýrið þitt fái mat á réttum tíma",

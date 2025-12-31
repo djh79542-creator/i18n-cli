@@ -798,7 +798,7 @@
   "rebindFailed": "Opnieuw verbinden mislukt",
   "rebindFailedWithReason": "Opnieuw verbinden mislukt: {reason}",
   "scheduledFeeding": "Geplande voeding",
-  "tdscheduledFeeding": "Geplande voeding voor vandaag",
+  "tdscheduledFeeding": "Plan voor vandaag",
   "addSchedule": "Schema toevoegen",
   "noScheduledFeeding": "Voedingsplan niet ingesteld",
   "noScheduledFeedingTip": "Stel een gepland voerschema in om ervoor te zorgen dat uw huisdier op tijd wordt gevoerd",

@@ -798,7 +798,7 @@
   "rebindFailed": "Uudelleen yhdistäminen epäonnistui",
   "rebindFailedWithReason": "Uudelleen yhdistäminen epäonnistui: {reason}",
   "scheduledFeeding": "Aikataulutettu ruokinta",
-  "tdscheduledFeeding": "Päivän aikataulutettu ruokinta",
+  "tdscheduledFeeding": "Tämän päivän suunnitelma",
   "addSchedule": "Lisää aikataulu",
   "noScheduledFeeding": "Ruokintasuunnitelmaa ei ole määritetty",
   "noScheduledFeedingTip": "Määritä aikataulutettu ruokinta varmistaaksesi, että lemmikkisi saa ruokaa oikeaan aikaan",

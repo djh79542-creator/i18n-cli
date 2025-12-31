@@ -798,7 +798,7 @@
   "rebindFailed": "Rebinding failed",
   "rebindFailedWithReason": "Rebinding failed: {reason}",
   "scheduledFeeding": "Scheduled Feeding",
-  "tdscheduledFeeding": "Tdy Scheduled Feeding",
+  "tdscheduledFeeding": "Tänane plaan",
   "addSchedule": "Add a schedule",
   "noScheduledFeeding": "No feeding plan set",
   "noScheduledFeedingTip": "Set up scheduled feeding to keep your pet fed on time",

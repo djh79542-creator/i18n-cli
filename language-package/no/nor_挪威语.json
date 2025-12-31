@@ -798,7 +798,7 @@
   "rebindFailed": "Gjenoppretting av tilkobling mislyktes",
   "rebindFailedWithReason": "Gjenoppretting av tilkobling mislyktes: {reason}",
   "scheduledFeeding": "Planlagt mating",
-  "tdscheduledFeeding": "Planlagt mating for i dag",
+  "tdscheduledFeeding": "Dagens plan",
   "addSchedule": "Legg til plan",
   "noScheduledFeeding": "Ingen matingsplan satt",
   "noScheduledFeedingTip": "Vennligst sett opp planlagt mating for å sikre at kjæledyret ditt blir matet til riktig tid",

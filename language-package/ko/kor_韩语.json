@@ -798,7 +798,7 @@
   "rebindFailed": "재연결 실패",
   "rebindFailedWithReason": "재연결 실패: {reason}",
   "scheduledFeeding": "예약 급식",
-  "tdscheduledFeeding": "오늘의 예약 급식",
+  "tdscheduledFeeding": "오늘의 계획",
   "addSchedule": "일정 추가",
   "noScheduledFeeding": "급식 계획이 설정되지 않았습니다",
   "noScheduledFeedingTip": "반려동물이 제시간에 먹을 수 있도록 예약 급식을 설정하세요",
