@@ -798,7 +798,7 @@
   "rebindFailed": "Yeniden Bağlantı Başarısız",
   "rebindFailedWithReason": "Yeniden Bağlantı Başarısız: {reason}",
   "scheduledFeeding": "Planlı Besleme",
-  "tdscheduledFeeding": "Bugünün Planlı Beslemesi",
+  "tdscheduledFeeding": "Bugünün planı",
   "addSchedule": "Program Ekle",
   "noScheduledFeeding": "Besleme planı ayarlanmadı",
   "noScheduledFeedingTip": "Evcil hayvanınızı zamanında beslemek için planlı beslemeyi ayarlayın",

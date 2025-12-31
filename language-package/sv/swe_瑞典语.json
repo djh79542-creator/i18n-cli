@@ -798,7 +798,7 @@
   "rebindFailed": "Återanslutning misslyckades",
   "rebindFailedWithReason": "Återanslutning misslyckades: {reason}",
   "scheduledFeeding": "Schemalagd matning",
-  "tdscheduledFeeding": "Dagens schemalagda matning",
+  "tdscheduledFeeding": "Dagens plan",
   "addSchedule": "Lägg till schema",
   "noScheduledFeeding": "Matningsplan saknas",
   "noScheduledFeedingTip": "Ställ in schemalagd matning för att säkerställa att ditt husdjur matas i tid",
