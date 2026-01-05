@@ -962,12 +962,12 @@
   "productModel": "Modelis",
   "productType": "Tipas",
   "helloMaster": "Sveiki, mokytojau.",
-  "wifiSetupGuideInstructionPT08V2": "Laikykite laikyti apie 5 sekundes, kol indikatoriaus šviesa pradeda mirkyti žaliai.",
   "selectDeviceModel": "Pasirinkite įrenginio modelį",
   "wifiSetupGuideInstructionPT08V": "1.Paspauskite ir laikykite mygtuką \"SET\" valdymo skydelyje.",
   "Tapthebuttontostartrecording": "Paspauskite mygtuką, kad \npradėtumėte įrašyti",
   "Clickthebuttontopreview": "Spustelėkite mygtuką \n peržiūrėti",
   "networksAvailable": "tinklas prieinamas",
   "AIgeneration": "AI kūrimas",
-  "DeletethisSchedule": "Ištrinti šį tvarkaraštį?"
+  "DeletethisSchedule": "Ištrinti šį tvarkaraštį?",
+  "wifiSetupGuideInstructionPT08V2": "2.Laikykite laikyti apie 5 sekundes, kol indikatoriaus šviesa pradeda mirkyti žaliai."
 }

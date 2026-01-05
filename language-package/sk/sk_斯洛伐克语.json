@@ -962,12 +962,12 @@
   "productModel": "Príslušenstvo",
   "productType": "Kľúčové informácie",
   "helloMaster": "Dobrý deň, majster.",
-  "wifiSetupGuideInstructionPT08V2": "Držte asi 5 sekúnd, kým indikátor svetlo začne blikať zelene.",
   "selectDeviceModel": "Vyberte model zariadenia",
   "wifiSetupGuideInstructionPT08V": "1.Stlačte a podržte tlačidlo \"SET\" na ovládacom paneli.",
   "Tapthebuttontostartrecording": "Kliknite na tlačidlo \nstart nahrávanie",
   "Clickthebuttontopreview": "Kliknite na tlačidlo pre \n náhľad",
   "networksAvailable": "dostupná sieť",
   "AIgeneration": "Generácia AI",
-  "DeletethisSchedule": "Vymazať tento rozvrh?"
+  "DeletethisSchedule": "Vymazať tento rozvrh?",
+  "wifiSetupGuideInstructionPT08V2": "2.Držte asi 5 sekúnd, kým indikátor svetlo začne blikať zelene."
 }

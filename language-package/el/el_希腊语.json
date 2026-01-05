@@ -962,12 +962,12 @@
   "productModel": "μοντέλο",
   "productType": "Τύπος",
   "helloMaster": "Γεια σου, Δάσκαλε.",
-  "wifiSetupGuideInstructionPT08V2": "Συνεχίστε να κρατάτε για περίπου 5 δευτερόλεπτα μέχρι το φως δείκτη να αρχίσει να αναμπλέπει πράσινο.",
   "selectDeviceModel": "Επιλέξτε μοντέλο συσκευής",
   "wifiSetupGuideInstructionPT08V": "1.Press και κρατήστε το κουμπί \"SET\" στον πίνακα ελέγχου.",
   "Tapthebuttontostartrecording": "Πατήστε το κουμπί για να\nξεκινήσετε την εγγραφή",
   "Clickthebuttontopreview": "Κάντε κλικ στο κουμπί για την προεπισκόπηση \n",
   "networksAvailable": "διαθέσιμο δίκτυο",
   "AIgeneration": "Η γενιά AI",
-  "DeletethisSchedule": "Διαγράψτε αυτό το πρόγραμμα;"
+  "DeletethisSchedule": "Διαγράψτε αυτό το πρόγραμμα;",
+  "wifiSetupGuideInstructionPT08V2": "2.Keep κρατώντας για περίπου 5 δευτερόλεπτα μέχρι το φως δείκτη αρχίζει να αναμπλέπει πράσινο."
 }

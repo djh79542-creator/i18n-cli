@@ -962,12 +962,12 @@
   "productModel": "Modell",
   "productType": "Typ",
   "helloMaster": "Hallo, Meister.",
-  "wifiSetupGuideInstructionPT08V2": "Halten Sie ungefähr 5 Sekunden fest, bis das Anzeigelicht grün blinkt.",
   "selectDeviceModel": "Gerätemodell auswählen",
   "wifiSetupGuideInstructionPT08V": "1.Drücken und halten Sie die Taste \"SET\" auf der Bedienfeld.",
   "Tapthebuttontostartrecording": "Tippen Sie auf die Schaltfläche, um \nAufzeichnung zu starten",
   "Clickthebuttontopreview": "Klicken Sie auf die Schaltfläche \n Vorschau",
   "networksAvailable": "Netzwerk verfügbar",
   "AIgeneration": "KI-Generation",
-  "DeletethisSchedule": "Löschen Sie diesen Zeitplan?"
+  "DeletethisSchedule": "Löschen Sie diesen Zeitplan?",
+  "wifiSetupGuideInstructionPT08V2": "2. Halten Sie ungefähr 5 Sekunden fest, bis das Anzeigelicht grün blinkt."
 }

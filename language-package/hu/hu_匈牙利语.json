@@ -962,12 +962,12 @@
   "productModel": "modell",
   "productType": "típus",
   "helloMaster": "Üdvözlöm, Mester!",
-  "wifiSetupGuideInstructionPT08V2": " .Tartsa tartva körülbelül 5 másodpercig, amíg a jelző fény zöld villog.",
   "selectDeviceModel": "Válassza ki az eszközmodellt",
   "wifiSetupGuideInstructionPT08V": "1.Nyomja meg és tartsa tartva a \"SET\" gombot a vezérlőpulton.",
   "Tapthebuttontostartrecording": "Kattintson a gombra a \nfelvétel indításához",
   "Clickthebuttontopreview": "Kattintson a gombra a\n előnézetéhez",
   "networksAvailable": "hálózat rendelkezésre áll",
   "AIgeneration": "AI generáció",
-  "DeletethisSchedule": "Törölni ezt a menetrendot?"
+  "DeletethisSchedule": "Törölni ezt a menetrendot?",
+  "wifiSetupGuideInstructionPT08V2": "2.Tartsa tartva körülbelül 5 másodpercig, amíg a jelzőfény zöld villog."
 }

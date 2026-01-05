@@ -962,12 +962,12 @@
   "productModel": "Vzorec",
   "productType": "Vrsta",
   "helloMaster": "Zdravo, gospodar.",
-  "wifiSetupGuideInstructionPT08V2": "Držite približno 5 sekund, dokler indikatorska lučka ne utripa zeleno.",
   "selectDeviceModel": "Izberite model naprave",
   "wifiSetupGuideInstructionPT08V": "1.Pritisnite in držite gumb \"SET\" na nadzorni plošči.",
   "Tapthebuttontostartrecording": "Tapnite gumb za\nzačetek snemanja",
   "Clickthebuttontopreview": "Kliknite gumb za\n predogled",
   "networksAvailable": "omrežje na voljo",
   "AIgeneration": "Ustvarjanje umetne inteligence",
-  "DeletethisSchedule": "Izbrišem ta urnik?"
+  "DeletethisSchedule": "Izbrišem ta urnik?",
+  "wifiSetupGuideInstructionPT08V2": "2.Držite približno 5 sekund, dokler indikatorska lučka ne utripa zeleno."
 }

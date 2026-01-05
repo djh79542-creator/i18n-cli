@@ -962,12 +962,12 @@
   "productModel": "Model",
   "productType": "Type",
   "helloMaster": "Hallo, meester.",
-  "wifiSetupGuideInstructionPT08V2": " .Houd ongeveer 5 seconden vast totdat het indicatorlicht groen knippert.",
   "selectDeviceModel": "Selecteer apparaatmodel",
   "wifiSetupGuideInstructionPT08V": "1.Druk en houd de knop \"SET\" op het bedieningspaneel.",
   "Tapthebuttontostartrecording": "Tik op de knop om \nopname te starten",
   "Clickthebuttontopreview": "Klik op de knop om \n preview te bekijken",
   "networksAvailable": "netwerk beschikbaar",
   "AIgeneration": "AI generatie",
-  "DeletethisSchedule": "Verwijder deze schema?"
+  "DeletethisSchedule": "Verwijder deze schema?",
+  "wifiSetupGuideInstructionPT08V2": "2.Houd vast voor ongeveer 5 seconden totdat het indicatorlicht groen knippert."
 }

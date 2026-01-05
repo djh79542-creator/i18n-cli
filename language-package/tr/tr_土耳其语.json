@@ -962,12 +962,12 @@
   "productModel": "Model",
   "productType": "Türü",
   "helloMaster": "Merhaba, Usta.",
-  "wifiSetupGuideInstructionPT08V2": " . Gösterge ışığı yeşil yanıp sönmeye başlayana kadar yaklaşık 5 saniye tutmaya devam edin.",
   "selectDeviceModel": "Cihaz Modelini Seçin",
   "wifiSetupGuideInstructionPT08V": "1. Kontrol panelindeki \"SET\" düğmesine basın ve tutun.",
   "Tapthebuttontostartrecording": " \nkayıt başlatmak için düğmeye dokunun",
   "Clickthebuttontopreview": " \n önizleme için düğmeye tıklayın",
   "networksAvailable": "ağ mevcut",
   "AIgeneration": "AI nesil",
-  "DeletethisSchedule": "Bu programı silmek mi?"
+  "DeletethisSchedule": "Bu programı silmek mi?",
+  "wifiSetupGuideInstructionPT08V2": "2. Gösterge ışığı yeşil yanıp sönmeye başlayana kadar yaklaşık 5 saniye tutmaya devam edin."
 }

@@ -962,12 +962,12 @@
   "productModel": "malli",
   "productType": "Tyyppi",
   "helloMaster": "Terve, Mestari.",
-  "wifiSetupGuideInstructionPT08V2": "Pidä kiinni noin 5 sekuntia, kunnes merkkivalo alkaa vilkkua vihreästi.",
   "selectDeviceModel": "Valitse laitteen malli",
   "wifiSetupGuideInstructionPT08V": "1.Paina ja pidä \"SET\" -painiketta ohjauspaneelissa.",
   "Tapthebuttontostartrecording": "Napauta painiketta \naloittaa tallennus",
   "Clickthebuttontopreview": "Klikkaa painiketta \n esikatseluun",
   "networksAvailable": "verkko käytettävissä",
   "AIgeneration": "AI-sukupolvi",
-  "DeletethisSchedule": "Poistaako tämä aikataulu?"
+  "DeletethisSchedule": "Poistaako tämä aikataulu?",
+  "wifiSetupGuideInstructionPT08V2": "2. Pidä kiinni noin 5 sekuntia, kunnes merkkivalo alkaa vilkkua vihreästi."
 }

@@ -962,12 +962,12 @@
   "productModel": "Modell",
   "productType": "Type",
   "helloMaster": "Hej, mester.",
-  "wifiSetupGuideInstructionPT08V2": "Hold fast i ca. 5 sekunder, indtil indikatorlyset begynder at blinke grønt.",
   "selectDeviceModel": "Vælg enhedsmodel",
   "wifiSetupGuideInstructionPT08V": "1.Tryk og hold knappen \"SET\" på kontrolpanelet.",
   "Tapthebuttontostartrecording": "Tryk på knappen for \nstart optagelse",
   "Clickthebuttontopreview": "Klik på knappen til \n preview",
   "networksAvailable": "netværk tilgængeligt",
   "AIgeneration": "AI-generation",
-  "DeletethisSchedule": "Slette denne tidsplan?"
+  "DeletethisSchedule": "Slette denne tidsplan?",
+  "wifiSetupGuideInstructionPT08V2": "2.Hold fast i ca. 5 sekunder, indtil indikatorlyset begynder at blinke grønt."
 }

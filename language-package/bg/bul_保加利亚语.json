@@ -962,12 +962,12 @@
   "productModel": "модел",
   "productType": "Тип",
   "helloMaster": "Здравейте, Учителю.",
-  "wifiSetupGuideInstructionPT08V2": "Дръжте за около 5 секунди, докато индикаторът започне да мига зелено.",
   "selectDeviceModel": "Изберете модел на устройство",
   "wifiSetupGuideInstructionPT08V": "1.Натиснете и задържете бутона \"SET\" на контролния панел.",
   "Tapthebuttontostartrecording": "Докоснете бутона за \nстартиране на записа",
   "Clickthebuttontopreview": "Кликнете върху бутона за \n предварителен преглед",
   "networksAvailable": "налична мрежа",
   "AIgeneration": "Генерация на изкуствен интелект",
-  "DeletethisSchedule": "Изтрийте ли този график?"
+  "DeletethisSchedule": "Изтрийте ли този график?",
+  "wifiSetupGuideInstructionPT08V2": "2.Hold задържане за около 5 секунди, докато индикаторът светлина започва да мига зелено."
 }

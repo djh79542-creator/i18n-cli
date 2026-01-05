@@ -962,12 +962,12 @@
   "productModel": "Model",
   "productType": "Type",
   "helloMaster": "Hello, Master",
-  "wifiSetupGuideInstructionPT08V2": "Fortsett å vente i omtrent 5 sekunder til indikatoren begynner å lyse grønt.",
   "selectDeviceModel": "Velg Device Model",
   "wifiSetupGuideInstructionPT08V": "Press og hold SET-knappen på kontrollpanelet.",
   "Tapthebuttontostartrecording": "Slå knappen til\nbegynneå registrere",
   "Clickthebuttontopreview": "Click the button to\n preview",
   "networksAvailable": "tilgjengelig nettverk",
   "AIgeneration": "AI generasjon",
-  "DeletethisSchedule": "Delete this Schedule?"
+  "DeletethisSchedule": "Delete this Schedule?",
+  "wifiSetupGuideInstructionPT08V2": "2.Fortsett å vente i omtrent 5 sekunder til indikatorlyset begynner å lyse grønt."
 }

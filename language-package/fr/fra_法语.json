@@ -962,12 +962,12 @@
   "productModel": "Modèle",
   "productType": "Type",
   "helloMaster": "Bonjour, maître.",
-  "wifiSetupGuideInstructionPT08V2": "Continuez à tenir pendant environ 5 secondes jusqu'à ce que l'indicateur commence à clignoter en vert.",
   "selectDeviceModel": "Sélectionner le modèle de périphérique",
   "wifiSetupGuideInstructionPT08V": "1.Appuyez et maintenez le bouton \"SET\" sur le panneau de commande.",
   "Tapthebuttontostartrecording": "Appuyez sur le bouton pour\ndémarrer l'enregistrement",
   "Clickthebuttontopreview": "Cliquez sur le bouton pour prévisualiser\n",
   "networksAvailable": "réseau disponible",
   "AIgeneration": "Génération d'IA",
-  "DeletethisSchedule": "Supprimer cet horaire ?"
+  "DeletethisSchedule": "Supprimer cet horaire ?",
+  "wifiSetupGuideInstructionPT08V2": "2.Keep maintenir pendant environ 5 secondes jusqu'à ce que la lumière d'indicateur commence à clignoter vert."
 }

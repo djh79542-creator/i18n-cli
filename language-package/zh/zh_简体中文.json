@@ -962,12 +962,12 @@
   "productModel": "模型",
   "productType": "类型",
   "helloMaster": "你好，主人",
-  "wifiSetupGuideInstructionPT08V2": "。保持约5秒，直到指示灯开始闪烁绿色。",
   "selectDeviceModel": "选择设备型号",
   "wifiSetupGuideInstructionPT08V": "1.按住控制面板上的“SET”按钮。",
   "Tapthebuttontostartrecording": "点击按钮\n开始录制",
   "Clickthebuttontopreview": "点击按钮预览\n",
   "networksAvailable": "网络可用",
   "AIgeneration": "人工智能一代",
-  "DeletethisSchedule": "删除此计划？"
+  "DeletethisSchedule": "删除此计划？",
+  "wifiSetupGuideInstructionPT08V2": "2.保持约5秒，直到指示灯开始闪烁绿色。"
 }

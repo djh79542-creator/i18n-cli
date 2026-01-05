@@ -962,12 +962,12 @@
   "productModel": "Модель",
   "productType": "Тип",
   "helloMaster": "Привіт, майстер.",
-  "wifiSetupGuideInstructionPT08V2": "Продовжуйте тримати близько 5 секунд, поки світло показника не почне мигати зеленою.",
   "selectDeviceModel": "Виберіть модель пристрою",
   "wifiSetupGuideInstructionPT08V": "1.Натисніть і утримуйте кнопку \"SET\" на панелі управління.",
   "Tapthebuttontostartrecording": "Натисніть кнопку \nstart запису",
   "Clickthebuttontopreview": "Натисніть кнопку для перегляду \n",
   "networksAvailable": "мережа доступна",
   "AIgeneration": "Генерація штучного інтелекту",
-  "DeletethisSchedule": "Видалити цей розклад?"
+  "DeletethisSchedule": "Видалити цей розклад?",
+  "wifiSetupGuideInstructionPT08V2": "2. тримайте тримаючи приблизно 5 секунд, поки світло індикатора не почне мигати зеленою."
 }

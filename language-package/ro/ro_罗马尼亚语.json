@@ -962,12 +962,12 @@
   "productModel": "Model",
   "productType": "Tipe",
   "helloMaster": "Salute, Gazda",
-  "wifiSetupGuideInstructionPT08V2": "Garav tume desh pe panzh sekunduria zhi ke e vediara zhal sar e vediara strefial zeleno.",
   "selectDeviceModel": "Selezione modelu dispositive",
   "wifiSetupGuideInstructionPT08V": "1.Princar ai phandav o boton \"SET\" pe o panel la kontrole.",
   "Tapthebuttontostartrecording": "Top o botele al\nstartregistrere",
   "Clickthebuttontopreview": "Fracă o botele pentru\npreview",
   "networksAvailable": "Route disponibil",
   "AIgeneration": "Generalită AI",
-  "DeletethisSchedule": "Dilepe kado plano?"
+  "DeletethisSchedule": "Dilepe kado plano?",
+  "wifiSetupGuideInstructionPT08V2": "2.Beshen dur ke 5 sekunde zhi kai e vediara sikadiol zhal sar e vediara kai si zeleno."
 }

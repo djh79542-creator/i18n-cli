@@ -962,12 +962,12 @@
   "productModel": "mudel",
   "productType": "Tüüp",
   "helloMaster": "Tere, meister.",
-  "wifiSetupGuideInstructionPT08V2": "Hoidke seda umbes 5 sekundit, kuni näitaja valgus hakkab vilkuma roheliselt.",
   "selectDeviceModel": "Vali seadme mudel",
   "wifiSetupGuideInstructionPT08V": "1.Vajuta ja hoidke nuppu \"SET\" juhtpaneeli.",
   "Tapthebuttontostartrecording": "Koputage nuppu \nalustada salvestamist",
   "Clickthebuttontopreview": "Klõpsake nuppu \n eelvaateks",
   "networksAvailable": "võrgu kättesaadav",
   "AIgeneration": "AI generatsioon",
-  "DeletethisSchedule": "Kas kustutada see ajakava?"
+  "DeletethisSchedule": "Kas kustutada see ajakava?",
+  "wifiSetupGuideInstructionPT08V2": "2.Hoidke kinni umbes 5 sekundit, kuni näitaja valgus hakkab vilkuma roheliselt."
 }

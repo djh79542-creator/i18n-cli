@@ -962,12 +962,12 @@
   "productModel": "modeļs",
   "productType": "Tips",
   "helloMaster": "Sveiki, meistars.",
-  "wifiSetupGuideInstructionPT08V2": "Turiet turēt apmēram 5 sekundes, līdz indikatora gaisma sāk mirgt zaļā.",
   "selectDeviceModel": "Izvēlieties ierīces modeli",
   "wifiSetupGuideInstructionPT08V": "1.Nospiediet un turējiet pogu \"SET\" vadības panelī.",
   "Tapthebuttontostartrecording": "Pieskarieties uz pogu, lai \nsāktu ierakstīšanu",
   "Clickthebuttontopreview": "Noklikšķiniet uz pogu, lai \n iepriekšskatītu",
   "networksAvailable": "pieejams tīkls",
   "AIgeneration": "AI paaugstināšana",
-  "DeletethisSchedule": "Izdzēst šo grafiku?"
+  "DeletethisSchedule": "Izdzēst šo grafiku?",
+  "wifiSetupGuideInstructionPT08V2": "2.Turiet turēt apmēram 5 sekundes, līdz indikatora gaisma sāk mirgt zaļā."
 }

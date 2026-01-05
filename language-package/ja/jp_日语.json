@@ -962,12 +962,12 @@
   "productModel": "モデル",
   "productType": "タイプ",
   "helloMaster": "こんにちは マスター",
-  "wifiSetupGuideInstructionPT08V2": "インジケータライトが緑色を指指示し始めるまで約5秒保持します。",
   "selectDeviceModel": "デバイスモデルを選択",
   "wifiSetupGuideInstructionPT08V": "1.コントロールパネルの「SET」ボタンを押しておいてください。",
   "Tapthebuttontostartrecording": "ボタンをタップして\nレコーディングを開始します",
   "Clickthebuttontopreview": "ボタンをクリックして\nプレビュー",
   "networksAvailable": "利用可能なネットワーク",
   "AIgeneration": "AI生成",
-  "DeletethisSchedule": "このスケジュールを削除？"
+  "DeletethisSchedule": "このスケジュールを削除？",
+  "wifiSetupGuideInstructionPT08V2": "インジケータライトが緑色に指指示し始めるまで約5秒間保持してください。"
 }

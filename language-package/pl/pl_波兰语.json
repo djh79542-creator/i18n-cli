@@ -962,12 +962,12 @@
   "productModel": "model",
   "productType": "Typ",
   "helloMaster": "Cześć, Mistrzu.",
-  "wifiSetupGuideInstructionPT08V2": " .Trzymaj przez około 5 sekund, aż światło wskaźnika zacznie migać na zielono.",
   "selectDeviceModel": "Wybierz model urządzenia",
   "wifiSetupGuideInstructionPT08V": "1.Naciśnij i przytrzymaj przycisk \"SET\" na panelu sterowania.",
   "Tapthebuttontostartrecording": "Naciśnij przycisk, aby \nrozpocząć nagrywanie",
   "Clickthebuttontopreview": "Kliknij przycisk do \n podglądu",
   "networksAvailable": "dostępna sieć",
   "AIgeneration": "Generacja AI",
-  "DeletethisSchedule": "Usuń ten harmonogram?"
+  "DeletethisSchedule": "Usuń ten harmonogram?",
+  "wifiSetupGuideInstructionPT08V2": "2. Utrzymaj przez około 5 sekund, aż światło wskaźnika zacznie migać na zielono."
 }

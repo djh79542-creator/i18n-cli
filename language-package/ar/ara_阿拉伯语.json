@@ -962,12 +962,12 @@
   "productModel": "نموذج",
   "productType": "نوع",
   "helloMaster": "مرحبا يا سيدي",
-  "wifiSetupGuideInstructionPT08V2": " . الحفاظ على عقد لمدة حوالي 5 ثوان حتى يبدأ ضوء المؤشر في الومض الأخضر.",
   "selectDeviceModel": "حدد نموذج الجهاز",
   "wifiSetupGuideInstructionPT08V": "1. اضغط واضغط على زر \"SET\" على لوحة التحكم.",
   "Tapthebuttontostartrecording": "اضغط على الزر \nبدء التسجيل",
   "Clickthebuttontopreview": "انقر على الزر لمعاينة \n",
   "networksAvailable": "شبكة متاحة",
   "AIgeneration": "جيل الذكاء الاصطناعي",
-  "DeletethisSchedule": "حذف هذا الجدول؟"
+  "DeletethisSchedule": "حذف هذا الجدول؟",
+  "wifiSetupGuideInstructionPT08V2": "2. الحفاظ على عقد لمدة حوالي 5 ثوان حتى يبدأ ضوء المؤشر في الومض الأخضر."
 }

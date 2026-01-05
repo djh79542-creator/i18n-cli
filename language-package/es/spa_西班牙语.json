@@ -962,12 +962,12 @@
   "productModel": "modelo",
   "productType": "Tipo",
   "helloMaster": "Hola, Maestro.",
-  "wifiSetupGuideInstructionPT08V2": "Mantenga sostenido durante unos 5 segundos hasta que la luz del indicador comience a parpadear verde.",
   "selectDeviceModel": "Seleccionar modelo de dispositivo",
   "wifiSetupGuideInstructionPT08V": "1.Presione y mantenga pulsado el botón \"SET\" en el panel de control.",
   "Tapthebuttontostartrecording": "Toque el botón para \niniciar la grabación",
   "Clickthebuttontopreview": "Haga clic en el botón para \n vista previa",
   "networksAvailable": "red disponible",
   "AIgeneration": "Generación de IA",
-  "DeletethisSchedule": " ¿Eliminar este calendario?"
+  "DeletethisSchedule": " ¿Eliminar este calendario?",
+  "wifiSetupGuideInstructionPT08V2": "2. Mantenga sostenido durante unos 5 segundos hasta que la luz del indicador comience a parpadear verde."
 }

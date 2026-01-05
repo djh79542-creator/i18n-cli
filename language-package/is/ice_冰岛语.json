@@ -962,12 +962,12 @@
   "productModel": "Leiðbeiningar",
   "productType": "tegund",
   "helloMaster": "Halló, meistari.",
-  "wifiSetupGuideInstructionPT08V2": " .Haltu halda í um 5 sekúndur þar til vísir ljós byrjar að blimpa grænt.",
   "selectDeviceModel": "Veldu tækjagerð",
   "wifiSetupGuideInstructionPT08V": "1.Trylltu og haldið á \"SET\" hnappinn á stýrisstjórninni.",
   "Tapthebuttontostartrecording": "Smelltu á hnappinn til að \nbyrja upptöku",
   "Clickthebuttontopreview": "Smelltu á hnappinn til að \n forsýna",
   "networksAvailable": "net í boði",
   "AIgeneration": "AI kynslóð",
-  "DeletethisSchedule": "Eyða þessari áætlun?"
+  "DeletethisSchedule": "Eyða þessari áætlun?",
+  "wifiSetupGuideInstructionPT08V2": "2.Haltu halda í um 5 sekúndur þar til vísir ljós byrjar að blimpa grænt."
 }

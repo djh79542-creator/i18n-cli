@@ -962,12 +962,12 @@
   "productModel": "Modell",
   "productType": "Typ",
   "helloMaster": "Hej, mästare.",
-  "wifiSetupGuideInstructionPT08V2": "Håll i ungefär 5 sekunder tills indikatorljuset börjar blinka grönt.",
   "selectDeviceModel": "Välj enhetsmodell",
   "wifiSetupGuideInstructionPT08V": "1.Tryck och håll ner knappen \"SET\" på kontrollpanelen.",
   "Tapthebuttontostartrecording": "Tryck på knappen för att \nstarta inspelning",
   "Clickthebuttontopreview": "Klicka på knappen för \n förhandsvisning",
   "networksAvailable": "nätverk tillgängligt",
   "AIgeneration": "AI-generation",
-  "DeletethisSchedule": "Ta bort detta schema?"
+  "DeletethisSchedule": "Ta bort detta schema?",
+  "wifiSetupGuideInstructionPT08V2": "2.Håll i cirka 5 sekunder tills indikatorljuset börjar blinka grönt."
 }
