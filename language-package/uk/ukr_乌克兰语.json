@@ -885,7 +885,7 @@
   "goToPageButton": "Перейти до {title}",
   "scheduledFeedingSetupFailed": "Помилка налаштування запланованого подачі",
   "scheduledFeedingSetupFailedWithReason": "Не вдалося налаштувати заплановане годування: {reason}",
-  "photoSavedToProfile": "Фото збережено до профілю",
+  "photoSavedToProfile": "Фото збережено",
   "photoSavedToProfileTapToView": "Фото збережено в профілі. Натисніть, щоб переглянути",
   "videoUploaded": "Відео завантажене",
   "videoUploadedTapToView": "Відео завантажено. Натисніть, щоб переглянути",
@@ -969,5 +969,17 @@
   "networksAvailable": "мережа доступна",
   "AIgeneration": "Генерація штучного інтелекту",
   "DeletethisSchedule": "Видалити цей розклад?",
-  "wifiSetupGuideInstructionPT08V2": "2. тримайте тримаючи приблизно 5 секунд, поки світло індикатора не почне мигати зеленою."
+  "wifiSetupGuideInstructionPT08V2": "2. тримайте тримаючи приблизно 5 секунд, поки світло індикатора не почне мигати зеленою.",
+  "DownloadUpdate": "Завантажити оновлення",
+  "downloadingUpdate": "Завантаження оновлення...",
+  "newVersionAvailable": "Доступна нова версія",
+  "downloadFailed": "Завантаження зазнало невдачі.",
+  "chatGuideWelcomeTitle": "Ласкаво просимо!",
+  "chatGuideWelcomeBody": "Ви можете поговорити зі мною безпосередньо.  \nЯ можу допомогти з доглядом за домашніми тваринами та використанням пристрою.",
+  "chatGuideNextStep": "Наступний (1/3)",
+  "chatGuideNextStep2": "Наступний (2/3)",
+  "chatGuideDeviceCenter": "Це ваш центр пристрою.  \nДодати пристрої, перевірити їх стан і легко керувати ними.",
+  "chatGuideDone": "Виконано",
+  "chatGuideFeedback": "Потрібна допомога?  \nНадіслайте нам відгуки в будь-який час або перегляньте нашу \nконтактну інформацію. Ми тут, щоб допомогти.",
+  "Userfeedback": "Центр відгуків"
 }

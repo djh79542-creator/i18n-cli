@@ -885,7 +885,7 @@
   "goToPageButton": "Va al _PLACEHOLDER_1__",
   "scheduledFeedingSetupFailed": "Setări pentru câteva prograde faliit",
   "scheduledFeedingSetupFailedWithReason": "Setări pentru câteva prograde falide: _PLACEHOLDER_1__",
-  "photoSavedToProfile": "Foto salvado pentru profîl",
+  "photoSavedToProfile": "Fotografie salvată",
   "photoSavedToProfileTapToView": "Foto salvado al profîl. Mange te dikhel",
   "videoUploaded": "Video lajistit",
   "videoUploadedTapToView": "Video lajlade. Mange te dikhel",
@@ -969,5 +969,17 @@
   "networksAvailable": "Route disponibil",
   "AIgeneration": "Generalită AI",
   "DeletethisSchedule": "Dilepe kado plano?",
-  "wifiSetupGuideInstructionPT08V2": "2.Beshen dur ke 5 sekunde zhi kai e vediara sikadiol zhal sar e vediara kai si zeleno."
+  "wifiSetupGuideInstructionPT08V2": "2.Beshen dur ke 5 sekunde zhi kai e vediara sikadiol zhal sar e vediara kai si zeleno.",
+  "DownloadUpdate": "Discarge atualizare",
+  "downloadingUpdate": "Dacă downloade atualizare...",
+  "newVersionAvailable": "Neuva versie disponibil",
+  "downloadFailed": "Discarge faliis.",
+  "chatGuideWelcomeTitle": "Benge but'i!",
+  "chatGuideWelcomeBody": "Tu daštis te des duma mansa vorta. \nPoterevte ažutiv la sîfre kaj la utilizacija pe telefono.",
+  "chatGuideNextStep": "Dale (1/3)",
+  "chatGuideNextStep2": "Dale (2/3)",
+  "chatGuideDeviceCenter": "Si tumaro centro disparači. \nAdddevices, check their status, and manage them easily.",
+  "chatGuideDone": "Fatul",
+  "chatGuideFeedback": "Trubus ažutimos? \nTradeamen informaţi pentru câteva vai dikhas amare\ncontactinformaţi. Samas akathe te ažutis.",
+  "Userfeedback": "Centro de feedback"
 }

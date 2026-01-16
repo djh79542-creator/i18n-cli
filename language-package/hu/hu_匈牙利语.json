@@ -885,7 +885,7 @@
   "goToPageButton": "Menjen {title}",
   "scheduledFeedingSetupFailed": "A tervezett táplálási beállítás nem sikerült",
   "scheduledFeedingSetupFailedWithReason": "A tervezett táplálási beállítás nem sikerült: {reason}",
-  "photoSavedToProfile": "Fotó mentése a profilba",
+  "photoSavedToProfile": "Fotó elmentve",
   "photoSavedToProfileTapToView": "Fotó mentve a profilba. Kattintson a megtekintéshez",
   "videoUploaded": "Feltöltött videó",
   "videoUploadedTapToView": "Feltöltött videó. Kattintson a megtekintéshez",
@@ -969,5 +969,17 @@
   "networksAvailable": "hálózat rendelkezésre áll",
   "AIgeneration": "AI generáció",
   "DeletethisSchedule": "Törölni ezt a menetrendot?",
-  "wifiSetupGuideInstructionPT08V2": "2.Tartsa tartva körülbelül 5 másodpercig, amíg a jelzőfény zöld villog."
+  "wifiSetupGuideInstructionPT08V2": "2.Tartsa tartva körülbelül 5 másodpercig, amíg a jelzőfény zöld villog.",
+  "DownloadUpdate": "Letöltés Frissítés",
+  "downloadingUpdate": "Frissítés letöltése…",
+  "newVersionAvailable": "Új verzió elérhető",
+  "downloadFailed": "Nem sikerült letölteni.",
+  "chatGuideWelcomeTitle": "Üdvözöljük!",
+  "chatGuideWelcomeBody": "Beszélhetsz velem közvetlenül.  \nSegíthetek a háziállatok gondozásában és az eszközök használatában.",
+  "chatGuideNextStep": "Következő (1/3)",
+  "chatGuideNextStep2": "Következő (2/3)",
+  "chatGuideDeviceCenter": "Ez az Ön eszközközpontja.  \nEszközök hozzáadása, állapotuk ellenőrzése és könnyen kezelése.",
+  "chatGuideDone": "Kész",
+  "chatGuideFeedback": "Segítségre van szükséged?  \nKüldjen visszajelzést nekünk bármikor, vagy nézze meg \nkapcsolati adatainkat. Azért vagyunk itt, hogy segítsünk.",
+  "Userfeedback": "Visszajelzési központ"
 }

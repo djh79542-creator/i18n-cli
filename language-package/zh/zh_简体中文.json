@@ -885,7 +885,7 @@
   "goToPageButton": "转到{title}",
   "scheduledFeedingSetupFailed": "计划喂食设置失败",
   "scheduledFeedingSetupFailedWithReason": "计划喂食设置失败：{reason}",
-  "photoSavedToProfile": "照片已保存到个人资料",
+  "photoSavedToProfile": "已保存至相册",
   "photoSavedToProfileTapToView": "照片已保存到个人资料。点击查看",
   "videoUploaded": "视频已上传",
   "videoUploadedTapToView": "视频已上传。点击查看",
@@ -969,5 +969,17 @@
   "networksAvailable": "网络可用",
   "AIgeneration": "人工智能一代",
   "DeletethisSchedule": "删除此计划？",
-  "wifiSetupGuideInstructionPT08V2": "2.保持约5秒，直到指示灯开始闪烁绿色。"
+  "wifiSetupGuideInstructionPT08V2": "2.保持约5秒，直到指示灯开始闪烁绿色。",
+  "DownloadUpdate": "下载更新",
+  "downloadingUpdate": "正在下载更新…",
+  "newVersionAvailable": "新版本可用",
+  "downloadFailed": "下载失败。",
+  "chatGuideWelcomeTitle": "欢迎",
+  "chatGuideWelcomeBody": "你可以直接和我谈谈。__新闻_我可以帮助宠物护理和设备使用。",
+  "chatGuideNextStep": "下一页（1/3）",
+  "chatGuideNextStep2": "下一页（2/3）",
+  "chatGuideDeviceCenter": "这是您的设备中心。\n添加设备，检查其状态，并轻松管理它们。",
+  "chatGuideDone": "完成",
+  "chatGuideFeedback": "需要帮助？\n随时向我们发送反馈或查看我们的\n联系信息。我们是来帮忙的。",
+  "Userfeedback": "反馈中心"
 }

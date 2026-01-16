@@ -885,7 +885,7 @@
   "goToPageButton": "إذهب إلى {title}",
   "scheduledFeedingSetupFailed": "فشل إعداد التغذية المقررة",
   "scheduledFeedingSetupFailedWithReason": "فشل إعداد التغذية المقررة: {reason}",
-  "photoSavedToProfile": "الصورة المحفوظة في الملف الشخصي",
+  "photoSavedToProfile": "تم حفظ الصورة",
   "photoSavedToProfileTapToView": "الصورة محفوظة على الملف الشخصي. اضغط على لمشاهدة",
   "videoUploaded": "فيديو تم تحميله",
   "videoUploadedTapToView": "الفيديو تم تحميله. اضغط على لمشاهدة",
@@ -969,5 +969,17 @@
   "networksAvailable": "شبكة متاحة",
   "AIgeneration": "جيل الذكاء الاصطناعي",
   "DeletethisSchedule": "حذف هذا الجدول؟",
-  "wifiSetupGuideInstructionPT08V2": "2. الحفاظ على عقد لمدة حوالي 5 ثوان حتى يبدأ ضوء المؤشر في الومض الأخضر."
+  "wifiSetupGuideInstructionPT08V2": "2. الحفاظ على عقد لمدة حوالي 5 ثوان حتى يبدأ ضوء المؤشر في الومض الأخضر.",
+  "DownloadUpdate": "تحميل التحديث",
+  "downloadingUpdate": "تحميل التحديث...",
+  "newVersionAvailable": "الإصدار الجديد متاح",
+  "downloadFailed": "فشل التنزيل.",
+  "chatGuideWelcomeTitle": "مرحبا بكم!",
+  "chatGuideWelcomeBody": "يمكنك التحدث معي مباشرة.  \nيمكنني المساعدة في رعاية الحيوانات الأليفة واستخدام الجهاز.",
+  "chatGuideNextStep": "التالي (1/3)",
+  "chatGuideNextStep2": "التالي (2/3)",
+  "chatGuideDeviceCenter": "هذا مركز جهازك  \nإضافة الأجهزة، والتحقق من وضعها، وإدارتها بسهولة.",
+  "chatGuideDone": "إنتهى",
+  "chatGuideFeedback": "تحتاج مساعدة؟  \nارسل لنا ردود الفعل في أي وقت أو عرض معلومات الاتصال \n نحن هنا للمساعدة",
+  "Userfeedback": "مركز ردود الفعل"
 }

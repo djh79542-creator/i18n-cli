@@ -885,7 +885,7 @@
   "goToPageButton": "Eiti į {title}",
   "scheduledFeedingSetupFailed": "Planuoto maitinimo nustatymas nepavyko",
   "scheduledFeedingSetupFailedWithReason": "Planuoto maitinimo nustatymas nepavyko: {reason}",
-  "photoSavedToProfile": "Nuotrauka išsaugota į profilį",
+  "photoSavedToProfile": "Nuotrauka išsaugota",
   "photoSavedToProfileTapToView": "Nuotrauka išsaugota profilyje. Paspauskite, kad peržiūrėtumėte",
   "videoUploaded": "Įkeltas vaizdo įrašas",
   "videoUploadedTapToView": "Vaizdo įrašas įkeltas. Paspauskite, kad peržiūrėtumėte",
@@ -969,5 +969,17 @@
   "networksAvailable": "tinklas prieinamas",
   "AIgeneration": "AI kūrimas",
   "DeletethisSchedule": "Ištrinti šį tvarkaraštį?",
-  "wifiSetupGuideInstructionPT08V2": "2.Laikykite laikyti apie 5 sekundes, kol indikatoriaus šviesa pradeda mirkyti žaliai."
+  "wifiSetupGuideInstructionPT08V2": "2.Laikykite laikyti apie 5 sekundes, kol indikatoriaus šviesa pradeda mirkyti žaliai.",
+  "DownloadUpdate": "Atsisiųsti naujinimą",
+  "downloadingUpdate": "Atsisiųsti naujinimą...",
+  "newVersionAvailable": "Nauja versija",
+  "downloadFailed": "Atsisiųsti nepavyko.",
+  "chatGuideWelcomeTitle": "Sveiki atvykę!",
+  "chatGuideWelcomeBody": "Galite su manimi kalbėtis tiesiogiai.  \nAš galiu padėti su augintinių priežiūra ir prietaiso naudojimas.",
+  "chatGuideNextStep": "Kitas (1/3)",
+  "chatGuideNextStep2": "Kitas (2/3)",
+  "chatGuideDeviceCenter": "Tai jūsų įrenginio centras.  \nPridėkite įrenginius, patikrinkite jų būseną ir lengvai juos valdykite.",
+  "chatGuideDone": "Nustatyta",
+  "chatGuideFeedback": "Reikia pagalbos?  \nSiųskite mums atsiliepimus bet kuriuo metu arba peržiūrėkite mūsų\nkontaktinę informaciją. Atėjome padėti.",
+  "Userfeedback": "Grįžtamojo ryšio centras"
 }

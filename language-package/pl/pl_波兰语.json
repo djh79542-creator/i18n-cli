@@ -885,7 +885,7 @@
   "goToPageButton": "Przejdź do {title}",
   "scheduledFeedingSetupFailed": "Ustawienie zaplanowanego karmienia nie powiodło się",
   "scheduledFeedingSetupFailedWithReason": "Ustawienie zaplanowanego karmienia nie powiodło się: {reason}",
-  "photoSavedToProfile": "Zdjęcie zapisane do profilu",
+  "photoSavedToProfile": "Zdjęcie zapisane",
   "photoSavedToProfileTapToView": "Zdjęcie zapisane do profilu. Dotknij, aby zobaczyć",
   "videoUploaded": "Wideo przesłane",
   "videoUploadedTapToView": "Wideo przesłane. Dotknij, aby zobaczyć",
@@ -969,5 +969,17 @@
   "networksAvailable": "dostępna sieć",
   "AIgeneration": "Generacja AI",
   "DeletethisSchedule": "Usuń ten harmonogram?",
-  "wifiSetupGuideInstructionPT08V2": "2. Utrzymaj przez około 5 sekund, aż światło wskaźnika zacznie migać na zielono."
+  "wifiSetupGuideInstructionPT08V2": "2. Utrzymaj przez około 5 sekund, aż światło wskaźnika zacznie migać na zielono.",
+  "DownloadUpdate": "Pobierz aktualizację",
+  "downloadingUpdate": "Pobieranie aktualizacji...",
+  "newVersionAvailable": "Nowa wersja dostępna",
+  "downloadFailed": "Pobieranie nie udało się.",
+  "chatGuideWelcomeTitle": "Witamy!",
+  "chatGuideWelcomeBody": "Możesz ze mną porozmawiać bezpośrednio.  \nMogę pomóc w pielęgnacji zwierząt i używaniu urządzenia.",
+  "chatGuideNextStep": "Następny (1/3)",
+  "chatGuideNextStep2": "Następny (2/3)",
+  "chatGuideDeviceCenter": "To Twoje centrum urządzenia. \nDodaj urządzenia, sprawdź ich status i łatwo zarządzaj nimi.",
+  "chatGuideDone": "Zrobione",
+  "chatGuideFeedback": "Potrzebujesz pomocy? \nWyślij nam opinie w dowolnym momencie lub zobacz nasze dane kontaktowe\n Jesteśmy tu, aby pomóc.",
+  "Userfeedback": "Centrum informacji zwrotnej"
 }

@@ -885,7 +885,7 @@
   "goToPageButton": "Vai a {title}",
   "scheduledFeedingSetupFailed": "Impostazione di alimentazione programmata non riuscita",
   "scheduledFeedingSetupFailedWithReason": "Impostazione di alimentazione programmata non riuscita: {reason}",
-  "photoSavedToProfile": "Foto salvata nel profilo",
+  "photoSavedToProfile": "Foto salvata",
   "photoSavedToProfileTapToView": "Foto salvata nel profilo. Tocca per visualizzare",
   "videoUploaded": "Video caricato",
   "videoUploadedTapToView": "Video caricato. Tocca per visualizzare",
@@ -969,5 +969,17 @@
   "networksAvailable": "rete disponibile",
   "AIgeneration": "Generazione AI",
   "DeletethisSchedule": "Cancellare questo calendario?",
-  "wifiSetupGuideInstructionPT08V2": "2.Mantenere tenuto per circa 5 secondi fino a quando la luce indicatore inizia a lampeggiare verde."
+  "wifiSetupGuideInstructionPT08V2": "2.Mantenere tenuto per circa 5 secondi fino a quando la luce indicatore inizia a lampeggiare verde.",
+  "DownloadUpdate": "Scarica aggiornamento",
+  "downloadingUpdate": "Scarica aggiornamento…",
+  "newVersionAvailable": "Nuova versione disponibile",
+  "downloadFailed": "Il download non è riuscito.",
+  "chatGuideWelcomeTitle": "Benvenuti!",
+  "chatGuideWelcomeBody": "Puoi parlarmi direttamente. \nPosso aiutare con la cura degli animali domestici e l'uso del dispositivo.",
+  "chatGuideNextStep": "Prossimo (1/3)",
+  "chatGuideNextStep2": "Prossimo (2/3)",
+  "chatGuideDeviceCenter": "Questo è il tuo centro di dispositivi. \nAggiungi dispositivi, controlla il loro stato e gestili facilmente.",
+  "chatGuideDone": "Fatto",
+  "chatGuideFeedback": "Hai bisogno di aiuto? \nInviaci feedback in qualsiasi momento o visualizza le nostre informazioni di contatto\n Siamo qui per aiutarti.",
+  "Userfeedback": "Centro Feedback"
 }

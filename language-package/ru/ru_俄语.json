@@ -885,7 +885,7 @@
   "goToPageButton": "Перейти к {title}",
   "scheduledFeedingSetupFailed": "Не удалось настроить запланированное кормление",
   "scheduledFeedingSetupFailedWithReason": "Не удалось настроить запланированное кормление: {reason}",
-  "photoSavedToProfile": "Фото сохранено в профиль",
+  "photoSavedToProfile": "Фото сохранено",
   "photoSavedToProfileTapToView": "Фото сохранено в профиль. Нажмите, чтобы просмотреть",
   "videoUploaded": "Видео загружено",
   "videoUploadedTapToView": "Видео загружено. Нажмите, чтобы просмотреть",
@@ -969,5 +969,17 @@
   "networksAvailable": "сеть доступна",
   "AIgeneration": "Генерация ИИ",
   "DeletethisSchedule": "Удалить этот график?",
-  "wifiSetupGuideInstructionPT08V2": "2.Продолжайте держать около 5 секунд, пока индикатор не начнет мигать зеленым."
+  "wifiSetupGuideInstructionPT08V2": "2.Продолжайте держать около 5 секунд, пока индикатор не начнет мигать зеленым.",
+  "DownloadUpdate": "Скачать обновление",
+  "downloadingUpdate": "Загрузка обновления…",
+  "newVersionAvailable": "Доступна новая версия",
+  "downloadFailed": "Скачать не удалось.",
+  "chatGuideWelcomeTitle": "Добро пожаловать!",
+  "chatGuideWelcomeBody": "Вы можете поговорить со мной прямо. \nЯ могу помочь с уходом за домашними животными и использованием устройств.",
+  "chatGuideNextStep": "Следующая (1/3)",
+  "chatGuideNextStep2": "Следующая (2/3)",
+  "chatGuideDeviceCenter": "Это ваш центр устройств.  \nДобавляйте устройства, проверяйте их статус и управляйте ими легко.",
+  "chatGuideDone": "Выполнено",
+  "chatGuideFeedback": "Нужна помощь? \nОтправьте нам отзывы в любое время или просмотрите нашу контактную информацию\n Мы здесь, чтобы помочь.",
+  "Userfeedback": "Центр обратной связи"
 }

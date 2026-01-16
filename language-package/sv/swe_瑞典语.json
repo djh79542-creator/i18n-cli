@@ -885,7 +885,7 @@
   "goToPageButton": "Gå till {title}",
   "scheduledFeedingSetupFailed": "Planerad matningsinställning misslyckades",
   "scheduledFeedingSetupFailedWithReason": "Planerad matningsinställning misslyckades: {reason}",
-  "photoSavedToProfile": "Bild sparat till profil",
+  "photoSavedToProfile": "Foto sparad",
   "photoSavedToProfileTapToView": "Bild sparat till profil. Tryck för att visa",
   "videoUploaded": "Video laddad upp",
   "videoUploadedTapToView": "Video laddad upp. Tryck för att visa",
@@ -969,5 +969,17 @@
   "networksAvailable": "nätverk tillgängligt",
   "AIgeneration": "AI-generation",
   "DeletethisSchedule": "Ta bort detta schema?",
-  "wifiSetupGuideInstructionPT08V2": "2.Håll i cirka 5 sekunder tills indikatorljuset börjar blinka grönt."
+  "wifiSetupGuideInstructionPT08V2": "2.Håll i cirka 5 sekunder tills indikatorljuset börjar blinka grönt.",
+  "DownloadUpdate": "Ladda ner uppdatering",
+  "downloadingUpdate": "Laddar ner uppdatering...",
+  "newVersionAvailable": "Ny version tillgänglig",
+  "downloadFailed": "Nedladdning misslyckades.",
+  "chatGuideWelcomeTitle": "Välkommen!",
+  "chatGuideWelcomeBody": "Du kan prata med mig direkt. \nJag kan hjälpa till med husdjursvård och enhetsanvändning.",
+  "chatGuideNextStep": "Nästa (1/3)",
+  "chatGuideNextStep2": "Nästa (2/3)",
+  "chatGuideDeviceCenter": "Detta är ditt enhetscenter. \nLägg till enheter, kontrollera deras status och hantera dem enkelt.",
+  "chatGuideDone": "Gört",
+  "chatGuideFeedback": "Behöver du hjälp? \nSkicka oss feedback när som helst eller se vår\nkontaktinformation. Vi är här för att hjälpa.",
+  "Userfeedback": "återkopplingscenter"
 }

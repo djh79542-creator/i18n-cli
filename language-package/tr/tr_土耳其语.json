@@ -885,7 +885,7 @@
   "goToPageButton": "Git {title}",
   "scheduledFeedingSetupFailed": "Zamanlanmış besleme kurulumu başarısız oldu",
   "scheduledFeedingSetupFailedWithReason": "Zamanlanmış besleme kurulumu başarısız oldu: {reason}",
-  "photoSavedToProfile": "Fotoğraf profile kaydedildi",
+  "photoSavedToProfile": "Fotoğraf kaydedildi",
   "photoSavedToProfileTapToView": "Fotoğraf profile kaydedildi. Görüntülemek için dokunun",
   "videoUploaded": "Video yüklendi",
   "videoUploadedTapToView": "Video yüklendi. Görüntülemek için dokunun",
@@ -969,5 +969,17 @@
   "networksAvailable": "ağ mevcut",
   "AIgeneration": "AI nesil",
   "DeletethisSchedule": "Bu programı silmek mi?",
-  "wifiSetupGuideInstructionPT08V2": "2. Gösterge ışığı yeşil yanıp sönmeye başlayana kadar yaklaşık 5 saniye tutmaya devam edin."
+  "wifiSetupGuideInstructionPT08V2": "2. Gösterge ışığı yeşil yanıp sönmeye başlayana kadar yaklaşık 5 saniye tutmaya devam edin.",
+  "DownloadUpdate": "Güncellemeyi İndir",
+  "downloadingUpdate": "Güncelleme indiriliyor...",
+  "newVersionAvailable": "Yeni Sürüm Mevcut",
+  "downloadFailed": "İndirme başarısız oldu.",
+  "chatGuideWelcomeTitle": "Hoş geldiniz!",
+  "chatGuideWelcomeBody": "Doğrudan benimle konuşabilirsin.  \nEvcil hayvan bakımı ve cihaz kullanımında yardımcı olabilirim.",
+  "chatGuideNextStep": "Sonraki (1/3)",
+  "chatGuideNextStep2": "Sonraki (2/3)",
+  "chatGuideDeviceCenter": "Burası cihaz merkeziniz.  \nCihazlar ekleyin, durumlarını kontrol edin ve kolayca yönetin.",
+  "chatGuideDone": "Yapıldı",
+  "chatGuideFeedback": "Yardıma ihtiyacın var mı? \nBize her zaman geri bildirim gönderin veya\niletişim bilgilerimizi görüntüleyin. Yardım etmek için buradayız.",
+  "Userfeedback": "Geribildirim Merkezi"
 }

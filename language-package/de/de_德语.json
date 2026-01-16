@@ -885,7 +885,7 @@
   "goToPageButton": "Gehen Sie zu {title}",
   "scheduledFeedingSetupFailed": "Scheduled Feeding Setup fehlgeschlagen",
   "scheduledFeedingSetupFailedWithReason": "Die geplante Einrichtung der Fütterung ist fehlgeschlagen: {reason}",
-  "photoSavedToProfile": "Foto im Profil gespeichert",
+  "photoSavedToProfile": "Foto gespeichert",
   "photoSavedToProfileTapToView": "Foto im Profil gespeichert. Tippen, um anzusehen",
   "videoUploaded": "Video hochgeladen",
   "videoUploadedTapToView": "Video hochgeladen. Tippen, um anzusehen",
@@ -969,5 +969,17 @@
   "networksAvailable": "Netzwerk verfügbar",
   "AIgeneration": "KI-Generation",
   "DeletethisSchedule": "Löschen Sie diesen Zeitplan?",
-  "wifiSetupGuideInstructionPT08V2": "2. Halten Sie ungefähr 5 Sekunden fest, bis das Anzeigelicht grün blinkt."
+  "wifiSetupGuideInstructionPT08V2": "2. Halten Sie ungefähr 5 Sekunden fest, bis das Anzeigelicht grün blinkt.",
+  "DownloadUpdate": "Update herunterladen",
+  "downloadingUpdate": "Update wird heruntergeladen…",
+  "newVersionAvailable": "Neue Version verfügbar",
+  "downloadFailed": "Download gescheitert.",
+  "chatGuideWelcomeTitle": "Willkommen!",
+  "chatGuideWelcomeBody": "Du kannst direkt mit mir sprechen. \nIch kann bei der Pflege von Haustieren und der Verwendung von Geräten helfen.",
+  "chatGuideNextStep": "Nächster (1/3)",
+  "chatGuideNextStep2": "Nächster (2/3)",
+  "chatGuideDeviceCenter": "Dies ist Ihr Gerätezentrum. \nGeräte hinzufügen, ihren Status überprüfen und einfach verwalten.",
+  "chatGuideDone": "Fertig",
+  "chatGuideFeedback": "Brauchen Sie Hilfe? \nSenden Sie uns jederzeit Feedback oder sehen Sie sich unsere\nKontaktinformationen an. Wir sind hier, um zu helfen.",
+  "Userfeedback": "Feedback-Zentrum"
 }

@@ -885,7 +885,7 @@
   "goToPageButton": "Gå til {title}",
   "scheduledFeedingSetupFailed": "Planlagt opsætning af fodring mislykkedes",
   "scheduledFeedingSetupFailedWithReason": "Planlagt fodringsopsætning mislykkedes: {reason}",
-  "photoSavedToProfile": "Foto gemt til profil",
+  "photoSavedToProfile": "Foto gemt",
   "photoSavedToProfileTapToView": "Foto gemt til profil. Tryk for at se",
   "videoUploaded": "Video uploadet",
   "videoUploadedTapToView": "Video uploadet. Tryk for at se",
@@ -969,5 +969,17 @@
   "networksAvailable": "netværk tilgængeligt",
   "AIgeneration": "AI-generation",
   "DeletethisSchedule": "Slette denne tidsplan?",
-  "wifiSetupGuideInstructionPT08V2": "2.Hold fast i ca. 5 sekunder, indtil indikatorlyset begynder at blinke grønt."
+  "wifiSetupGuideInstructionPT08V2": "2.Hold fast i ca. 5 sekunder, indtil indikatorlyset begynder at blinke grønt.",
+  "DownloadUpdate": "Download opdatering",
+  "downloadingUpdate": "Henter opdatering...",
+  "newVersionAvailable": "Ny version tilgængelig",
+  "downloadFailed": "Download mislykkedes.",
+  "chatGuideWelcomeTitle": "Velkommen!",
+  "chatGuideWelcomeBody": "Du kan tale med mig direkte. \nJeg kan hjælpe med pleje af kæledyr og brug af enheder.",
+  "chatGuideNextStep": "Næste (1/3)",
+  "chatGuideNextStep2": "Næste (2/3)",
+  "chatGuideDeviceCenter": "Dette er dit enhedscenter. \nTilføj enheder, tjek deres status og administrer dem nemt.",
+  "chatGuideDone": "Udført",
+  "chatGuideFeedback": "Har du brug for hjælp? \nSend os feedback når som helst eller se vores\nkontaktoplysninger. Vi er her for at hjælpe.",
+  "Userfeedback": "Feedback Center"
 }

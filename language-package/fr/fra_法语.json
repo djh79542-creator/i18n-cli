@@ -885,7 +885,7 @@
   "goToPageButton": "Aller à {title}",
   "scheduledFeedingSetupFailed": "La configuration d'alimentation programmée a échoué",
   "scheduledFeedingSetupFailedWithReason": "La configuration d'alimentation programmée a échoué: {reason}",
-  "photoSavedToProfile": "Photo enregistrée dans le profil",
+  "photoSavedToProfile": "Photo enregistrée",
   "photoSavedToProfileTapToView": "Photo enregistrée dans le profil. Tapez pour voir",
   "videoUploaded": "Vidéo téléchargée",
   "videoUploadedTapToView": "Vidéo téléchargée. Tapez pour voir",
@@ -969,5 +969,17 @@
   "networksAvailable": "réseau disponible",
   "AIgeneration": "Génération d'IA",
   "DeletethisSchedule": "Supprimer cet horaire ?",
-  "wifiSetupGuideInstructionPT08V2": "2.Keep maintenir pendant environ 5 secondes jusqu'à ce que la lumière d'indicateur commence à clignoter vert."
+  "wifiSetupGuideInstructionPT08V2": "2.Maintenez pendant environ 5 secondes jusqu'à ce que la lumière d'indicateur commence à clignoter vert.",
+  "DownloadUpdate": "Télécharger la mise à jour",
+  "downloadingUpdate": "Téléchargement de la mise à jour…",
+  "newVersionAvailable": "Nouvelle version disponible",
+  "downloadFailed": "Téléchargement échoué.",
+  "chatGuideWelcomeTitle": "Bienvenue !",
+  "chatGuideWelcomeBody": "Vous pouvez me parler directement. \nJe peux aider avec les soins des animaux et l'utilisation des appareils.",
+  "chatGuideNextStep": "Suivant (1/3)",
+  "chatGuideNextStep2": "Suivant (2/3)",
+  "chatGuideDeviceCenter": "C'est votre centre d'appareils. \nAjoutez des périphériques, vérifiez leur état et gérez-les facilement.",
+  "chatGuideDone": "Fait",
+  "chatGuideFeedback": "Besoin d'aide ? \nEnvoyez-nous vos commentaires à tout moment ou consultez nos informations de contact\n Nous sommes ici pour vous aider.",
+  "Userfeedback": "Centre de rétroaction"
 }

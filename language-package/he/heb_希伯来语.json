@@ -885,7 +885,7 @@
   "goToPageButton": "ללכת ל {title}",
   "scheduledFeedingSetupFailed": "הגדרת האזונה המתוכננת נכשלה",
   "scheduledFeedingSetupFailedWithReason": "הגדרת האזונה המתוכננת נכשלה: {reason}",
-  "photoSavedToProfile": "תמונה שנשמרה לפרופיל",
+  "photoSavedToProfile": "התמונה נשמרה",
   "photoSavedToProfileTapToView": "התמונה נשמרה לפרופיל. לחץ כדי לצפות",
   "videoUploaded": "הועלה וידאו",
   "videoUploadedTapToView": "הועלה וידאו. לחץ כדי לצפות",
@@ -969,5 +969,17 @@
   "networksAvailable": "רשת זמינה",
   "AIgeneration": "דור AI",
   "DeletethisSchedule": "למחוק את לוח הזמנים הזה?",
-  "wifiSetupGuideInstructionPT08V2": "המשיכו להחזיק במשך כ-5 שניות עד שהאור המדגים מתחיל להבהיב ירוק."
+  "wifiSetupGuideInstructionPT08V2": "המשיכו להחזיק במשך כ-5 שניות עד שהאור המדגים מתחיל להבהיב ירוק.",
+  "DownloadUpdate": "הורד עדכון",
+  "downloadingUpdate": "הורדת עדכון…",
+  "newVersionAvailable": "גרסה חדשה זמינה",
+  "downloadFailed": "ההורדה נכשלה.",
+  "chatGuideWelcomeTitle": "ברוכים הבאים!",
+  "chatGuideWelcomeBody": "אתה יכול לדבר איתי ישירות.  \nאני יכול לעזור עם טיפול במחיות מחמד ושימוש במכשיר.",
+  "chatGuideNextStep": "הבא (1/3)",
+  "chatGuideNextStep2": "הבא (2/3)",
+  "chatGuideDeviceCenter": "זה מרכז המכשיר שלך.  \nהוסף מכשירים, בדוק את המצב שלהם, ולנהל אותם בקלות.",
+  "chatGuideDone": "הושלם",
+  "chatGuideFeedback": "זקוקים לעזרה? \nשלח לנו משוב בכל עת או ראה את מידע הקשר שלנו\n אנחנו כאן כדי לעזור.",
+  "Userfeedback": "מרכז משוב"
 }

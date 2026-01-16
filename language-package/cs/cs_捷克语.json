@@ -885,7 +885,7 @@
   "goToPageButton": "Přejděte na {title}",
   "scheduledFeedingSetupFailed": "Plánované nastavení krmení selhalo",
   "scheduledFeedingSetupFailedWithReason": "Plánované nastavení krmení selhalo: {reason}",
-  "photoSavedToProfile": "Fotografie uložena do profilu",
+  "photoSavedToProfile": "Fotka uložena",
   "photoSavedToProfileTapToView": "Fotografie uložena do profilu. Klepněte pro zobrazení",
   "videoUploaded": "Video nahráno",
   "videoUploadedTapToView": "Video nahráno. Klepněte pro zobrazení",
@@ -969,5 +969,17 @@
   "networksAvailable": "k dispozici síť",
   "AIgeneration": "Generace umělé inteligence",
   "DeletethisSchedule": "Smazat tento rozvrh?",
-  "wifiSetupGuideInstructionPT08V2": "2.Držte asi 5 sekund, dokud indikátor začne blikat zeleně."
+  "wifiSetupGuideInstructionPT08V2": "2.Držte asi 5 sekund, dokud indikátor začne blikat zeleně.",
+  "DownloadUpdate": "Stáhnout aktualizaci",
+  "downloadingUpdate": "Stahování aktualizace…",
+  "newVersionAvailable": "Dostupná nová verze",
+  "downloadFailed": "Stáhnutí selhalo.",
+  "chatGuideWelcomeTitle": "Vítejte!",
+  "chatGuideWelcomeBody": "Můžeš se mnou mluvit přímo. \nPomůžu s péčí o zvířata a používáním zařízení.",
+  "chatGuideNextStep": "Další (1/3)",
+  "chatGuideNextStep2": "Další (2/3)",
+  "chatGuideDeviceCenter": "Toto je vaše zařízení centrum. \nPřidat zařízení, zkontrolovat jejich stav a snadno je spravovat.",
+  "chatGuideDone": "Hotovo",
+  "chatGuideFeedback": "Potřebujete pomoc? \nPošlete nám zpětnou vazbu kdykoli nebo si prohlédněte naše\nkontaktní údaje. Jsme tu, abychom vám pomohli.",
+  "Userfeedback": "Centrum zpětné vazby"
 }

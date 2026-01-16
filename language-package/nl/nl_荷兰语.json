@@ -885,7 +885,7 @@
   "goToPageButton": "Ga naar {title}",
   "scheduledFeedingSetupFailed": "Geplande voedingsinstelling mislukt",
   "scheduledFeedingSetupFailedWithReason": "Geplande voedingsinstallatie mislukt: {reason}",
-  "photoSavedToProfile": "Foto opgeslagen op profiel",
+  "photoSavedToProfile": "Foto opgeslagen",
   "photoSavedToProfileTapToView": "Foto opgeslagen op profiel. Tik om te bekijken",
   "videoUploaded": "Video geüpload",
   "videoUploadedTapToView": "Video geüpload. Tik om te bekijken",
@@ -969,5 +969,17 @@
   "networksAvailable": "netwerk beschikbaar",
   "AIgeneration": "AI generatie",
   "DeletethisSchedule": "Verwijder deze schema?",
-  "wifiSetupGuideInstructionPT08V2": "2.Houd vast voor ongeveer 5 seconden totdat het indicatorlicht groen knippert."
+  "wifiSetupGuideInstructionPT08V2": "2.Houd vast voor ongeveer 5 seconden totdat het indicatorlicht groen knippert.",
+  "DownloadUpdate": "Update downloaden",
+  "downloadingUpdate": "Update wordt gedownload...",
+  "newVersionAvailable": "Nieuwe versie beschikbaar",
+  "downloadFailed": "Download mislukt.",
+  "chatGuideWelcomeTitle": "Welkom!",
+  "chatGuideWelcomeBody": "Je kunt rechtstreeks met me praten. \nIk kan helpen met de verzorging van huisdieren en het gebruik van apparaten.",
+  "chatGuideNextStep": "Volgende (1/3)",
+  "chatGuideNextStep2": "Volgende (2/3)",
+  "chatGuideDeviceCenter": "Dit is uw apparaatcentrum. \nApparaten toevoegen, hun status controleren en ze eenvoudig beheren.",
+  "chatGuideDone": "Gedaan",
+  "chatGuideFeedback": "Heb je hulp nodig? \nStuur ons op elk moment feedback of bekijk onze\ncontactgegevens. We zijn hier om te helpen.",
+  "Userfeedback": "Feedback centrum"
 }

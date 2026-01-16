@@ -885,7 +885,7 @@
   "goToPageButton": "Πήγαινε στο {title}",
   "scheduledFeedingSetupFailed": "Η προγραμματισμένη ρύθμιση τροφοδοσίας απέτυχε",
   "scheduledFeedingSetupFailedWithReason": "Η προγραμματισμένη εγκατάσταση τροφοδοσίας απέτυχε: {reason}",
-  "photoSavedToProfile": "Φωτογραφία αποθηκευμένη στο προφίλ",
+  "photoSavedToProfile": "Η φωτογραφία αποθηκεύτηκε",
   "photoSavedToProfileTapToView": "Φωτογραφία αποθηκευμένη στο προφίλ. Πατήστε για να δείτε",
   "videoUploaded": "Βίντεο ανεβάστηκε",
   "videoUploadedTapToView": "Βίντεο ανεβάστηκε. Πατήστε για να δείτε",
@@ -969,5 +969,17 @@
   "networksAvailable": "διαθέσιμο δίκτυο",
   "AIgeneration": "Η γενιά AI",
   "DeletethisSchedule": "Διαγράψτε αυτό το πρόγραμμα;",
-  "wifiSetupGuideInstructionPT08V2": "2.Keep κρατώντας για περίπου 5 δευτερόλεπτα μέχρι το φως δείκτη αρχίζει να αναμπλέπει πράσινο."
+  "wifiSetupGuideInstructionPT08V2": "2.κρατώντας για περίπου 5 δευτερόλεπτα μέχρι το φως δείκτη αρχίζει να αναμπλέπει πράσινο.",
+  "DownloadUpdate": "Κατεβάστε την ενημέρωση",
+  "downloadingUpdate": "Λήψη ενημέρωσης…",
+  "newVersionAvailable": "Νέα έκδοση διαθέσιμη",
+  "downloadFailed": "Η λήψη απέτυχε.",
+  "chatGuideWelcomeTitle": "Καλώς ήρθατε!",
+  "chatGuideWelcomeBody": "Μπορείς να μου μιλήσεις απευθείας. \nΜπορώ να βοηθήσω με τη φροντίδα κατοικίδιων ζώων και τη χρήση συσκευών.",
+  "chatGuideNextStep": "Επόμενο (1/3)",
+  "chatGuideNextStep2": "Επόμενο (2/3)",
+  "chatGuideDeviceCenter": "Αυτό είναι το κέντρο συσκευών σας.  \nΠροσθέστε συσκευές, ελέγξτε την κατάσταση τους και διαχειριστείτε τις εύκολα.",
+  "chatGuideDone": "Έκανε",
+  "chatGuideFeedback": "Χρειάζεσαι βοήθεια;  \nΣτείλτε μας σχόλια ανά πάσα στιγμή ή δείτε τα στοιχεία επικοινωνίας \n Είμαστε εδώ για να βοηθήσουμε.",
+  "Userfeedback": "Κέντρο Ανατροφοδότησης"
 }

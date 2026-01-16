@@ -885,7 +885,7 @@
   "goToPageButton": "Iet uz {title}",
   "scheduledFeedingSetupFailed": "Plānotais barošanas iestatījums neveiksmīgs",
   "scheduledFeedingSetupFailedWithReason": "Plānotais barošanas uzstādījums neizdevās: {reason}",
-  "photoSavedToProfile": "Foto saglabāta profilā",
+  "photoSavedToProfile": "Foto saglabāts",
   "photoSavedToProfileTapToView": "Foto saglabāta profilā. Pieskarties, lai skatītos",
   "videoUploaded": "Video augšupielādēts",
   "videoUploadedTapToView": "Video augšupielādēts. Pieskarties, lai skatītos",
@@ -969,5 +969,17 @@
   "networksAvailable": "pieejams tīkls",
   "AIgeneration": "AI paaugstināšana",
   "DeletethisSchedule": "Izdzēst šo grafiku?",
-  "wifiSetupGuideInstructionPT08V2": "2.Turiet turēt apmēram 5 sekundes, līdz indikatora gaisma sāk mirgt zaļā."
+  "wifiSetupGuideInstructionPT08V2": "2.Turiet turēt apmēram 5 sekundes, līdz indikatora gaisma sāk mirgt zaļā.",
+  "DownloadUpdate": "Lejupielādēt atjauninājumu",
+  "downloadingUpdate": "Atjauninājuma lejupielāde…",
+  "newVersionAvailable": "Jaunā versija",
+  "downloadFailed": "Neizdevās lejupielādēt.",
+  "chatGuideWelcomeTitle": "Laipni lūdzam!",
+  "chatGuideWelcomeBody": "Jūs varat runāt ar mani tieši.  \nEs varu palīdzēt ar mājdzīvnieku aprūpi un ierīces izmantošanu.",
+  "chatGuideNextStep": "Nākamais (1/3)",
+  "chatGuideNextStep2": "Nākamais (2/3)",
+  "chatGuideDeviceCenter": "Tas ir jūsu ierīces centrs. \nPievienojiet ierīces, pārbaudiet to statusu un viegli pārvaldīt tās.",
+  "chatGuideDone": "Darīts",
+  "chatGuideFeedback": "Vajadzīga palīdzība?  \nSūtīt mums atsauksmes jebkurā laikā vai apskatīt mūsu\nkontaktinformāciju. Mēs esam šeit, lai palīdzētu.",
+  "Userfeedback": "Atsauksmes centrs"
 }

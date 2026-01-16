@@ -885,7 +885,7 @@
   "goToPageButton": "Farðu til {title}",
   "scheduledFeedingSetupFailed": "Áætlað fæðingaruppsetning mistókst",
   "scheduledFeedingSetupFailedWithReason": "Áætlað fæðingaruppsetning mistókst: {reason}",
-  "photoSavedToProfile": "Mynd vistað í prófíl",
+  "photoSavedToProfile": "Mynd vistuð",
   "photoSavedToProfileTapToView": "Mynd vistað í prófíl. Smelltu til að skoða",
   "videoUploaded": "Video hlaðið upp",
   "videoUploadedTapToView": "Video hlaðið upp. Smelltu til að skoða",
@@ -969,5 +969,17 @@
   "networksAvailable": "net í boði",
   "AIgeneration": "AI kynslóð",
   "DeletethisSchedule": "Eyða þessari áætlun?",
-  "wifiSetupGuideInstructionPT08V2": "2.Haltu halda í um 5 sekúndur þar til vísir ljós byrjar að blimpa grænt."
+  "wifiSetupGuideInstructionPT08V2": "2.Haltu halda í um 5 sekúndur þar til vísir ljós byrjar að blimpa grænt.",
+  "DownloadUpdate": "Sækja uppfærslu",
+  "downloadingUpdate": "Sækja uppfærslu...",
+  "newVersionAvailable": "Nýja útgáfa í boði",
+  "downloadFailed": "Sækja mistókst.",
+  "chatGuideWelcomeTitle": "Velkominn!",
+  "chatGuideWelcomeBody": "Þú getur talað við mig beint.  \nÉg get hjálpað við gæludýrumönnun og notkun tækis.",
+  "chatGuideNextStep": "Næsta (1/3)",
+  "chatGuideNextStep2": "Næsta (2/3)",
+  "chatGuideDeviceCenter": "Þetta er tækjamiðstöðin þín.  \nBæta tækjum, athuga stöðu þeirra og stjórna þeim auðveldlega.",
+  "chatGuideDone": "Gerð",
+  "chatGuideFeedback": "Þarftu hjálp?  \nSendu okkur endurgjöf hvenær sem er eða skoða \ntengiliðaupplýsingar okkar. Viđ erum hérna til ađ hjálpa.",
+  "Userfeedback": "Miðstöð endurgjöf"
 }

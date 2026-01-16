@@ -969,5 +969,17 @@
   "Clickthebuttontopreview": "Click the button to\n preview",
   "networksAvailable": "network available",
   "AIgeneration": "AI generation",
-  "DeletethisSchedule": "Delete this Schedule?"
+  "DeletethisSchedule": "Delete this Schedule?",
+  "DowsnloadUpdate": "Download Update",
+  "downloadingUpdate": "Downloading update…",
+  "newVersionAvailable": "New Version Available",
+  "downloadFailed": "Download failed.",
+  "chatGuideWelcomeTitle": "Welcome!",
+  "chatGuideWelcomeBody": "You can talk to me directly.\nI can help with pet care and device usage.",
+  "chatGuideNextStep": "Next (1/3)",
+  "chatGuideNextStep2": "Next (2/3)",
+  "chatGuideDeviceCenter": "This is your device center.\nAdd devices, check their status, and manage them easily.",
+  "chatGuideDone": "Done",
+  "chatGuideFeedback": "Need help?\nSend us feedback anytime or view our\ncontact information. We're here to help.",
+  "Userfeedback": "Feedback Center"
 }

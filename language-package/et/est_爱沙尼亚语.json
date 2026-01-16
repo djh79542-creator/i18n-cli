@@ -885,7 +885,7 @@
   "goToPageButton": "Mine {title}",
   "scheduledFeedingSetupFailed": "Planeeritud toitmise seadistamine nurjus",
   "scheduledFeedingSetupFailedWithReason": "Plaaniline toitmise seadistamine nurjus: {reason}",
-  "photoSavedToProfile": "Foto salvestatud profiili",
+  "photoSavedToProfile": "Foto salvestatud",
   "photoSavedToProfileTapToView": "Foto salvestati profiili. Vaatamiseks puudutage",
   "videoUploaded": "Video üles laaditud",
   "videoUploadedTapToView": "Video üles laaditud. Vaatamiseks puudutage",
@@ -969,5 +969,17 @@
   "networksAvailable": "võrgu kättesaadav",
   "AIgeneration": "AI generatsioon",
   "DeletethisSchedule": "Kas kustutada see ajakava?",
-  "wifiSetupGuideInstructionPT08V2": "2.Hoidke kinni umbes 5 sekundit, kuni näitaja valgus hakkab vilkuma roheliselt."
+  "wifiSetupGuideInstructionPT08V2": "2.Hoidke kinni umbes 5 sekundit, kuni näitaja valgus hakkab vilkuma roheliselt.",
+  "DownloadUpdate": "Uuenduse allalaadimine",
+  "downloadingUpdate": "Uuenduse allalaadimine...",
+  "newVersionAvailable": "Uus versioon saadaval",
+  "downloadFailed": "Laadimine nurjus.",
+  "chatGuideWelcomeTitle": "Tere tulemast!",
+  "chatGuideWelcomeBody": "Sa võid minuga otse rääkida.  \nMa saan aidata lemmikloomade hoolduses ja seadme kasutamises.",
+  "chatGuideNextStep": "Järgmine (1/3)",
+  "chatGuideNextStep2": "Järgmine (2/3)",
+  "chatGuideDeviceCenter": "See on teie seadme keskus.  \nLisage seadmed, kontrollige nende seisundit ja hallage neid lihtsalt.",
+  "chatGuideDone": "Valmis",
+  "chatGuideFeedback": "Vajad abi?  \nSaatke meile igal ajal tagasisidet või vaadake meie\nkontaktandmeid. Me oleme siin, et aidata.",
+  "Userfeedback": "Tagasiside keskus"
 }

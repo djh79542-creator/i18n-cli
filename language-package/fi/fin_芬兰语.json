@@ -885,7 +885,7 @@
   "goToPageButton": "Mene {title}",
   "scheduledFeedingSetupFailed": "Ajatullinen syöttö epäonnistui",
   "scheduledFeedingSetupFailedWithReason": "Ajatullinen syöttö epäonnistui: {reason}",
-  "photoSavedToProfile": "Kuva tallennettu profiiliin",
+  "photoSavedToProfile": "Kuva tallennettu",
   "photoSavedToProfileTapToView": "Kuva tallennettu profiiliin. Napauta nähdäksesi",
   "videoUploaded": "Video ladattu",
   "videoUploadedTapToView": "Video ladattu. Napauta nähdäksesi",
@@ -969,5 +969,17 @@
   "networksAvailable": "verkko käytettävissä",
   "AIgeneration": "AI-sukupolvi",
   "DeletethisSchedule": "Poistaako tämä aikataulu?",
-  "wifiSetupGuideInstructionPT08V2": "2. Pidä kiinni noin 5 sekuntia, kunnes merkkivalo alkaa vilkkua vihreästi."
+  "wifiSetupGuideInstructionPT08V2": "2. Pidä kiinni noin 5 sekuntia, kunnes merkkivalo alkaa vilkkua vihreästi.",
+  "DownloadUpdate": "Lataa päivitys",
+  "downloadingUpdate": "Lataa päivitystä…",
+  "newVersionAvailable": "Uusi versio saatavilla",
+  "downloadFailed": "Lataus epäonnistui.",
+  "chatGuideWelcomeTitle": "Tervetuloa!",
+  "chatGuideWelcomeBody": "Voit puhua suoraan kanssani.  \nVoin auttaa lemmikkien hoitoon ja laitteen käyttöön.",
+  "chatGuideNextStep": "Seuraava (1/3)",
+  "chatGuideNextStep2": "Seuraava (2/3)",
+  "chatGuideDeviceCenter": "Tämä on laitekeskuksesi.  \nLisää laitteita, tarkista niiden tila ja hallitse niitä helposti.",
+  "chatGuideDone": "Valmis",
+  "chatGuideFeedback": "Tarvitsetko apua? \nLähetä meille palautetta milloin tahansa tai katso\nyhteystietojamme. Tulimme auttamaan.",
+  "Userfeedback": "Palautekeskus"
 }

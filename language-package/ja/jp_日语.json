@@ -885,7 +885,7 @@
   "goToPageButton": " {title}へ",
   "scheduledFeedingSetupFailed": "スケジュールされた給料設定に失敗しました",
   "scheduledFeedingSetupFailedWithReason": "スケジュールされたフィーディングセットアップに失敗しました: {reason}",
-  "photoSavedToProfile": "プロフィールに保存された写真",
+  "photoSavedToProfile": "保存されました",
   "photoSavedToProfileTapToView": "写真はプロフィールに保存されました。タップで表示する",
   "videoUploaded": "ビデオアップロード",
   "videoUploadedTapToView": "ビデオアップロードタップで表示する",
@@ -969,5 +969,17 @@
   "networksAvailable": "利用可能なネットワーク",
   "AIgeneration": "AI生成",
   "DeletethisSchedule": "このスケジュールを削除？",
-  "wifiSetupGuideInstructionPT08V2": "インジケータライトが緑色に指指示し始めるまで約5秒間保持してください。"
+  "wifiSetupGuideInstructionPT08V2": "インジケータライトが緑色に指指示し始めるまで約5秒間保持してください。",
+  "DownloadUpdate": "ダウンロード 更新",
+  "downloadingUpdate": "更新プログラムをダウンロード中…",
+  "newVersionAvailable": "利用可能な新しいバージョン",
+  "downloadFailed": "ダウンロード失敗しました。",
+  "chatGuideWelcomeTitle": "ようこそ！",
+  "chatGuideWelcomeBody": "直接話すことができます。 \nペットケアやデバイスの使用を助けることができます。",
+  "chatGuideNextStep": "次 (1/3)",
+  "chatGuideNextStep2": "次 (2/3)",
+  "chatGuideDeviceCenter": "これがデバイスセンターです。 \nデバイスを追加し、状態を確認し、簡単に管理します。",
+  "chatGuideDone": "完成",
+  "chatGuideFeedback": "助けが必要ですか？ \nいつでもフィードバックを送信するか\n連絡先情報をご覧ください。助けるためにここにいる",
+  "Userfeedback": "フィードバックセンター"
 }

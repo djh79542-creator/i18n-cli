@@ -885,7 +885,7 @@
   "goToPageButton": "Отидете към {title}",
   "scheduledFeedingSetupFailed": "Планираната настройка на храненето се провали",
   "scheduledFeedingSetupFailedWithReason": "Планираната настройка на храненето се провали: {reason}",
-  "photoSavedToProfile": "Снимката е записана в профила",
+  "photoSavedToProfile": "Снимката е запазена",
   "photoSavedToProfileTapToView": "Снимката е записана в профила. Докоснете, за да видите",
   "videoUploaded": "Качено видео",
   "videoUploadedTapToView": "Видеото е качено. Докоснете, за да видите",
@@ -969,5 +969,17 @@
   "networksAvailable": "налична мрежа",
   "AIgeneration": "Генерация на изкуствен интелект",
   "DeletethisSchedule": "Изтрийте ли този график?",
-  "wifiSetupGuideInstructionPT08V2": "2.Hold задържане за около 5 секунди, докато индикаторът светлина започва да мига зелено."
+  "wifiSetupGuideInstructionPT08V2": "2.задържане за около 5 секунди, докато индикаторът светлина започва да мига зелено.",
+  "DownloadUpdate": "Изтегляне на актуализация",
+  "downloadingUpdate": "Изтегляне на актуализация...",
+  "newVersionAvailable": "Нова версия на разположение",
+  "downloadFailed": "Изтеглянето се провали.",
+  "chatGuideWelcomeTitle": "Добре дошли!",
+  "chatGuideWelcomeBody": "Можеш да говориш директно с мен.  \nМога да помогна с грижата за домашни любимци и използването на устройства.",
+  "chatGuideNextStep": "Следваща (1/3)",
+  "chatGuideNextStep2": "Следваща (2/3)",
+  "chatGuideDeviceCenter": "Това е вашият център за устройства.  \nДобавете устройства, проверете състоянието им и ги управлявайте лесно.",
+  "chatGuideDone": "Свършено",
+  "chatGuideFeedback": "Трябва ли ти помощ? \nИзпратете ни обратна връзка по всяко време или вижте нашата\nконтактна информация. Тук сме, за да помогнем.",
+  "Userfeedback": "Център за обратна връзка"
 }

@@ -885,7 +885,7 @@
   "goToPageButton": "Pojdi na {title}",
   "scheduledFeedingSetupFailed": "Nastavitev načrtovanega podajanja ni uspela",
   "scheduledFeedingSetupFailedWithReason": "Nastavitev načrtovanega podajanja ni uspela: {reason}",
-  "photoSavedToProfile": "Fotografija shranjena v profil",
+  "photoSavedToProfile": "Fotografija shranjena",
   "photoSavedToProfileTapToView": "Fotografija je shranjena v profil. Tapnite za ogled",
   "videoUploaded": "Video naložen",
   "videoUploadedTapToView": "Video naložen. Tapnite za ogled",
@@ -969,5 +969,17 @@
   "networksAvailable": "omrežje na voljo",
   "AIgeneration": "Ustvarjanje umetne inteligence",
   "DeletethisSchedule": "Izbrišem ta urnik?",
-  "wifiSetupGuideInstructionPT08V2": "2.Držite približno 5 sekund, dokler indikatorska lučka ne utripa zeleno."
+  "wifiSetupGuideInstructionPT08V2": "2.Držite približno 5 sekund, dokler indikatorska lučka ne utripa zeleno.",
+  "DownloadUpdate": "Prenesi posodobitev",
+  "downloadingUpdate": "Prenos posodobitve...",
+  "newVersionAvailable": "Nova različica je na voljo",
+  "downloadFailed": "Prenos ni uspel.",
+  "chatGuideWelcomeTitle": "Dobrodošli!",
+  "chatGuideWelcomeBody": "Lahko govoriš direktno z mano. \nLahko pomagam pri negi hišnih ljubljenčkov in uporabi naprave.",
+  "chatGuideNextStep": "Naslednji (1/3)",
+  "chatGuideNextStep2": "Naslednji (2/3)",
+  "chatGuideDeviceCenter": "To je vaš center naprave. \nDodajte naprave, preverite njihovo stanje in jih enostavno upravljajte.",
+  "chatGuideDone": "Končano",
+  "chatGuideFeedback": "Potrebuješ pomoč? \nPošljite nam povratne informacije kadarkoli ali si oglejte naše kontaktne podatke. Tukaj smo, da pomagamo.",
+  "Userfeedback": "Središče za povratne informacije"
 }

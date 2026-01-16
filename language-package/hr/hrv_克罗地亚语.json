@@ -885,7 +885,7 @@
   "goToPageButton": "Idi na {title}",
   "scheduledFeedingSetupFailed": "Planirano postavljanje hranjenja nije uspjelo",
   "scheduledFeedingSetupFailedWithReason": "Planirana konfiguracija hranjenja nije uspjela: {reason}",
-  "photoSavedToProfile": "Slika spremljena na profil",
+  "photoSavedToProfile": "Fotografija spremljena",
   "photoSavedToProfileTapToView": "Slika spremljena na profil. Dodirnite da biste vidjeli",
   "videoUploaded": "Video upload",
   "videoUploadedTapToView": "Video upload. Dodirnite da biste vidjeli",
@@ -969,5 +969,17 @@
   "networksAvailable": "mreža dostupna",
   "AIgeneration": "Generacija umjetne inteligencije",
   "DeletethisSchedule": "Izbrisati ovaj raspored?",
-  "wifiSetupGuideInstructionPT08V2": "2.Držite oko 5 sekundi dok svjetlo pokazatelja ne počne treperiti zeleno."
+  "wifiSetupGuideInstructionPT08V2": "2.Držite oko 5 sekundi dok svjetlo pokazatelja ne počne treperiti zeleno.",
+  "DownloadUpdate": "Preuzimanje ažuriranja",
+  "downloadingUpdate": "Preuzimanje ažuriranja…",
+  "newVersionAvailable": "Nova verzija dostupna",
+  "downloadFailed": "Preuzimanje nije uspjelo.",
+  "chatGuideWelcomeTitle": "Dobrodošli!",
+  "chatGuideWelcomeBody": "Možete razgovarati sa mnom izravno.  \nMogu vam pomoći u skrbi za kućne ljubimce i korištenju uređaja.",
+  "chatGuideNextStep": "Sljedeći (1/3)",
+  "chatGuideNextStep2": "Sljedeći (2/3)",
+  "chatGuideDeviceCenter": "Ovo je vaš uređaj centar. \nDodajte uređaje, provjerite njihov status i jednostavno ih upravljajte.",
+  "chatGuideDone": "Završeno",
+  "chatGuideFeedback": "Trebaš pomoć? \nPošaljite nam povratne informacije u bilo koje vrijeme ili pogledajte naše\nkontakt informacije. Ovdje smo da pomognemo.",
+  "Userfeedback": "Centar povratnih informacija"
 }
