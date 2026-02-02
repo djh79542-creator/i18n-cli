@@ -5,7 +5,7 @@ const md5 = require('md5');
 const axios = require('axios');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 7777;
 const ROOT = './language-package';
 const MAIN_LANG = 'en';
 
