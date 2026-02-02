@@ -639,7 +639,7 @@
 	"alarmEventVolumeDetect": "騒音",
 	"alarmEventPIRHuman": "残量",
 	"alarmEventLowBatteryLevel": "バッテリー低",
-	"alarmEventEmergencyAlarm": "SOS",
+	"alarmEventEmergencyAlarm": "緊急",
 	"alarmEventEmergencyAlarmRemove": "SOSオフ",
 	"alarmEventHumanMovementAlarm": "移動",
 	"alarmEventDesiccantFailure": "乾燥失敗",

@@ -639,7 +639,7 @@
 	"alarmEventVolumeDetect": "Шум",
 	"alarmEventPIRHuman": "Остаток",
 	"alarmEventLowBatteryLevel": "Мало батарей",
-	"alarmEventEmergencyAlarm": "SOS",
+	"alarmEventEmergencyAlarm": "Экстренно",
 	"alarmEventEmergencyAlarmRemove": "SOS Выключено",
 	"alarmEventHumanMovementAlarm": "Двигаться",
 	"alarmEventDesiccantFailure": "Ошибка сушки",

@@ -639,7 +639,7 @@
 	"alarmEventVolumeDetect": "소음",
 	"alarmEventPIRHuman": "남은 양",
 	"alarmEventLowBatteryLevel": "배터리 부족",
-	"alarmEventEmergencyAlarm": "SOS",
+	"alarmEventEmergencyAlarm": "구조 요청",
 	"alarmEventEmergencyAlarmRemove": "SOS 꺼짐",
 	"alarmEventHumanMovementAlarm": "이동",
 	"alarmEventDesiccantFailure": "건조 실패",
