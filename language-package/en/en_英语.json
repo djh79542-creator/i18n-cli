@@ -36,7 +36,7 @@
 	"hammer_v2": "hammer-v2",
 	"homeV2": "Home",
 	"chatHistoryV2": "Chat History Page",
-	"confirmDeleteConversation": "Are you sure you want to delete conversatiion",
+	"confirmDeleteConversation": "Are you sure you want to delete conversation",
 	"setting": "Setting",
 	"privacyUserAgreement": "Privacy & User Agreement",
 	"about": "About",
@@ -231,14 +231,14 @@
 	"pageNavigation": "Page Navigation",
 	"goToPage": "Go to Page",
 	"askHammer": "Ask Livpet",
-	
+
 	"chatGuideSubtitle": "You can tell me like this",
-  
+
 	"deviceResetStartConnecting": "Device reset, start connecting",
 	"textInputHint": "Enter your question",
 	"holdToSpeak": "Hold to speak",
 	"video Call": "Video Call",
-	"Album": "Album", 
+	"Album": "Album",
 	"record the call tone": "Record the Call Tone",
 	"voiceInputHint": "Hold to Speak",
 	"voiceRecording": "Recording...",
@@ -508,7 +508,7 @@
 	"photoAlbum": "Album",
 	"equipmentSoftwareUpgrade": "Equipment Software Upgrade",
 	"faq": "FAQ",
-	
+
 	"pageTitleWifiSetupGuide": "Add New Device",
 	"pageTitleFeedPage": "Feeder Dashboard",
 	"pageTitleScheduledFeedingList": "Feeding Schedule",
@@ -520,7 +520,7 @@
 	"pageTitleHelpCenterV2": "Help Center",
 	"pageTitleAlarmTone": "Record the call tone",
 	"pageTitlePage": "Page",
-	
+
 	"audioSettings": "Audio Settings",
 	"intelligentAlarm": "Intelligent Alarm",
 	"infraredNightVision": "Infrared Night Vision",
@@ -701,11 +701,10 @@
 	"startManualBinding": "Start Setup",
 	"rescan": "Rescan",
 	"pleaseCheckThe": "Please check the ",
-	"helpGuide": "help guide",
 	"andMakeSureDeviceInPairingMode": " and make sure the device is in pairing mode",
 	"pleaseMakeSureDeviceIsIn": "Please make sure the device is in ",
 	"pairingMode": "pairing mode",
-	
+
 	"notificationList": "Notification List",
 	"allRead": "All Read",
 	"noMoreNotification": "No more notification",
@@ -1055,6 +1054,32 @@
 	"deviceIsOffline": "The device is offline",
 	"viewDevice": "View Device",
 	"notice": "Notice",
-	"capture": "Capture",
-	"settings": "Settings"
-  }
+	  "capture": "Capture",
+	  "settings": "Settings",
+
+	"deviceDetectedTitle": "Device Detected",
+	  "deviceDetectedDescriptionPrefix": "It looks like you are scanning a ",
+	  "deviceDetectedDescriptionMiddle": ", but you selected ",
+	  "deviceDetectedDescriptionSuffix":
+		  ". Please go back and choose the correct device type.",
+	  "switchToDevice": "Switch to {deviceName}",
+	  "manualBindingKeepDevicePoweredOn": "Please keep the device powered on",
+	  "manualBindingDeviceCloseToRouter": "Make sure the device is close to the router",
+	  "manualBindingKeepNetworkStable": "Keep the network stable",
+	  "manualBindingBluetoothTakingLonger": "Bluetooth connection is taking longer than expected. ",
+	  "manualBindingYouCanConnectBy": "You can connect by ",
+	  "manualBindingScanningQRCode": "scanning the QR code",
+	  "manualBindingFailedTitle": "Device Addition Failed",
+	  "manualBindingFailedCheckDeviceNearby": "Check whether the device is nearby",
+	  "manualBindingFailedCheckDevicePoweredOn": "Check whether the device is powered on",
+	  "manualBindingFailedResetNetworkAgain": "You must manually reset the device's network again before reconnecting",
+	  "manualNetworkFailedTitle": "Device Addition Failed",
+	  "manualNetworkFailedSubtitle": "Network connection failed",
+	  "manualNetworkFailedCheckWifi24G": "Check whether the Wi-Fi network is 2.4 GHz",
+	  "manualNetworkFailedVerifyPassword": "Verify that the Wi-Fi password is correct",
+	  "manualNetworkFailedResetNetworkAgain": "You must manually reset the device's network again before reconnecting",
+	 "noDevicesFoundManualAdd": "No devices found. Please try adding manually.",
+	  "pleaseCheckHelpGuide": "Please check the ",
+	  "helpGuide": "Help Guide",
+	  "ensureDevicePairingMode": " and\nmake sure the device is in pairing mode."
+}
