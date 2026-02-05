@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "لم يتم العثور على أي أجهزة. يرجى محاولة إضافة يدويا.",
   "pleaseCheckHelpGuide": "يرجى التحقق من",
   "ensureDevicePairingMode": "و\nتأكد من أن الجهاز في وضع الاقتران.",
-  "confirmDeleteConversation": "هل أنت متأكد من أنك تريد حذف المحادثة؟"
+  "confirmDeleteConversation": "هل أنت متأكد من أنك تريد حذف المحادثة؟",
+  "petTriage": "صحة الأليف",
+  "petTriageComingSoon": "ميزة جديدة قيد التطوير، انتظرونا!",
+  "noDeviceSelected": "لم يتم اختيار أي جهاز",
+  "feedingMonitor": "مراقبة التغذية",
+  "feedingMonitorDesc": "التقاط الصور تلقائيا بعد التغذية لتحليل حالة الأكل"
 }

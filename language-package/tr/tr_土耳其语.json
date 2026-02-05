@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Hiçbir cihaz bulunmadı. Lütfen manuel olarak eklemeyi deneyin.",
   "pleaseCheckHelpGuide": "Lütfen kontrol edin",
   "ensureDevicePairingMode": "ve\ncihazın eşleştirme modunda olduğundan emin olun.",
-  "confirmDeleteConversation": "Konuşmayı silmek istediğinizden emin misiniz?"
+  "confirmDeleteConversation": "Konuşmayı silmek istediğinizden emin misiniz?",
+  "petTriage": "Evcil Sağlığı",
+  "petTriageComingSoon": "Yeni özellik geliştirme aşamasında. Takipte kalın!",
+  "noDeviceSelected": "Hiçbir cihaz seçilmedi",
+  "feedingMonitor": "Besleme Monitörü",
+  "feedingMonitorDesc": "Yemek durumunu analiz etmek için beslendikten sonra fotoğrafları otomatik olarak yakalar"
 }

@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Inga enheter hittades. Försök att lägga till manuellt.",
   "pleaseCheckHelpGuide": "Vänligen kolla",
   "ensureDevicePairingMode": "och\nse till att enheten är i parningsläge.",
-  "confirmDeleteConversation": "Är du säker på att du vill ta bort en konversation?"
+  "confirmDeleteConversation": "Är du säker på att du vill ta bort en konversation?",
+  "petTriage": "Husdjurshälsa",
+  "petTriageComingSoon": "Ny funktion under utveckling. Håll utkik!",
+  "noDeviceSelected": "Ingen enhet vald",
+  "feedingMonitor": "Matningsövervakning",
+  "feedingMonitorDesc": "Automatiskt fångar bilder efter matning för att analysera ätstatus"
 }

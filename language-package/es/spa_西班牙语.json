@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "No se han encontrado dispositivos. Por favor, intente añadir manualmente.",
   "pleaseCheckHelpGuide": "Por favor compruebe el",
   "ensureDevicePairingMode": "y\nasegúrese de que el dispositivo está en modo de emparejamiento.",
-  "confirmDeleteConversation": " ¿Estás seguro de que quieres borrar una conversación?"
+  "confirmDeleteConversation": " ¿Estás seguro de que quieres borrar una conversación?",
+  "petTriage": "Salud Mascota",
+  "petTriageComingSoon": "Nueva función en desarrollo. ¡Mantente al tanto!",
+  "noDeviceSelected": "No se ha seleccionado ningún dispositivo",
+  "feedingMonitor": "Monitor de alimentación",
+  "feedingMonitorDesc": "Captura automáticamente fotos después de la alimentación para analizar el estado de la alimentación"
 }

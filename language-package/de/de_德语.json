@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Keine Geräte gefunden. Bitte versuchen Sie manuell hinzuzufügen.",
   "pleaseCheckHelpGuide": "Bitte überprüfen Sie die",
   "ensureDevicePairingMode": "und\nstellen Sie sicher, dass sich das Gerät im Paarungsmodus befindet.",
-  "confirmDeleteConversation": "Sind Sie sicher, dass Sie Gespräch löschen möchten"
+  "confirmDeleteConversation": "Sind Sie sicher, dass Sie Gespräch löschen möchten",
+  "petTriage": "Haustierwohl",
+  "petTriageComingSoon": "Neue Funktion in Entwicklung. Bleiben Sie gespannt!",
+  "noDeviceSelected": "Kein Gerät ausgewählt",
+  "feedingMonitor": "Fütterungsmonitor",
+  "feedingMonitorDesc": "Automatische Aufnahme von Fotos nach der Fütterung zur Analyse des Ernährungsstatus"
 }

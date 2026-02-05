@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Naprav ni bila najdena. Prosim, poskusite dodati ročno.",
   "pleaseCheckHelpGuide": "Prosim preverite",
   "ensureDevicePairingMode": "in\npreverite, ali je naprava v načinu združevanja.",
-  "confirmDeleteConversation": "Ali ste prepričani, da želite izbrisati pogovor"
+  "confirmDeleteConversation": "Ali ste prepričani, da želite izbrisati pogovor",
+  "petTriage": "Zdravje ljubljenčka",
+  "petTriageComingSoon": "Nova funkcija v razvoju. Ostanite z nami!",
+  "noDeviceSelected": "Ni izbrana naprava",
+  "feedingMonitor": "Nadzornik hranjenja",
+  "feedingMonitorDesc": "Samodejno zajema fotografije po hranjenju za analizo stanja hranjenja"
 }

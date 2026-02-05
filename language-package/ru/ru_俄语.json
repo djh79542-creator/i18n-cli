@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Не найдено устройств. Пожалуйста, попробуйте добавить вручную.",
   "pleaseCheckHelpGuide": "Пожалуйста, проверьте",
   "ensureDevicePairingMode": "и\nубедитесь, что устройство находится в режиме парования.",
-  "confirmDeleteConversation": "Вы уверены, что хотите удалить разговор"
+  "confirmDeleteConversation": "Вы уверены, что хотите удалить разговор",
+  "petTriage": "Здоровье питомца",
+  "petTriageComingSoon": "Новая функция в разработке. Оставайтесь с нами!",
+  "noDeviceSelected": "Не выбрано устройства",
+  "feedingMonitor": "Монитор кормления",
+  "feedingMonitorDesc": "Автозахват фотографий после кормления для анализа состояния еды"
 }

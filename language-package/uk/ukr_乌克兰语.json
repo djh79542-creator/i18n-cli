@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Не знайдено пристроїв. Будь ласка, спробуйте додати вручну.",
   "pleaseCheckHelpGuide": "Будь ласка, перевірте",
   "ensureDevicePairingMode": "і\nпереконайтеся, що пристрій знаходиться в режимі парування.",
-  "confirmDeleteConversation": "Ви впевнені, що хочете видалити розмову"
+  "confirmDeleteConversation": "Ви впевнені, що хочете видалити розмову",
+  "petTriage": "Здоров'я улюбленця",
+  "petTriageComingSoon": "Нова функція в розробці. Слідкуйте за оновленнями!",
+  "noDeviceSelected": "Не вибрано пристрою",
+  "feedingMonitor": "Монітор годування",
+  "feedingMonitorDesc": "Автозахоплює фотографії після годування для аналізу стану харчування"
 }

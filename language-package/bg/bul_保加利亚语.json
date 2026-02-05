@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Не са намерени устройства. Моля, опитайте да добавите ръчно.",
   "pleaseCheckHelpGuide": "Моля проверете",
   "ensureDevicePairingMode": "и\nуверете се, че устройството е в режим на свързване.",
-  "confirmDeleteConversation": "Сигурни ли сте, че искате да изтриете разговора"
+  "confirmDeleteConversation": "Сигурни ли сте, че искате да изтриете разговора",
+  "petTriage": "Здраве питомец",
+  "petTriageComingSoon": "Нова функция в процес на разработка. Очаквайте скоро!",
+  "noDeviceSelected": "Не е избрано устройство",
+  "feedingMonitor": "Монитор за хранене",
+  "feedingMonitorDesc": "Автоматично улавя снимки след хранене, за да анализира състоянието на храненето"
 }

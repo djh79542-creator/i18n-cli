@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "未找到设备。请尝试手动添加。",
   "pleaseCheckHelpGuide": "请检查",
   "ensureDevicePairingMode": "和\n确保设备处于配对模式。",
-  "confirmDeleteConversation": "您确定要删除对话吗"
+  "confirmDeleteConversation": "您确定要删除对话吗",
+  "petTriage": "宠物健康",
+  "petTriageComingSoon": "新功能正在开发中，敬请期待！",
+  "noDeviceSelected": "未选择设备",
+  "feedingMonitor": "喂食监测器",
+  "feedingMonitorDesc": "喂食后自动拍摄照片以分析进食状态"
 }

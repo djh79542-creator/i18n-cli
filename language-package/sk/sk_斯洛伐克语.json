@@ -1074,5 +1074,10 @@
   "noDevicesFoundManualAdd": "Žiadne zariadenia nenašli. Skúste ju pridať manuálne.",
   "pleaseCheckHelpGuide": "Prosím skontrolujte",
   "ensureDevicePairingMode": "a\nuistite sa, že zariadenie je v režime spárovania.",
-  "confirmDeleteConversation": "Ste si istí, že chcete vymazať konverzáciu"
+  "confirmDeleteConversation": "Ste si istí, že chcete vymazať konverzáciu",
+  "petTriage": "Zdravie miláčika",
+  "petTriageComingSoon": "Nová funkcia vo vývoji. Zostaňte s nami!",
+  "noDeviceSelected": "Žiadne vybrané zariadenie",
+  "feedingMonitor": "Monitor kŕmenia",
+  "feedingMonitorDesc": "Automatické zachytávanie fotografií po kŕmení na analýzu stavu stravy"
 }

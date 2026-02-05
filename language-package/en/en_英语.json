@@ -1081,5 +1081,10 @@
 	 "noDevicesFoundManualAdd": "No devices found. Please try adding manually.",
 	  "pleaseCheckHelpGuide": "Please check the ",
 	  "helpGuide": "Help Guide",
-	  "ensureDevicePairingMode": " and\nmake sure the device is in pairing mode."
+	  "ensureDevicePairingMode": " and\nmake sure the device is in pairing mode.",
+	  "petTriage": "Pet Health",
+	  "petTriageComingSoon": "New feature in development. Stay tuned!",
+	"noDeviceSelected": "No device selected",
+	"feedingMonitor": "Feeding Monitor",
+	"feedingMonitorDesc": "Auto-captures photos after feeding to analyze eating status"
 }
