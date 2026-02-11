@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "新功能正在开发中，敬请期待！",
   "noDeviceSelected": "未选择设备",
   "feedingMonitor": "喂食监测器",
-  "feedingMonitorDesc": "喂食后自动拍摄照片以分析进食状态"
+  "feedingMonitorDesc": "喂食后自动拍摄照片以分析进食状态",
+  "networkUnavailable": "网络不可用"
 }

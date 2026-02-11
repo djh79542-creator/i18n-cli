@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Ny funktion under utveckling. Håll utkik!",
   "noDeviceSelected": "Ingen enhet vald",
   "feedingMonitor": "Matningsövervakning",
-  "feedingMonitorDesc": "Automatiskt fångar bilder efter matning för att analysera ätstatus"
+  "feedingMonitorDesc": "Automatiskt fångar bilder efter matning för att analysera ätstatus",
+  "networkUnavailable": "Nätverk inte tillgängligt"
 }

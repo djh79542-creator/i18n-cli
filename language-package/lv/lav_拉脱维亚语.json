@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Jauna funkcija attīstībā. Palūkiet uzraudzīti!",
   "noDeviceSelected": "Nav izvēlēta ierīce",
   "feedingMonitor": "Barošanas monitors",
-  "feedingMonitorDesc": "Automātiski uzņem fotogrāfijas pēc barošanas, lai analizētu ēdināšanas statusu"
+  "feedingMonitorDesc": "Automātiski uzņem fotogrāfijas pēc barošanas, lai analizētu ēdināšanas statusu",
+  "networkUnavailable": "Tīkls nav pieejams"
 }

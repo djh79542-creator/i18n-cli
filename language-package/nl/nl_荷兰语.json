@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Nieuwe functie in ontwikkeling. Blijf op de hoogte!",
   "noDeviceSelected": "Geen apparaat geselecteerd",
   "feedingMonitor": "Voedingsmonitor",
-  "feedingMonitorDesc": "Foto's automatisch vastleggen na het voeden om de eetstatus te analyseren"
+  "feedingMonitorDesc": "Foto's automatisch vastleggen na het voeden om de eetstatus te analyseren",
+  "networkUnavailable": "Netwerk niet beschikbaar"
 }

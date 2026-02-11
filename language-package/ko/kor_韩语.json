@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "개발의 새로운 기능.유지하세요!",
   "noDeviceSelected": "선택된 장치 없음",
   "feedingMonitor": "먹이는 모니터",
-  "feedingMonitorDesc": "먹이를 한 후 사진을 자동으로 캡처하여 식사 상태를 분석합니다."
+  "feedingMonitorDesc": "먹이를 한 후 사진을 자동으로 캡처하여 식사 상태를 분석합니다.",
+  "networkUnavailable": "네트워크 사용할 수 없음"
 }

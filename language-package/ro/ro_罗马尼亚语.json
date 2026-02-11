@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Funcție nouă în dezvoltare. Rămâneți aproape!",
   "noDeviceSelected": "Nissun dispositiv seleccionat",
   "feedingMonitor": "Monitor la câfie",
-  "feedingMonitorDesc": "Captul automaticamente fotografie pala la xabe pentru analisare stato kai xal"
+  "feedingMonitorDesc": "Captul automaticamente fotografie pala la xabe pentru analisare stato kai xal",
+  "networkUnavailable": "Red disponibil"
 }

@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "ميزة جديدة قيد التطوير، انتظرونا!",
   "noDeviceSelected": "لم يتم اختيار أي جهاز",
   "feedingMonitor": "مراقبة التغذية",
-  "feedingMonitorDesc": "التقاط الصور تلقائيا بعد التغذية لتحليل حالة الأكل"
+  "feedingMonitorDesc": "التقاط الصور تلقائيا بعد التغذية لتحليل حالة الأكل",
+  "networkUnavailable": "الشبكة غير متوفرة"
 }

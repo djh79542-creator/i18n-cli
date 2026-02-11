@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Új funkció a fejlesztésben. Maradj nyomon!",
   "noDeviceSelected": "Nincs kiválasztott eszköz",
   "feedingMonitor": "táplálkozási monitor",
-  "feedingMonitorDesc": "Fotók automatikus rögzítése etetés után az étkezési állapot elemzéséhez"
+  "feedingMonitorDesc": "Fotók automatikus rögzítése etetés után az étkezési állapot elemzéséhez",
+  "networkUnavailable": "Hálózat nem elérhető"
 }

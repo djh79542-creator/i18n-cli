@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Nova funkcija v razvoju. Ostanite z nami!",
   "noDeviceSelected": "Ni izbrana naprava",
   "feedingMonitor": "Nadzornik hranjenja",
-  "feedingMonitorDesc": "Samodejno zajema fotografije po hranjenju za analizo stanja hranjenja"
+  "feedingMonitorDesc": "Samodejno zajema fotografije po hranjenju za analizo stanja hranjenja",
+  "networkUnavailable": "Omrežje ni na voljo"
 }

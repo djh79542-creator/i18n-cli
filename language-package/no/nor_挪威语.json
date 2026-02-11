@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Ny utvikling. Hold kjeft!",
   "noDeviceSelected": "Ingen utstyr valgt",
   "feedingMonitor": "Matmonitor",
-  "feedingMonitorDesc": "Autofanger bilder etter mat for å analysere spisestatus"
+  "feedingMonitorDesc": "Autofanger bilder etter mat for å analysere spisestatus",
+  "networkUnavailable": "Network utilgjengelig"
 }

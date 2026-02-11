@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Uusi ominaisuus kehityksessä. Pysy seuraamassa!",
   "noDeviceSelected": "Ei laitetta valittu",
   "feedingMonitor": "Syöttö Monitor",
-  "feedingMonitorDesc": "Ottaa automaattisesti valokuvia syömisen jälkeen syömisen tilan analysoimiseksi"
+  "feedingMonitorDesc": "Ottaa automaattisesti valokuvia syömisen jälkeen syömisen tilan analysoimiseksi",
+  "networkUnavailable": "Verkko ei ole käytettävissä"
 }

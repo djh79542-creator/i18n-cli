@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Yeni özellik geliştirme aşamasında. Takipte kalın!",
   "noDeviceSelected": "Hiçbir cihaz seçilmedi",
   "feedingMonitor": "Besleme Monitörü",
-  "feedingMonitorDesc": "Yemek durumunu analiz etmek için beslendikten sonra fotoğrafları otomatik olarak yakalar"
+  "feedingMonitorDesc": "Yemek durumunu analiz etmek için beslendikten sonra fotoğrafları otomatik olarak yakalar",
+  "networkUnavailable": "Ağ kullanılamaz"
 }

@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Nauja savybė plėtroje. Laikykitės!",
   "noDeviceSelected": "Nėra pasirinkto įrenginio",
   "feedingMonitor": "Šėrimo monitorius",
-  "feedingMonitorDesc": "Automatiškai užfiksuoja nuotraukas po maitinimo, kad būtų galima analizuoti valgymo būklę"
+  "feedingMonitorDesc": "Automatiškai užfiksuoja nuotraukas po maitinimo, kad būtų galima analizuoti valgymo būklę",
+  "networkUnavailable": "Tinklas nėra prieinamas"
 }

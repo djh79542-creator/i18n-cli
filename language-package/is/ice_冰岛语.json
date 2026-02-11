@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Ný eiginleiki í þróun. Haltu áfram!",
   "noDeviceSelected": "Ekkert tæki valið",
   "feedingMonitor": "Fæðing Monitor",
-  "feedingMonitorDesc": "Sjálfvirkt tekur myndir eftir fæðingu til að greina matarstöðu"
+  "feedingMonitorDesc": "Sjálfvirkt tekur myndir eftir fæðingu til að greina matarstöðu",
+  "networkUnavailable": "Netið er ekki í boði"
 }

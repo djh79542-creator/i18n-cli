@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Nova značajka u razvoju. Ostanite u toku!",
   "noDeviceSelected": "Nije odabran uređaj",
   "feedingMonitor": "Monitor hranjenja",
-  "feedingMonitorDesc": "Auto-snimanje fotografija nakon hranjenja za analizu stanja hranjenja"
+  "feedingMonitorDesc": "Auto-snimanje fotografija nakon hranjenja za analizu stanja hranjenja",
+  "networkUnavailable": "Mreža nije dostupna"
 }

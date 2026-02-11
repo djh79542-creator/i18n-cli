@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Nová funkce ve vývoji. Zůstaňte s námi!",
   "noDeviceSelected": "Žádné vybrané zařízení",
   "feedingMonitor": "Monitor krmení",
-  "feedingMonitorDesc": "Automatické zachycení fotografií po krmení pro analýzu stavu stravy"
+  "feedingMonitorDesc": "Automatické zachycení fotografií po krmení pro analýzu stavu stravy",
+  "networkUnavailable": "Síť není k dispozici"
 }

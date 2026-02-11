@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Nouvelle fonctionnalité en développement. Restez à l'écoute !",
   "noDeviceSelected": "Aucun périphérique sélectionné",
   "feedingMonitor": "moniteur alimentation",
-  "feedingMonitorDesc": "Capture automatique des photos après l'alimentation pour analyser l'état alimentaire"
+  "feedingMonitorDesc": "Capture automatique des photos après l'alimentation pour analyser l'état alimentaire",
+  "networkUnavailable": "Réseau indisponible"
 }

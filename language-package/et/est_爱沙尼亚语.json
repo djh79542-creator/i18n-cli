@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Uus funktsioon arengus. Jää silmas!",
   "noDeviceSelected": "Seadmet pole valitud",
   "feedingMonitor": "Söötmise Monitor",
-  "feedingMonitorDesc": "Automaatne pildistamine pärast söömist, et analüüsida söömise seisundit"
+  "feedingMonitorDesc": "Automaatne pildistamine pärast söömist, et analüüsida söömise seisundit",
+  "networkUnavailable": "Võrk ei ole kättesaadav"
 }

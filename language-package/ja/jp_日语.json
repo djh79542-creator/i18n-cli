@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "開発中の新機能。お楽しみに！",
   "noDeviceSelected": "デバイスが選択されていません",
   "feedingMonitor": "給餌モニタ",
-  "feedingMonitorDesc": "餌を与えた後に自動的に写真を撮影して食事状態を分析する"
+  "feedingMonitorDesc": "餌を与えた後に自動的に写真を撮影して食事状態を分析する",
+  "networkUnavailable": "ネットワークが使用できません"
 }

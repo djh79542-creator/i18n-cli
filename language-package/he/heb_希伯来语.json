@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "תכונה חדשה בפיתוח. הישארו מעוקבים!",
   "noDeviceSelected": "לא נבחר מכשיר",
   "feedingMonitor": "מעקב האכילה",
-  "feedingMonitorDesc": "צולם תמונות באופן אוטומטי לאחר האכילה כדי לנתח את מצב האכילה"
+  "feedingMonitorDesc": "צולם תמונות באופן אוטומטי לאחר האכילה כדי לנתח את מצב האכילה",
+  "networkUnavailable": "רשת לא זמינה"
 }

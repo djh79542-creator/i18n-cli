@@ -1079,5 +1079,6 @@
   "petTriageComingSoon": "Nowa funkcja w rozwoju. Trzymaj się na śledzeniu!",
   "noDeviceSelected": "Nie wybrano urządzenia",
   "feedingMonitor": "Monitor karmienia",
-  "feedingMonitorDesc": "Automatyczne przechwytywanie zdjęć po karmieniu w celu analizy stanu jedzenia"
+  "feedingMonitorDesc": "Automatyczne przechwytywanie zdjęć po karmieniu w celu analizy stanu jedzenia",
+  "networkUnavailable": "Sieć niedostępna"
 }
