@@ -454,7 +454,7 @@ function addNewKey() {
 
 // 同步所有语言
 async function syncAllLanguages() {
-    if (!confirm('确定要同步所有语言包吗？这将调用翻译API并可能产生费用。')) {
+    if (!confirm('确定要同步所有语言包吗？将为新 key 添加空字符串并删除多余 key；不会调用在线翻译 API，译文请在 Cursor 中用 i18n-ai-translate skill 完成。')) {
         return;
     }
 
@@ -482,7 +482,7 @@ async function syncAllLanguages() {
         }
     } catch (error) {
         console.error('同步失败:', error);
-        updateStatus('同步失败 (模拟环境)');
+        updateStatus(`同步失败: ${error.message || error}`);
     } finally {
         showLoading(false);
     }

@@ -7,6 +7,9 @@
     "start": "node server.js",
     "dev": "nodemon server.js",
     "translate": "node translate-json.js",
+    "i18n:sync-keys": "node translate-json.js",
+    "i18n:queue": "node i18n-ai-queue.js",
+    "i18n:apply": "node apply-i18n-batch.js",
     "docker:build": "docker build -t translation-gui .",
     "docker:run": "docker run -p 3000:3000 -v $(pwd)/language-package:/app/language-package translation-gui",
     "docker:up": "docker-compose up -d",
@@ -16,9 +19,7 @@
   },
   "dependencies": {
     "archiver": "^6.0.2",
-    "axios": "^1.13.2",
-    "express": "^4.22.1",
-    "md5": "^2.3.0"
+    "express": "^4.22.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"

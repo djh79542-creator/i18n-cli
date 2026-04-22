@@ -513,11 +513,9 @@
 	"pageTitleScheduledFeedingList": "Feeding Schedule",
 	"pageTitleScheduledFeedingAdd": "Add Feeding Schedule",
 	"pageTitleFeederSetting": "Feeder Settings",
-	"pageTitleNotifications": "Message Notification",
 	"pageTitleAccountV2": "Personal Account",
 	"pageTitlePetAlbum": "Album",
 	"pageTitleHelpCenterV2": "Help Center",
-	"pageTitleAlarmTone": "Record the call tone",
 	"pageTitlePage": "Page",
 
 	"audioSettings": "Audio Settings",
@@ -1116,5 +1114,82 @@
 	"localWebZipInvalid": "Invalid zip web package",
 	"localWebZipUnzipFailed": "Failed to extract zip web package",
 	"localWebZipEntryMissing": "Zip web entry file is missing",
-	"localWebZipFileInvalid": "Selected zip file is invalid"
+	"localWebZipFileInvalid": "Selected zip file is invalid",
+	"deviceAdditionFailed": "Device Addition Failed",
+	"checkWifi24GHz": "Check whether the Wi-Fi network is 2.4 GHz",
+	"verifyWifiPassword": "Verify that the Wi-Fi password is correct",
+	"resetDeviceNetworkAgain":"You must manually reset the device's network\nagain before reconnecting",
+	"followStepsToRetry": "Follow the steps to retry",
+	"reportAnIssue": "Report an Issue",
+	"checkDeviceNearby": "Check whether the device is nearby",
+	"checkDevicePoweredOn": "Check whether the device is powered on",
+	"notificationCenter": "Notification Center",
+	"notificationEmptyDescription": "When your pet device triggers an alarm, the message will be displayed here.",
+	"notificationLoadFailed": "Failed to load photos",
+	"notificationLoadFailedDescription": "Error retrieving device album",
+	"selectAll": "Select All",
+	"deletingNotifications": "Deleting...",
+	"deleteAllNotificationConfirm": "Are you sure you want to delete all notification?",
+	"deleteSuccess": "Delete successful",
+	"photoFailedTryAgain": "Photo failed. Try again.",
+	"once": "Once",
+	"pageTitleLanguageSettings": "Language Settings",
+	"pageTitleAlarmTone": "Record Feeding Call",
+	"pageTitleNotifications": "Device Message",
+	"systemNotificationTab": "System",
+"deviceNotificationTab": "Device",
+"deviceMessageFeedingRecord": "Feeding Records",
+"deviceMessageFeedingRecordDesc":
+    "View grouped feeding records reported by the device.",
+"deviceMessageDeviceStatus": "Device Status",
+"deviceMessageDeviceStatusDesc":
+    "View grouped online, offline and status change messages.",
+"deviceMessageAlert": "Device Alerts",
+"deviceMessageAlertDesc": "View grouped device alerts and reminder messages.",
+"deviceMessageEmpty": "No device notifications yet",
+"deviceMessagePlaceholder": "This device message page is temporarily empty.",
+"deviceMessageFeedingCompleted": "Feeding completed",
+"deviceMessageFeedingCompletedDesc":
+    "The feeder dispensed 20g of food as scheduled.",
+"deviceMessageManualFeedingTriggered": "Manual feeding triggered",
+"deviceMessageManualFeedingTriggeredDesc":
+    "A manual feeding action delivered 10g successfully.",
+"deviceMessageFeedingDelayed": "Feeding delayed",
+"deviceMessageFeedingDelayedDesc":
+    "The evening feeding started 3 minutes later than planned.",
+"deviceMessageDeviceBackOnline": "Device back online",
+"deviceMessageDeviceBackOnlineDesc":
+    "Network connection has been restored and syncing resumed.",
+"deviceMessageDeviceOffline": "Device offline",
+"deviceMessageDeviceOfflineDesc":
+    "The feeder disconnected from Wi‑Fi for 12 minutes.",
+"deviceMessageFirmwareSyncCompleted": "Firmware sync completed",
+"deviceMessageFirmwareSyncCompletedDesc":
+    "The device reported the latest status configuration.",
+"deviceMessageFoodShortageReminder": "Food shortage reminder",
+"deviceMessageFoodShortageReminderDesc":
+    "The food level is below 15%. Please refill soon.",
+"deviceMessageTrayAbnormalityDetected": "Tray abnormality detected",
+"deviceMessageTrayAbnormalityDetectedDesc":
+    "The feeder noticed an abnormal tray movement and paused.",
+"deviceMessageSoundPromptEnabled": "Sound prompt enabled",
+"deviceMessageSoundPromptEnabledDesc":
+    "The device reminder tone was turned on successfully.",
+"deviceMessageStatusNormal": "Normal",
+"deviceMessageStatusManual": "Manual",
+"deviceMessageStatusDelayed": "Delayed",
+"deviceMessageStatusOnline": "Online",
+"deviceMessageStatusOffline": "Offline",
+"deviceMessageStatusSynced": "Synced",
+"deviceMessageStatusReminder": "Reminder",
+"deviceMessageStatusAlert": "Alert",
+"deviceMessageStatusUpdated": "Updated",
+  "deleteSelectedNotificationConfirm":
+      "Are you sure you want to delete the selected messages?",
+  "selectedMessageCount": "{count} selected",
+  "systemMessageEmpty": "No system messages yet",
+  "systemMessageEmptyDescription":
+      "System announcements and app reminders will appear here.",
+  "deviceMessageEmptyDescription":
+      "Device alerts and reminders will be grouped by date and shown here."
 }
