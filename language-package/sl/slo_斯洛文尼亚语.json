@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Veščine niso na voljo. Najprej dodajte napravo.",
   "livpetAiOnDuty": "LIVPET AI pripravljen",
   "livpetAiOffDuty": "LIVPET AI aktiven",
-  "aiGuardedTodayTimes": "Danes varovano {count}-krat",
+  "aiGuardedTodayTimes": "Danes varovano @count-krat",
   "tapToSetUpSkills": "Dotaknite se za veščine",
   "chatWelcomeTitle": "Živjo, kako lahko pomagam?",
   "chatWelcomeSubtitle": "Sem pametni pomočnik vašega ljubljenčka",

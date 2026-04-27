@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "المهارات غير متوفرة. أضف جهازاً أولاً.",
   "livpetAiOnDuty": "LIVPET AI في وضع الاستعداد",
   "livpetAiOffDuty": "LIVPET AI نشط",
-  "aiGuardedTodayTimes": "تمت الحراسة {count} مرات اليوم",
+  "aiGuardedTodayTimes": "تمت الحراسة @count مرات اليوم",
   "tapToSetUpSkills": "انقر لضبط المهارات",
   "chatWelcomeTitle": "مرحباً، كيف يمكنني المساعدة؟",
   "chatWelcomeSubtitle": "أنا المساعد الذكي لحيوانك الأليف",

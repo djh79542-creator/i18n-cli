@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Dovednosti nejsou k dispozici. Nejprve přidejte zařízení.",
   "livpetAiOnDuty": "LIVPET AI v pohotovosti",
   "livpetAiOffDuty": "LIVPET AI aktivní",
-  "aiGuardedTodayTimes": "Dnes střeženo {count}krát",
+  "aiGuardedTodayTimes": "Dnes střeženo @countkrát",
   "tapToSetUpSkills": "Klepnutím nastavte dovednosti",
   "chatWelcomeTitle": "Ahoj, jak vám mohu pomoct?",
   "chatWelcomeSubtitle": "Jsem chytrý pomocník vašeho mazlíčka",

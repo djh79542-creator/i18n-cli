@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "스킬을 사용할 수 없습니다. 먼저 기기를 추가해 주세요.",
   "livpetAiOnDuty": "LIVPET AI 스탠바이 중",
   "livpetAiOffDuty": "LIVPET AI 작동 중",
-  "aiGuardedTodayTimes": "오늘 {count}회 보호됨",
+  "aiGuardedTodayTimes": "오늘 @count회 보호됨",
   "tapToSetUpSkills": "탭하여 스킬 설정하기",
   "chatWelcomeTitle": "안녕하세요~, 어떻게 도와줄까요?",
   "chatWelcomeSubtitle": "반려동물의 스마트한 어시스턴트입니다",

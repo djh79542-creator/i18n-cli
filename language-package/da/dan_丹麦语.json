@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Skills utilgængelige. Tilføj en enhed først.",
   "livpetAiOnDuty": "LIVPET AI klar",
   "livpetAiOffDuty": "LIVPET AI aktiv",
-  "aiGuardedTodayTimes": "Vogtet {count} gange i dag",
+  "aiGuardedTodayTimes": "Vogtet @count gange i dag",
   "tapToSetUpSkills": "Tryk for at indstille skills",
   "chatWelcomeTitle": "Hej, hvordan kan jeg hjælpe?",
   "chatWelcomeSubtitle": "Jeg er dit kæledyrs smarte assistent",

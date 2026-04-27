@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Skills μη διαθέσιμες. Προσθέστε πρώτα συσκευή.",
   "livpetAiOnDuty": "LIVPET AI έτοιμο",
   "livpetAiOffDuty": "LIVPET AI ενεργό",
-  "aiGuardedTodayTimes": "{count} έλεγχοι σήμερα",
+  "aiGuardedTodayTimes": "Φυλάχτηκε @count φορές σήμερα",
   "tapToSetUpSkills": "Πατήστε για skills",
   "chatWelcomeTitle": "Γεια σας, πώς μπορώ να βοηθήσω;",
   "chatWelcomeSubtitle": "Είμαι ο έξυπνος βοηθός του κατοικίδιού σας",

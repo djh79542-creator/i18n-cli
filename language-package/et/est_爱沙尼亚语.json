@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Oskused pole saadaval. Palun lisage esmalt seade.",
   "livpetAiOnDuty": "LIVPET AI ootel",
   "livpetAiOffDuty": "LIVPET AI aktiivne",
-  "aiGuardedTodayTimes": "Täna valvatud {count} korda",
+  "aiGuardedTodayTimes": "Täna valvatud @count korda",
   "tapToSetUpSkills": "Puuduta oskuste seadistamiseks",
   "chatWelcomeTitle": "Tere, kuidas ma saan aidata?",
   "chatWelcomeSubtitle": "Olen sinu lemmiklooma nutikas abiline",

@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Skills indisponibles. Ajoutez d'abord un appareil.",
   "livpetAiOnDuty": "LIVPET AI en attente",
   "livpetAiOffDuty": "LIVPET AI actif",
-  "aiGuardedTodayTimes": "Surveillé {count} fois auj.",
+  "aiGuardedTodayTimes": "Surveillé @count fois auj.",
   "tapToSetUpSkills": "Appuyez pour skills",
   "chatWelcomeTitle": "Bonjour, comment puis-je vous aider?",
   "chatWelcomeSubtitle": "Je suis le copilote intelligent de votre animal",

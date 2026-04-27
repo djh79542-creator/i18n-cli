@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Taidot eivät ole käytettävissä. Lisää ensin laite.",
   "livpetAiOnDuty": "LIVPET AI valmiina",
   "livpetAiOffDuty": "LIVPET AI päällä",
-  "aiGuardedTodayTimes": "{count} vartiointia tänään",
+  "aiGuardedTodayTimes": "Vartioitu @count kertaa tänään",
   "tapToSetUpSkills": "Napauta taitoja",
   "chatWelcomeTitle": "Hei, miten voin auttaa?",
   "chatWelcomeSubtitle": "Olen lemmikkisi älykäs apulainen",

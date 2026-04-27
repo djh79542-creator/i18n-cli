@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Zručnosti nie sú k dispozícii. Najprv pridajte zariadenie.",
   "livpetAiOnDuty": "LIVPET AI v pohotovosti",
   "livpetAiOffDuty": "LIVPET AI aktívna",
-  "aiGuardedTodayTimes": "Dnes strážené {count}-krát",
+  "aiGuardedTodayTimes": "Dnes strážené @count-krát",
   "tapToSetUpSkills": "Klepnutím nastavte zručnosti",
   "chatWelcomeTitle": "Ahoj, ako môžem pomôcť?",
   "chatWelcomeSubtitle": "Som šikovný pomocník vášho maznáčika",

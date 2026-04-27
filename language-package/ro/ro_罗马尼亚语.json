@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Abilități indisponibile. Adăugați mai întâi un dispozitiv.",
   "livpetAiOnDuty": "LIVPET AI pregătit",
   "livpetAiOffDuty": "LIVPET AI activ",
-  "aiGuardedTodayTimes": "Păzit de {count} ori azi",
+  "aiGuardedTodayTimes": "Păzit @count ori astăzi",
   "tapToSetUpSkills": "Atingeți pentru abilități",
   "chatWelcomeTitle": "Chao~, sar daštiv te ažutiv?",
   "chatWelcomeSubtitle": "Sunt asistentul inteligent al animalului tău",

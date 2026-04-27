@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Skills niet beschikbaar. Voeg eerst een apparaat toe.",
   "livpetAiOnDuty": "LIVPET AI stand-by",
   "livpetAiOffDuty": "LIVPET AI actief",
-  "aiGuardedTodayTimes": "Vandaag {count} keer bewaakt",
+  "aiGuardedTodayTimes": "Vandaag @count keer bewaakt",
   "tapToSetUpSkills": "Tik om skills in te stellen",
   "chatWelcomeTitle": "Hallo~, hoe kan ik helpen?",
   "chatWelcomeSubtitle": "Ik ben de slimme copiloot van je huisdier",

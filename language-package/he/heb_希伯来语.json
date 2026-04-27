@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "המיומנויות אינן זמינות. הוסף מכשיר תחילה.",
   "livpetAiOnDuty": "LIVPET AI בהיכון",
   "livpetAiOffDuty": "LIVPET AI פעיל",
-  "aiGuardedTodayTimes": "שמר {count} פעמים היום",
+  "aiGuardedTodayTimes": "שמר @count פעמים היום",
   "tapToSetUpSkills": "הקש להגדרת מיומנויות",
   "chatWelcomeTitle": "היי, איך אני יכול לעזור?",
   "chatWelcomeSubtitle": "אני העוזר החכם של חיית המחמד שלך",

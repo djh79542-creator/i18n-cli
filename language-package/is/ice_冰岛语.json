@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Færni ekki tiltæk. Bættu við tæki fyrst.",
   "livpetAiOnDuty": "LIVPET AI í biðstöðu",
   "livpetAiOffDuty": "LIVPET AI virk",
-  "aiGuardedTodayTimes": "Vaktað {count} sinnum í dag",
+  "aiGuardedTodayTimes": "Vaktað @count sinnum í dag",
   "tapToSetUpSkills": "Ýttu til að stilla færni",
   "chatWelcomeTitle": "Halló, hvernig get ég hjálpað?",
   "chatWelcomeSubtitle": "Ég er snjallaðstoðarmaður gæludýrsins þíns",

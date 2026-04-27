@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Yetenekler kullanılamıyor. Lütfen önce cihaz ekleyin.",
   "livpetAiOnDuty": "LIVPET AI hazır",
   "livpetAiOffDuty": "LIVPET AI devrede",
-  "aiGuardedTodayTimes": "Bugün {count} kez korundu",
+  "aiGuardedTodayTimes": "Bugün @count kez korundu",
   "tapToSetUpSkills": "Yetenekleri ayarlamak için dokunun",
   "chatWelcomeTitle": "Merhaba, nasıl yardımcı olabilirim?",
   "chatWelcomeSubtitle": "Evcil hayvanınızın akıllı asistanıyım",

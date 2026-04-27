@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Skills unavailable. Add a device first.",
   "livpetAiOnDuty": "LIVPET AI on standby",
   "livpetAiOffDuty": "LIVPET AI on duty",
-  "aiGuardedTodayTimes": "Guarded {count} times today",
+  "aiGuardedTodayTimes": "Guarded @count times today.",
   "tapToSetUpSkills": "Tap to set up skills",
   "chatWelcomeTitle": "Hi~, how can I help?",
   "chatWelcomeSubtitle": "I'm your pet's smart co-pilot",

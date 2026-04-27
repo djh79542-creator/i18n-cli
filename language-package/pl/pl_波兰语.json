@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Umiejętności niedostępne. Najpierw dodaj urządzenie.",
   "livpetAiOnDuty": "LIVPET AI gotowy",
   "livpetAiOffDuty": "LIVPET AI aktywny",
-  "aiGuardedTodayTimes": "Dziś {count} interwencje",
+  "aiGuardedTodayTimes": "Dziś chroniono @count razy",
   "tapToSetUpSkills": "Dotknij dla umiejętności",
   "chatWelcomeTitle": "Cześć, jak mogę pomóc?",
   "chatWelcomeSubtitle": "Jestem inteligentnym asystentem Twojego zwierzaka",

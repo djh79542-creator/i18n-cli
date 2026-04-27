@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Skillek nem elérhetők. Előbb adjon hozzá eszközt.",
   "livpetAiOnDuty": "LIVPET AI készen",
   "livpetAiOffDuty": "LIVPET AI aktív",
-  "aiGuardedTodayTimes": "Ma {count} alkalommal őrizve",
+  "aiGuardedTodayTimes": "Ma @count alkalommal őrizve",
   "tapToSetUpSkills": "Koppintson a skillekre",
   "chatWelcomeTitle": "Szia, hogyan segíthetek?",
   "chatWelcomeSubtitle": "Én vagyok a kedvenced okos asszisztense",

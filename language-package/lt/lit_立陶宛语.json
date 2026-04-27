@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Įgūdžiai nepasiekiami. Pirmiausia pridėkite įrenginį.",
   "livpetAiOnDuty": "LIVPET AI pasiruošęs",
   "livpetAiOffDuty": "LIVPET AI aktyvus",
-  "aiGuardedTodayTimes": "Šiandien saugota {count} kartus",
+  "aiGuardedTodayTimes": "Šiandien saugota @count kartus",
   "tapToSetUpSkills": "Spauskite įgūdžiams",
   "chatWelcomeTitle": "Sveiki, kaip galiu padėti?",
   "chatWelcomeSubtitle": "Esu jūsų augintinio išmanusis padėjėjas",

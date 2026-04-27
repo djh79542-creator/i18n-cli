@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Навички недоступні. Спочатку додайте пристрій.",
   "livpetAiOnDuty": "LIVPET AI готовий",
   "livpetAiOffDuty": "LIVPET AI активний",
-  "aiGuardedTodayTimes": "{count} захисти за сьогодні",
+  "aiGuardedTodayTimes": "Сьогодні охоронялося @count разів",
   "tapToSetUpSkills": "Натисніть для навичок",
   "chatWelcomeTitle": "Привіт, як я можу допомогти?",
   "chatWelcomeSubtitle": "Я розумний помічник вашого улюбленця",

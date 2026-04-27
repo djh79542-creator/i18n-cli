@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "スキルは利用できません。先にデバイスを追加してください。",
   "livpetAiOnDuty": "LIVPET AI スタンバイ中",
   "livpetAiOffDuty": "LIVPET AI 稼働中",
-  "aiGuardedTodayTimes": "本日の見守り{count}回",
+  "aiGuardedTodayTimes": "本日の見守り@count回",
   "tapToSetUpSkills": "タップしてスキル設定",
   "chatWelcomeTitle": "ハイ~何かお手伝いできることはありますか。",
   "chatWelcomeSubtitle": "ペットのスマートなアシスタントです",

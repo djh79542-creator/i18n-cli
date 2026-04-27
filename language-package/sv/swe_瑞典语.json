@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "Färdigheter ej tillgängliga. Lägg till en enhet först.",
   "livpetAiOnDuty": "LIVPET AI redo",
   "livpetAiOffDuty": "LIVPET AI aktiv",
-  "aiGuardedTodayTimes": "Vaktad {count} gånger idag",
+  "aiGuardedTodayTimes": "Vaktad @count gånger idag",
   "tapToSetUpSkills": "Tryck för att ställa in färdigheter",
   "chatWelcomeTitle": "Hej, hur kan jag hjälpa dig?",
   "chatWelcomeSubtitle": "Jag är ditt husdjurs smarta assistent",

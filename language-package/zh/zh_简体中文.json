@@ -1240,7 +1240,7 @@
   "skillsUnavailableNoDevice": "技能暂不可用，请先添加设备",
   "livpetAiOnDuty": "LIVPET AI 待命中",
   "livpetAiOffDuty": "LIVPET AI 守护中",
-  "aiGuardedTodayTimes": "今日已守护 {count} 次",
+  "aiGuardedTodayTimes": "今日已守护 @count 次",
   "tapToSetUpSkills": "点击设置技能",
   "chatWelcomeTitle": "嗨~有什么我能帮忙的吗？",
   "chatWelcomeSubtitle": "我是您的智能养宠助手",
