@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Ahoj, jak vám mohu pomoct?",
   "chatWelcomeSubtitle": "Jsem chytrý pomocník vašeho mazlíčka",
   "chatWelcomeCardDesc": "Správa krmení, zachycení okamžiků a snadná péče",
-  "chatWelcomeCardQuestion": "Kde bychom měli začít dnes?"
+  "chatWelcomeCardQuestion": "Kde bychom měli začít dnes?",
+  "skillsFreeNow": "Nyní zdarma",
+  "skillsUnsupportedDevice": "Dovednosti nejsou k dispozici. Nejprve přidejte zařízení.",
+  "rules": "pravidla",
+  "wifiSetupGuideInstructionAir": "1.Hold tlačítko 5s, dokud \"DI\" odemknout",
+  "wifiSetupGuideInstructionAir2": "2.Hold tlačítko 14s resetovat, dokud zelené světlo mrká"
 }

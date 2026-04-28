@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Sveiki, kaip galiu padėti?",
   "chatWelcomeSubtitle": "Esu jūsų augintinio išmanusis padėjėjas",
   "chatWelcomeCardDesc": "Mitybos valdymas, akimirkų fiksavimas ir lengva priežiūra",
-  "chatWelcomeCardQuestion": "Iš kur pradėti šiandien?"
+  "chatWelcomeCardQuestion": "Iš kur pradėti šiandien?",
+  "skillsFreeNow": "Dabar nemokama",
+  "skillsUnsupportedDevice": "Įgūdžiai nepasiekiami. Pirmiausia pridėkite įrenginį.",
+  "rules": "taisyklės",
+  "wifiSetupGuideInstructionAir": "1.Laikykite mygtuką 5s, kol \"DI\" atirakinti",
+  "wifiSetupGuideInstructionAir2": "2.Laikykite mygtuką 14s, kad iš naujo nustatytumėte, kol mirksi žalia šviesa"
 }

@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Здравейте, как мога да ви помогна?",
   "chatWelcomeSubtitle": "Аз съм интелигентният помощник на вашия любимец",
   "chatWelcomeCardDesc": "Управление на храната, заснемане на моменти и лесна грижа",
-  "chatWelcomeCardQuestion": "Откъде да започнем днес?"
+  "chatWelcomeCardQuestion": "Откъде да започнем днес?",
+  "skillsFreeNow": "Безплатно сега",
+  "skillsUnsupportedDevice": "Уменията са недостъпни. Първо добавете устройство.",
+  "rules": "правила",
+  "wifiSetupGuideInstructionAir": "1.Дръжте бутона 5s, докато \"DI\", за да отключите",
+  "wifiSetupGuideInstructionAir2": "2.Дръжте бутона 14s за нулиране, докато зелената светлина мига"
 }

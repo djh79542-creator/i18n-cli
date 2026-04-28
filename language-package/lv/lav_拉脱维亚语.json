@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Sveiki, kā es varu palīdzēt?",
   "chatWelcomeSubtitle": "Esmu jūsu mīluļa viedais palīgs",
   "chatWelcomeCardDesc": "Ēdienreižu pārvaldība, mirkļu iemūžināšana un viegla aprūpe",
-  "chatWelcomeCardQuestion": "No kur sākt šodien?"
+  "chatWelcomeCardQuestion": "No kur sākt šodien?",
+  "skillsFreeNow": "Tagad bezmaksas",
+  "skillsUnsupportedDevice": "Prasmes nav pieejamas. Vispirms pievienojiet ierīci.",
+  "rules": "noteikumi",
+  "wifiSetupGuideInstructionAir": "1.Turiet pogu 5s līdz \"DI\", lai atbloķētu",
+  "wifiSetupGuideInstructionAir2": "2.Turiet pogu 14s, lai atjaunotu, līdz zaļā gaisma mirgo"
 }

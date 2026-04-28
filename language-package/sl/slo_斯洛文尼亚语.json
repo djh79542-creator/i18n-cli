@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Živjo, kako lahko pomagam?",
   "chatWelcomeSubtitle": "Sem pametni pomočnik vašega ljubljenčka",
   "chatWelcomeCardDesc": "Upravljanje obrokov, beleženje trenutkov in enostavna nega",
-  "chatWelcomeCardQuestion": "Kje naj začnemo danes?"
+  "chatWelcomeCardQuestion": "Kje naj začnemo danes?",
+  "skillsFreeNow": "Zdaj brezplačno",
+  "skillsUnsupportedDevice": "Veščine niso na voljo. Najprej dodajte napravo.",
+  "rules": "pravila",
+  "wifiSetupGuideInstructionAir": "1.Držite gumb 5s, dokler \"DI\" ne odklenete",
+  "wifiSetupGuideInstructionAir2": "2.Držite gumb 14s, da ponastavite, dokler ne utripa zelena luč"
 }

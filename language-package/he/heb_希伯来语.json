@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "היי, איך אני יכול לעזור?",
   "chatWelcomeSubtitle": "אני העוזר החכם של חיית המחמד שלך",
   "chatWelcomeCardDesc": "ניהול ארוחות, תיעוד רגעים וטיפול ללא מאמץ",
-  "chatWelcomeCardQuestion": "מאיפה להתחיל היום?"
+  "chatWelcomeCardQuestion": "מאיפה להתחיל היום?",
+  "skillsFreeNow": "חינם כעת",
+  "skillsUnsupportedDevice": "המיומנויות אינן זמינות. הוסף מכשיר תחילה.",
+  "rules": "כללים",
+  "wifiSetupGuideInstructionAir": "1.החזיק את הכפתור 5s עד \"DI\" לפתוח",
+  "wifiSetupGuideInstructionAir2": "2.החזיק את הכפתור 14s כדי לאפס עד האור הירוק ממפץ"
 }

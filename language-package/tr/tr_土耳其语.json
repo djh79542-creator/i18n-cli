@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Merhaba, nasıl yardımcı olabilirim?",
   "chatWelcomeSubtitle": "Evcil hayvanınızın akıllı asistanıyım",
   "chatWelcomeCardDesc": "Öğünleri yönetme, anları yakalama ve bakımı kolaylaştırma",
-  "chatWelcomeCardQuestion": "Bugün nereden başlayalım?"
+  "chatWelcomeCardQuestion": "Bugün nereden başlayalım?",
+  "skillsFreeNow": "Şimdilik ücretsiz",
+  "skillsUnsupportedDevice": "Yetenekler kullanılamıyor. Lütfen önce cihaz ekleyin.",
+  "rules": "kurallar",
+  "wifiSetupGuideInstructionAir": "1. kilidini açmak için \"DI\"ye kadar 5s düğmesini tutun",
+  "wifiSetupGuideInstructionAir2": "2. Yeşil ışık yanıp parılana kadar sıfırlamak için 14s düğmesini tutun"
 }

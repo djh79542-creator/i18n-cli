@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Hallo~, wie kann ich helfen?",
   "chatWelcomeSubtitle": "Ich bin der smarte Co-Pilot deines Haustiers",
   "chatWelcomeCardDesc": "Mahlzeiten verwalten, Momente festhalten, Pflege erleichtern",
-  "chatWelcomeCardQuestion": "Wo sollen wir heute anfangen?"
+  "chatWelcomeCardQuestion": "Wo sollen wir heute anfangen?",
+  "skillsFreeNow": "Jetzt gratis",
+  "skillsUnsupportedDevice": "Skills nicht verfügbar. Bitte zuerst Gerät hinzufügen.",
+  "rules": "Regeln",
+  "wifiSetupGuideInstructionAir": "1. Halten Sie die Taste 5s bis \"DI\" zu entriegeln",
+  "wifiSetupGuideInstructionAir2": "2. Halten Sie die Taste 14s zurück, bis grünes Licht blinkt"
 }

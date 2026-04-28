@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "مرحباً، كيف يمكنني المساعدة؟",
   "chatWelcomeSubtitle": "أنا المساعد الذكي لحيوانك الأليف",
   "chatWelcomeCardDesc": "إدارة الوجبات، التقاط اللحظات، ورعاية بلا جهد",
-  "chatWelcomeCardQuestion": "من أين نبدأ اليوم؟"
+  "chatWelcomeCardQuestion": "من أين نبدأ اليوم؟",
+  "skillsFreeNow": "مجاني الآن",
+  "skillsUnsupportedDevice": "المهارات غير متوفرة. أضف جهازاً أولاً.",
+  "rules": "القواعد",
+  "wifiSetupGuideInstructionAir": "1. امسك الزر 5s حتى \"دي\" لفتح القفل",
+  "wifiSetupGuideInstructionAir2": "2. امسك الزر 14s لإعادة تعيين حتى يضيء الضوء الأخضر"
 }

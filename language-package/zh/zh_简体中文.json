@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "嗨~有什么我能帮忙的吗？",
   "chatWelcomeSubtitle": "我是您的智能养宠助手",
   "chatWelcomeCardDesc": "管理饮食，记录精彩，让养宠更轻松",
-  "chatWelcomeCardQuestion": "我们今天从哪里开始？"
+  "chatWelcomeCardQuestion": "我们今天从哪里开始？",
+  "skillsFreeNow": "限免",
+  "skillsUnsupportedDevice": "技能暂不可用，请先添加设备",
+  "rules": "规则",
+  "wifiSetupGuideInstructionAir": "1.按住按钮5秒，直到“DI”解锁",
+  "wifiSetupGuideInstructionAir2": "2.按住按钮14秒重置，直到绿灯闪烁"
 }

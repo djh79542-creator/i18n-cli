@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Γεια σας, πώς μπορώ να βοηθήσω;",
   "chatWelcomeSubtitle": "Είμαι ο έξυπνος βοηθός του κατοικίδιού σας",
   "chatWelcomeCardDesc": "Διαχείριση γευμάτων, καταγραφή στιγμών, εύκολη φροντίδα",
-  "chatWelcomeCardQuestion": "Από πού να ξεκινήσουμε σήμερα;"
+  "chatWelcomeCardQuestion": "Από πού να ξεκινήσουμε σήμερα;",
+  "skillsFreeNow": "Δωρεάν τώρα",
+  "skillsUnsupportedDevice": "Skills μη διαθέσιμες. Προσθέστε πρώτα συσκευή.",
+  "rules": "κανόνες",
+  "wifiSetupGuideInstructionAir": "1.Hold το κουμπί 5s μέχρι \"DI\" για να ξεκλειδώσετε",
+  "wifiSetupGuideInstructionAir2": "2.Hold το κουμπί 14s για να επαναφέρετε μέχρι το πράσινο φως αναβονίζει"
 }

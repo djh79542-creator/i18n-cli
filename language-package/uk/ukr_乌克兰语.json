@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Привіт, як я можу допомогти?",
   "chatWelcomeSubtitle": "Я розумний помічник вашого улюбленця",
   "chatWelcomeCardDesc": "Керування харчуванням, фіксація моментів та легкий догляд",
-  "chatWelcomeCardQuestion": "З чого починати сьогодні?"
+  "chatWelcomeCardQuestion": "З чого починати сьогодні?",
+  "skillsFreeNow": "Поки безкоштовно",
+  "skillsUnsupportedDevice": "Навички недоступні. Спочатку додайте пристрій.",
+  "rules": "правила",
+  "wifiSetupGuideInstructionAir": "1.Hold кнопку 5s до \"DI\", щоб розблокувати",
+  "wifiSetupGuideInstructionAir2": "2.Hold кнопку 14s, щоб скинути, поки зелене світло мигає"
 }

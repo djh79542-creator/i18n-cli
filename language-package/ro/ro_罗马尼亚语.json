@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Chao~, sar daštiv te ažutiv?",
   "chatWelcomeSubtitle": "Sunt asistentul inteligent al animalului tău",
   "chatWelcomeCardDesc": "Gestionarea meselor, surprinderea momentelor, îngrijire fără efort",
-  "chatWelcomeCardQuestion": "Kaj musaj te nachinas adžes?"
+  "chatWelcomeCardQuestion": "Kaj musaj te nachinas adžes?",
+  "skillsFreeNow": "Gratuit acum",
+  "skillsUnsupportedDevice": "Abilități indisponibile. Adăugați mai întâi un dispozitiv.",
+  "rules": "regule",
+  "wifiSetupGuideInstructionAir": "1. Garde o boton 5s zhi kai \"DI\" te phuterdiol",
+  "wifiSetupGuideInstructionAir2": "2. Garde o boton 14s te resel zhi kai e verde vediara parhuvel"
 }

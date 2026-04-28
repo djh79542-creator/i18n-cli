@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Hej, hvordan kan jeg hjælpe?",
   "chatWelcomeSubtitle": "Jeg er dit kæledyrs smarte assistent",
   "chatWelcomeCardDesc": "Styr på maden, fang øjeblikke og gør plejen nem",
-  "chatWelcomeCardQuestion": "Hvor skal vi starte i dag?"
+  "chatWelcomeCardQuestion": "Hvor skal vi starte i dag?",
+  "skillsFreeNow": "Gratis nu",
+  "skillsUnsupportedDevice": "Skills utilgængelige. Tilføj en enhed først.",
+  "rules": "regler",
+  "wifiSetupGuideInstructionAir": "1.Hold knappen 5s indtil \"DI\" for at låse op",
+  "wifiSetupGuideInstructionAir2": "2.Hold knappen 14s til at nulstille indtil grønt lys blinker"
 }

@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Szia, hogyan segíthetek?",
   "chatWelcomeSubtitle": "Én vagyok a kedvenced okos asszisztense",
   "chatWelcomeCardDesc": "Étkezések kezelése, pillanatok megörökítése, könnyed gondoskodás",
-  "chatWelcomeCardQuestion": "Hol kezdjük ma?"
+  "chatWelcomeCardQuestion": "Hol kezdjük ma?",
+  "skillsFreeNow": "Most ingyen",
+  "skillsUnsupportedDevice": "Skillek nem elérhetők. Előbb adjon hozzá eszközt.",
+  "rules": "szabályok",
+  "wifiSetupGuideInstructionAir": "1.Tartsa meg a gombot 5s amíg \"DI\" kinyitni",
+  "wifiSetupGuideInstructionAir2": "2.Tartsa meg a gombot 14s visszaállítani, amíg a zöld fény villog"
 }

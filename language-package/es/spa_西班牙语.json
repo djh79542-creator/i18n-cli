@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Hola~ ¿Cómo puedo ayudarte?",
   "chatWelcomeSubtitle": "Soy el copiloto inteligente de tu mascota",
   "chatWelcomeCardDesc": "Gestionar comidas, capturar momentos y facilitar el cuidado",
-  "chatWelcomeCardQuestion": " ¿Por dónde empezar hoy?"
+  "chatWelcomeCardQuestion": " ¿Por dónde empezar hoy?",
+  "skillsFreeNow": "Gratis ahora",
+  "skillsUnsupportedDevice": "Skills no disponibles. Añade un dispositivo primero.",
+  "rules": "reglas",
+  "wifiSetupGuideInstructionAir": "1.Mantenga el botón 5s hasta que \"DI\" para desbloquear",
+  "wifiSetupGuideInstructionAir2": "2.Mantenga el botón 14s para restablecer hasta que parpadee la luz verde"
 }

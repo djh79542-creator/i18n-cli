@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "안녕하세요~, 어떻게 도와줄까요?",
   "chatWelcomeSubtitle": "반려동물의 스마트한 어시스턴트입니다",
   "chatWelcomeCardDesc": "식사 관리, 순간 포착, 더 쉬워지는 반려동물 케어",
-  "chatWelcomeCardQuestion": "오늘 어디서 시작해야 합니까?"
+  "chatWelcomeCardQuestion": "오늘 어디서 시작해야 합니까?",
+  "skillsFreeNow": "한시 무료",
+  "skillsUnsupportedDevice": "스킬을 사용할 수 없습니다. 먼저 기기를 추가해 주세요.",
+  "rules": "규칙",
+  "wifiSetupGuideInstructionAir": "잠금을 열기 위해 \"DI\"까지 1.Hold 버튼 5s",
+  "wifiSetupGuideInstructionAir2": "녹색 빛이 2.Hold 녹녹색 빛이 녹녹색 빛이 2 2 2.Hold 버튼 14s를 재설정하기 위해"
 }

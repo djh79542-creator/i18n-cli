@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Bok, kako mogu pomoći?",
   "chatWelcomeSubtitle": "Ja sam pametni pomoćnik vašeg ljubimca",
   "chatWelcomeCardDesc": "Upravljanje obrocima, bilježenje trenutaka i laka briga",
-  "chatWelcomeCardQuestion": "Gdje da počnemo danas?"
+  "chatWelcomeCardQuestion": "Gdje da počnemo danas?",
+  "skillsFreeNow": "Sada besplatno",
+  "skillsUnsupportedDevice": "Vještine nisu dostupne. Prvo dodajte uređaj.",
+  "rules": "pravila",
+  "wifiSetupGuideInstructionAir": "1.Držite gumb 5s do \"DI\" za otključavanje",
+  "wifiSetupGuideInstructionAir2": "2.Držite gumb 14s za resetiranje dok zeleno svjetlo ne treperi"
 }

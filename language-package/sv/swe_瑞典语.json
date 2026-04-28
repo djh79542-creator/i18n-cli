@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Hej, hur kan jag hjälpa dig?",
   "chatWelcomeSubtitle": "Jag är ditt husdjurs smarta assistent",
   "chatWelcomeCardDesc": "Hantera måltider, fånga ögonblick och gör omvårdnaden enkel",
-  "chatWelcomeCardQuestion": "Var ska vi börja idag?"
+  "chatWelcomeCardQuestion": "Var ska vi börja idag?",
+  "skillsFreeNow": "Gratis nu",
+  "skillsUnsupportedDevice": "Färdigheter ej tillgängliga. Lägg till en enhet först.",
+  "rules": "regler",
+  "wifiSetupGuideInstructionAir": "1.Hold knappen 5s tills \"DI\" för att låsa upp",
+  "wifiSetupGuideInstructionAir2": "2.Hold knappen 14s för att återställa tills grönt ljus blinkar"
 }

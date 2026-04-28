@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Halló, hvernig get ég hjálpað?",
   "chatWelcomeSubtitle": "Ég er snjallaðstoðarmaður gæludýrsins þíns",
   "chatWelcomeCardDesc": "Stjórna máltíðum, fanga augnablik og gera umönnun auðvelda",
-  "chatWelcomeCardQuestion": "Hvar eigum við að byrja í dag?"
+  "chatWelcomeCardQuestion": "Hvar eigum við að byrja í dag?",
+  "skillsFreeNow": "Ókeypis núna",
+  "skillsUnsupportedDevice": "Færni ekki tiltæk. Bættu við tæki fyrst.",
+  "rules": "reglur",
+  "wifiSetupGuideInstructionAir": "1.Holdið hnappinn 5s þar til \"DI\" til að opna",
+  "wifiSetupGuideInstructionAir2": "2.Holdið hnappinn 14s til að endurstilla þar til grænt ljós blinkar"
 }

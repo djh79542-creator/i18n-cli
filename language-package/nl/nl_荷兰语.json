@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Hallo~, hoe kan ik helpen?",
   "chatWelcomeSubtitle": "Ik ben de slimme copiloot van je huisdier",
   "chatWelcomeCardDesc": "Maaltijden beheren, momenten vastleggen en zorg moeiteloos maken",
-  "chatWelcomeCardQuestion": "Waar moeten we vandaag beginnen?"
+  "chatWelcomeCardQuestion": "Waar moeten we vandaag beginnen?",
+  "skillsFreeNow": "Nu gratis",
+  "skillsUnsupportedDevice": "Skills niet beschikbaar. Voeg eerst een apparaat toe.",
+  "rules": "regels",
+  "wifiSetupGuideInstructionAir": "1.Hold de knop 5s totdat \"DI\" om te ontgrendelen",
+  "wifiSetupGuideInstructionAir2": "2.Hold de knop 14s om te resetten totdat het groene licht knippert"
 }

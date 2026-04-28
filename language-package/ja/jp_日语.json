@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "ハイ~何かお手伝いできることはありますか。",
   "chatWelcomeSubtitle": "ペットのスマートなアシスタントです",
   "chatWelcomeCardDesc": "食事の管理、思い出の記録、そしてもっと手軽なお世話を",
-  "chatWelcomeCardQuestion": "今日はどこから始めますか。"
+  "chatWelcomeCardQuestion": "今日はどこから始めますか。",
+  "skillsFreeNow": "今だけ無料",
+  "skillsUnsupportedDevice": "スキルは利用できません。先にデバイスを追加してください。",
+  "rules": "ルール",
+  "wifiSetupGuideInstructionAir": "1.「DI」がロック解除されるまでボタンを5秒間押し続ける",
+  "wifiSetupGuideInstructionAir2": "2.ボタンを14秒間押したまま、緑が点滅するまでリセット"
 }

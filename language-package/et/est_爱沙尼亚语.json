@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Tere, kuidas ma saan aidata?",
   "chatWelcomeSubtitle": "Olen sinu lemmiklooma nutikas abiline",
   "chatWelcomeCardDesc": "Toidu haldamine, hetkede jäädvustamine ja lihtne hooldus",
-  "chatWelcomeCardQuestion": "Kust alustada täna?"
+  "chatWelcomeCardQuestion": "Kust alustada täna?",
+  "skillsFreeNow": "Praegu tasuta",
+  "skillsUnsupportedDevice": "Oskused pole saadaval. Palun lisage esmalt seade.",
+  "rules": "eeskirjad",
+  "wifiSetupGuideInstructionAir": "1.Hold nuppu 5s kuni \"DI\" avada",
+  "wifiSetupGuideInstructionAir2": "2. Hoidke nuppu 14s, et taastada, kuni roheline valgus vilkub"
 }

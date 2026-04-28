@@ -1245,5 +1245,10 @@
   "chatWelcomeTitle": "Hei, miten voin auttaa?",
   "chatWelcomeSubtitle": "Olen lemmikkisi älykäs apulainen",
   "chatWelcomeCardDesc": "Aterioiden hallintaa, hetkien tallennusta ja vaivatonta hoitoa",
-  "chatWelcomeCardQuestion": "Mistä aloitamme tänään?"
+  "chatWelcomeCardQuestion": "Mistä aloitamme tänään?",
+  "skillsFreeNow": "Nyt ilmainen",
+  "skillsUnsupportedDevice": "Taidot eivät ole käytettävissä. Lisää ensin laite.",
+  "rules": "säännöt",
+  "wifiSetupGuideInstructionAir": "1. Pidä painiketta 5s kunnes \"DI\" avata",
+  "wifiSetupGuideInstructionAir2": "2. Pidä painiketta 14s palauttaa, kunnes vihreä valo vilkkuu"
 }
