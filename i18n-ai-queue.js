@@ -1,5 +1,5 @@
 /**
- * 导出待 AI 翻译的英文模板（含 key、主文案、可选长度规则）。
+ * 导出待 AI 翻译的英文模板（key + 主文案；长度限制由用户在对话提示词中说明，不由仓库 JSON 配置）。
  * 用法：
  *   node i18n-ai-queue.js
  *   node i18n-ai-queue.js --lang=zh
@@ -16,7 +16,6 @@ const {
   writeJSON,
   getMainJsonPath,
   getLangJsonPath,
-  loadRules,
   isPendingValue,
   listTargetLanguageCodes,
 } = require('./lib/i18n-utils');
@@ -109,14 +108,12 @@ function resolveKeysFromOnlyKeys(onlyKeysStr) {
   return { mainJson, keys };
 }
 
-function formatBlock(mainJson, rules, keys) {
+function formatBlock(mainJson, keys) {
   const lines = ['{'];
   for (const key of keys) {
     const raw = mainJson[key];
     const valueStr = raw === undefined ? '' : JSON.stringify(String(raw));
-    const rule = rules[key];
-    const suffix = rule != null && rule !== '' ? `,${rule}` : ',';
-    lines.push(`  ${JSON.stringify(key)}: ${valueStr}${suffix}`);
+    lines.push(`  ${JSON.stringify(key)}: ${valueStr},`);
   }
   lines.push('}');
   return lines.join('\n');
@@ -140,7 +137,7 @@ function buildHeader({ keysLength, lang, mergeEn, allTargets }) {
     lines.push(`// 说明：已通过 --merge-en 写入英文主语言包并完成 key 结构同步。`);
   }
   lines.push(
-    '// 规则后缀：单个数字 = 该 key 在各语言译文中均不得超过的字符数；min-max = 各语言译文长度区间。字符数按 JavaScript .length 计。'
+    '// 行尾逗号仅为排版；长度上限/区间由用户在对话里用自然语言或「某 key ≤N 字符」等提示指定，不从仓库读取配置文件。'
   );
   lines.push(
     '// 将本块交给 Cursor（i18n-ai-translate skill）生成合法 JSON，再用 apply-i18n-batch.js 合并。'
@@ -151,7 +148,6 @@ function buildHeader({ keysLength, lang, mergeEn, allTargets }) {
 
 function main() {
   const { lang, out, mergeEn, onlyKeys } = parseArgs();
-  const rules = loadRules();
   const allTargets = listTargetLanguageCodes();
 
   let mainJson;
@@ -188,7 +184,7 @@ function main() {
     }
   }
 
-  const block = formatBlock(mainJson, rules, keys);
+  const block = formatBlock(mainJson, keys);
   const header = buildHeader({
     keysLength: keys.length,
     lang,
