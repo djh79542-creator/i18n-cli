@@ -1,185 +1,122 @@
-# 🌍 语言包翻译管理工具
+# 语言包翻译管理工具（i18n-cli）
 
-一个现代化的图形界面工具，用于管理和同步多语言翻译文件。
+用于管理 `language-package` 下多语言 JSON 的 **Web 图形界面**，并配套 **命令行同步、导出与批量合并**。新增或变更文案的**实际翻译**由团队在 **Cursor / 其他 AI** 中按项目内协议完成，**不再内置机器翻译 API**。
 
-## ✨ 功能特性
+## 功能概览
 
-- 📁 **可视化文件管理** - 直观查看所有语言包文件
-- 🎨 **现代化界面** - 美观易用的Web界面
-- 🔄 **自动翻译同步** - 集成百度翻译API，自动同步新增翻译
-- ✏️ **在线编辑** - 实时编辑翻译内容
-- 💾 **快速保存** - 支持快捷键保存 (Ctrl+S)
-- 🔍 **搜索过滤** - 快速查找特定语言
-- 📤 **导出功能** - 支持导出单个语言包或所有语言包ZIP文件
-- 🚨 **修改提醒** - 防止意外丢失未保存的修改
+- **可视化浏览与编辑**：查看各语言键值、在线修改、搜索过滤、未保存提醒。
+- **键结构同步**：「同步所有语言」与 `npm run translate` 仅对齐 **key**（英文主语言为源：其它语言缺少的 key 补空字符串，主语言已删除的 key 从其它语言移除），**不自动填充译文**。
+- **ZIP 导出**：单个语言 JSON 或整包 `language-package` 压缩下载。
+- **AI 翻译工作流（推荐）**：仓库内含 Cursor Skill 与可拷贝到其他模型的 `reference-protocol.md`，字数与风格约束写在**对话提示词**里即可。
+- **可选脚本**：导出待译列表、合并英文草稿、应用批量译文 JSON。
 
-## 🚀 快速开始
+## 快速开始
 
-### 方法一：Docker部署（推荐）
+### 环境
 
-#### 环境要求
-- Docker 20.10+
-- Docker Compose 2.0+
+- Node.js 18+（本地运行）
+- 可选：Docker 20.10+、Docker Compose 2.0+
 
-#### 一键部署
-**Windows:**
-```bash
-deploy.bat
-```
+### 本地运行
 
-**Linux/Mac:**
-```bash
-chmod +x deploy.sh
-./deploy.sh
-```
-
-#### 手动Docker部署
-```bash
-# 构建并启动
-docker-compose up -d
-
-# 查看状态
-docker-compose ps
-
-# 查看日志
-docker-compose logs -f
-```
-
-### 方法二：本地部署
-
-#### 1. 安装依赖
 ```bash
 npm install
-```
-
-#### 2. 启动服务器
-
-**本地访问模式**
-```bash
 npm start
 ```
 
-**局域网访问模式**
-双击 `start-lan.bat` 或运行：
+默认监听 **`http://localhost:7777`**（可通过环境变量 `PORT` 覆盖）。浏览器打开：
+
+`http://localhost:7777/translation-gui.html`
+
+局域网访问时，控制台会打印本机 IP 与相同端口。
+
+### Docker
+
 ```bash
-node server.js
+docker-compose up -d
 ```
 
-### 3. 访问工具
+镜像内默认 **`PORT=3000`**，访问 `http://localhost:3000/translation-gui.html`。
 
-#### 本地访问
-访问 `http://localhost:3000/translation-gui.html`
+Windows 可运行仓库根目录下的 `deploy.bat`；Linux/macOS 可使用 `deploy.sh`（需可执行权限）。
 
-#### 局域网访问
-1. 启动服务器后，查看控制台输出的局域网IP地址
-2. 其他设备通过 `http://[IP地址]:3000/translation-gui.html` 访问
-3. 例如：`http://192.168.1.100:3000/translation-gui.html`
+## 推荐工作流：英文主语言 + AI 全语言
 
-## 🐳 Docker 部署优势
+1. 在 **`language-package/en/`** 下维护主文案（业务 JSON 文件名形如 `en_英语.json`，不以 `i18n-` 开头）。
+2. 在 GUI 点击 **「同步所有语言」**，或运行 `npm run i18n:sync-keys` / `npm run translate`，使其它语言的 key 与英文一致。
+3. 在 **Cursor** 中说明要翻译的 key、目标语言范围、以及字数等要求；Agent 遵循  
+   **`.cursor/skills/i18n-ai-translate/SKILL.md`** 与 **`reference-protocol.md`**（阶段 0～6），直接写回各语言 JSON。  
+   若需在其他产品中复现，可复制 `SKILL.md` 中的 **「§ 最小系统提示」**Block。
+4. （可选）`npm run i18n:queue` 导出待译英文草稿；`npm run i18n:apply -- ./batch.json` 应用模型给出的合并 JSON。
 
-### 环境一致性
-- 消除"在我机器上能运行"的问题
-- 统一的运行环境，减少部署问题
-- 支持跨平台部署（Windows、Linux、Mac）
+长度与语气**只通过提示词约定**，仓库不维护 `i18n-length-rules.json`。
 
-### 简化部署
-- 一键部署脚本，无需手动配置环境
-- 自动处理依赖安装和配置
-- 支持快速扩展和复制
+## 命令行脚本
 
-### 数据安全
-- 数据卷挂载，确保数据持久化
-- 容器重启不丢失翻译数据
-- 支持数据备份和恢复
+| 命令 | 说明 |
+|------|------|
+| `npm start` | 启动 Web 服务 |
+| `npm run translate` | 与下条相同，对齐全语言 key |
+| `npm run i18n:sync-keys` | 同上 |
+| `npm run i18n:queue` | 导出待译 key + 英文（伪 JSON 列表） |
+| `npm run i18n:apply -- <file>` | 将批量 JSON 写入各语言文件 |
 
-### 服务管理
-- 内置健康检查，自动重启异常服务
-- 日志集中管理，便于问题排查
-- 支持服务编排和负载均衡
+`i18n-ai-queue.js` 支持 `--lang=`、`--out=`、`--only-keys=`、`--merge-en=` 等参数，详见文件头部注释。
 
-## 📁 项目结构
+## 项目结构（节选）
 
 ```
-├── language-package/          # 语言包文件夹
-│   ├── en/                   # 英语（主语言）
-│   ├── zh/                   # 中文
-│   ├── fr/                   # 法语
-│   └── ...                   # 其他语言
-├── translation-gui.html      # 主界面文件
-├── translation-gui.js        # 前端逻辑
-├── server.js                 # 后端服务器
-├── translate-json.js         # 原始翻译脚本
+├── language-package/          # 各语言 JSON（en 为主语言目录）
+├── lib/
+│   ├── i18n-utils.js
+│   └── i18n-sync-structural.js
+├── .cursor/
+│   ├── rules/i18n-ai-auto.mdc
+│   └── skills/i18n-ai-translate/
+│       ├── SKILL.md
+│       └── reference-protocol.md
+├── server.js                  # Express API + 静态资源
+├── translation-gui.html
+├── translation-gui.js
+├── translate-json.js          # CLI：仅结构同步
+├── i18n-ai-queue.js
+├── apply-i18n-batch.js
 └── package.json
 ```
 
-## 🎯 使用说明
+## Web 界面操作要点
 
-### 基本操作
+1. 左侧选择语言包，右侧编辑表格中的译文。
+2. **保存当前语言**：按钮或 Ctrl+S。
+3. **同步所有语言**：只更新 **key 结构**，新 key 在其它语言中为 `""`，需再通过 AI 或手工补全译文。
+4. **导出**：当前语言 JSON，或全部语言 ZIP。
 
-1. **选择语言包** - 在左侧列表中点击要编辑的语言
-2. **编辑翻译** - 在右侧表格中直接修改翻译内容
-3. **保存修改** - 点击"保存当前语言"按钮或使用 Ctrl+S
-4. **添加新键值** - 点击"添加新键值"按钮
-5. **同步翻译** - 点击"同步所有语言"自动翻译新增内容
+## HTTP API
 
-### 高级功能
+- `GET /api/languages` — 获取所有语言包
+- `PUT /api/languages/:langCode` — 保存指定语言 JSON 正文
+- `POST /api/sync-languages` — 与 CLI 相同的 **key 结构同步**（非机器翻译）
+- `GET /api/export-all` — 下载 `language-package` 的 ZIP
 
-- **搜索语言**: 使用搜索框快速找到特定语言
-- **删除键值**: 点击键名旁边的"删除"按钮
-- **导出语言包**: 将当前语言包导出为JSON文件
-- **批量同步**: 一键同步所有语言包的新增和删除
+## 配置说明
 
-## ⚙️ 配置说明
+- **主语言**：在 `server.js` 与 `lib/i18n-utils.js` 中均为 `en`，如需更换须两处一致并自行核对路径约定。
+- **端口**：本地默认 `7777`；Docker / `PORT` 环境变量可改为 `3000` 等。
 
-### 百度翻译API配置
+## 支持的语言
 
-在 `server.js` 中修改以下配置：
+当前 `language-package` 下包含多种语言目录（如英语、简体中文、日语、韩语及欧洲主要语言等），与目录名一致；具体以仓库内子目录为准。
 
-```javascript
-const BAIDU_APP_ID = '你的APP_ID';
-const sercretKey = '你的密钥';
-```
+## 开发与定制
 
-### 主语言设置
+- 前端：`translation-gui.html`、`translation-gui.js`
+- 同步与导出逻辑：`server.js`、`lib/i18n-sync-structural.js`
+- AI 行为约束：`.cursor/skills/i18n-ai-translate/`（勿删除 `reference-protocol.md` 若需跨工具复用）
 
-默认主语言为英语 (en)，可在 `server.js` 中修改：
-
-```javascript
-const MAIN_LANG = 'en'; // 修改为你的主语言代码
-```
-
-## 🔧 API接口
-
-- `GET /api/languages` - 获取所有语言包
-- `PUT /api/languages/:langCode` - 保存指定语言包
-- `POST /api/sync-languages` - 同步所有语言包
-
-## 📝 支持的语言
-
-工具支持32种语言，包括：
-
-🇺🇸 英语 | 🇨🇳 中文 | 🇯🇵 日语 | 🇰🇷 韩语 | 🇫🇷 法语 | 🇩🇪 德语 | 🇪🇸 西班牙语 | 🇮🇹 意大利语 | 🇷🇺 俄语 | 🇵🇹 葡萄牙语 | 🇳🇱 荷兰语 | 🇸🇪 瑞典语 | 🇳🇴 挪威语 | 🇩🇰 丹麦语 | 🇫🇮 芬兰语 | 🇵🇱 波兰语 | 🇨🇿 捷克语 | 🇭🇺 匈牙利语 | 🇷🇴 罗马尼亚语 | 🇧🇬 保加利亚语 | 🇭🇷 克罗地亚语 | 🇸🇰 斯洛伐克语 | 🇸🇮 斯洛文尼亚语 | 🇪🇪 爱沙尼亚语 | 🇱🇻 拉脱维亚语 | 🇱🇹 立陶宛语 | 🇬🇷 希腊语 | 🇹🇷 土耳其语 | 🇺🇦 乌克兰语 | 🇮🇱 希伯来语 | 🇸🇦 阿拉伯语 | 🇮🇸 冰岛语
-
-## 🛠️ 开发说明
-
-### 命令行脚本
-
-原始的命令行翻译脚本仍然可用：
-
-```bash
-npm run translate
-```
-
-### 自定义开发
-
-- 前端界面：修改 `translation-gui.html` 和 `translation-gui.js`
-- 后端逻辑：修改 `server.js`
-- 翻译逻辑：修改 `translate-json.js`
-
-## 📄 许可证
+## 许可证
 
 MIT License
 
-## 🤝 贡献
+## 贡献
 
-欢迎提交 Issue 和 Pull Request！
+欢迎提交 Issue 与 Pull Request。
