@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Ure miru: 00:00-08:00",
   "skillsMealtimeCare": "Varuh hranjenja",
   "skillsMealtimeCareDesc": "Analiza AI stanja prehranjevanja, ki je na voljo po vsakem hranjenju",
+  "skillsPetMoment": "Naj prikupno",
+  "skillsPetMomentDesc": "AI za vas pametno izbere dragocene trenutke vašega hišnega ljubljenčka iz nedavnih posnetkov",
   "skillsUnavailableNoDevice": "Veščine niso na voljo. Najprej dodajte napravo.",
   "livpetAiOnDuty": "LIVPET AI pripravljen",
   "livpetAiOffDuty": "LIVPET AI aktiven",

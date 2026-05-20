@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Ore de liniște: 00:00-08:00",
   "skillsMealtimeCare": "Gardian la Masă",
   "skillsMealtimeCareDesc": "Analisarde AI le sar te xal stato disponibil pala swako fielo",
+  "skillsPetMoment": "Cele mai drăguțe",
+  "skillsPetMomentDesc": "AI selectează inteligent pentru dvs. momentele prețioase ale animalului de companie din capturile recente",
   "skillsUnavailableNoDevice": "Abilități indisponibile. Adăugați mai întâi un dispozitiv.",
   "livpetAiOnDuty": "LIVPET AI pregătit",
   "livpetAiOffDuty": "LIVPET AI activ",

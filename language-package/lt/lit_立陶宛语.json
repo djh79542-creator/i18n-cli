@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Ramybės valandos: 00:00-08:00",
   "skillsMealtimeCare": "Valgymo sargas",
   "skillsMealtimeCareDesc": "Maisto būklės AI analizė po kiekvieno maitinimo",
+  "skillsPetMoment": "Mieliausi kadrai",
+  "skillsPetMomentDesc": "DI išmaniai jūsų naudai atrenka brangias jūsų augintinio akimirkas iš naujausių kadrų",
   "skillsUnavailableNoDevice": "Įgūdžiai nepasiekiami. Pirmiausia pridėkite įrenginį.",
   "livpetAiOnDuty": "LIVPET AI pasiruošęs",
   "livpetAiOffDuty": "LIVPET AI aktyvus",

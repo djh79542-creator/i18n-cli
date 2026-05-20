@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "免打扰时段：00:00-08:00",
   "skillsMealtimeCare": "进食守护",
   "skillsMealtimeCareDesc": "人工智能分析每次喂食后的进食状态",
+  "skillsPetMoment": "萌宠瞬间",
+  "skillsPetMomentDesc": "AI 为您智能甄选近期捕捉的宠物珍贵瞬间",
   "skillsUnavailableNoDevice": "技能暂不可用，请先添加设备",
   "livpetAiOnDuty": "LIVPET AI 待命中",
   "livpetAiOffDuty": "LIVPET AI 守护中",

@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Ώρες ησυχίας: 00:00-08:00",
   "skillsMealtimeCare": "Φύλακας φαγητού",
   "skillsMealtimeCareDesc": "Ανάλυση της κατάστασης διατροφής διαθέσιμη μετά από κάθε τροφή",
+  "skillsPetMoment": "Τα Πιο Γλυκά",
+  "skillsPetMomentDesc": "Το AI επιλέγει έξυπνα για εσάς τις πολύτιμες στιγμές του κατοικίδιού σας από πρόσφατες λήψεις",
   "skillsUnavailableNoDevice": "Skills μη διαθέσιμες. Προσθέστε πρώτα συσκευή.",
   "livpetAiOnDuty": "LIVPET AI έτοιμο",
   "livpetAiOffDuty": "LIVPET AI ενεργό",

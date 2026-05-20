@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Vaikne aeg: 00:00-08:00",
   "skillsMealtimeCare": "Söömise valvur",
   "skillsMealtimeCareDesc": "Süümise seisundi AI analüüs, mis on saadaval pärast iga söömist",
+  "skillsPetMoment": "Parimad nunnud",
+  "skillsPetMomentDesc": "AI valib teie jaoks nutikalt teie lemmiklooma väärtuslikke hetki hiljutistest jäädvustustest",
   "skillsUnavailableNoDevice": "Oskused pole saadaval. Palun lisage esmalt seade.",
   "livpetAiOnDuty": "LIVPET AI ootel",
   "livpetAiOffDuty": "LIVPET AI aktiivne",

@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Ore di silenzio: 00:00-08:00",
   "skillsMealtimeCare": "Guardia Pappa",
   "skillsMealtimeCareDesc": "Analisi AI dello stato alimentare disponibile dopo ogni alimentazione",
+  "skillsPetMoment": "Top Dolcezze",
+  "skillsPetMomentDesc": "L'IA seleziona in modo intelligente per te i momenti preziosi del tuo animale domestico dalle acquisizioni recenti",
   "skillsUnavailableNoDevice": "Skill non disponibili. Aggiungi prima un dispositivo.",
   "livpetAiOnDuty": "LIVPET AI in attesa",
   "livpetAiOffDuty": "LIVPET AI attivo",

@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Doba klidu: 00:00-08:00",
   "skillsMealtimeCare": "Strážce krmení",
   "skillsMealtimeCareDesc": "AI analýza stavu stravy k dispozici po každém krmení",
+  "skillsPetMoment": "Nej roztomilost",
+  "skillsPetMomentDesc": "AI pro vás inteligentně vybírá vzácné momenty vašeho mazlíčka z nedávných záznamů",
   "skillsUnavailableNoDevice": "Dovednosti nejsou k dispozici. Nejprve přidejte zařízení.",
   "livpetAiOnDuty": "LIVPET AI v pohotovosti",
   "livpetAiOffDuty": "LIVPET AI aktivní",

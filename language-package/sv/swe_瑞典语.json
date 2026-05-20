@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Stilla timmar: 00:00-08:00",
   "skillsMealtimeCare": "Ätvakt",
   "skillsMealtimeCareDesc": "AI-analys av ätstatus tillgänglig efter varje matning",
+  "skillsPetMoment": "Sötaste klick",
+  "skillsPetMomentDesc": "AI väljer intelligent ut ditt husdjurs värdefulla ögonblick från de senaste bilderna åt dig",
   "skillsUnavailableNoDevice": "Färdigheter ej tillgängliga. Lägg till en enhet först.",
   "livpetAiOnDuty": "LIVPET AI redo",
   "livpetAiOffDuty": "LIVPET AI aktiv",

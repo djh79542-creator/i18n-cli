@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Godziny ciszy: 00:00-08:00",
   "skillsMealtimeCare": "Strażnik jedzenia",
   "skillsMealtimeCareDesc": "AI analiza stanu żywienia dostępna po każdym karmieniu",
+  "skillsPetMoment": "Najmilsze kadry",
+  "skillsPetMomentDesc": "AI inteligentnie selekcjonuje dla Ciebie cenne momenty Twojego zwierzaka z ostatnich nagrań",
   "skillsUnavailableNoDevice": "Umiejętności niedostępne. Najpierw dodaj urządzenie.",
   "livpetAiOnDuty": "LIVPET AI gotowy",
   "livpetAiOffDuty": "LIVPET AI aktywny",

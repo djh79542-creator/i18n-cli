@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "ساعات الهدوء: 00:00-08:00",
   "skillsMealtimeCare": "حارس الأكل",
   "skillsMealtimeCareDesc": "تحليل الذكاء الاصطناعي لحالة الأكل المتاحة بعد كل تغذية",
+  "skillsPetMoment": "ألطف اللقطات",
+  "skillsPetMomentDesc": "الذكاء الاصطناعي ينتقي لك بذكاء لحظات حيوانك الأليف الثمينة من الالتقاطات الأخيرة",
   "skillsUnavailableNoDevice": "المهارات غير متوفرة. أضف جهازاً أولاً.",
   "livpetAiOnDuty": "LIVPET AI في وضع الاستعداد",
   "livpetAiOffDuty": "LIVPET AI نشط",

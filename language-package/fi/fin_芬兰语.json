@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Hiljaisuus: 00:00-08:00",
   "skillsMealtimeCare": "Syöntivahti",
   "skillsMealtimeCareDesc": "AI-analyysi syömisen tilasta saatavilla jokaisen ruokinnan jälkeen",
+  "skillsPetMoment": "Söpöimmät kuvat",
+  "skillsPetMomentDesc": "Tekoäly valikoi älykkäästi puolestasi lemmikkisi arvokkaita hetkiä viimeisimmistä tallenteista",
   "skillsUnavailableNoDevice": "Taidot eivät ole käytettävissä. Lisää ensin laite.",
   "livpetAiOnDuty": "LIVPET AI valmiina",
   "livpetAiOffDuty": "LIVPET AI päällä",

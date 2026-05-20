@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Stille uren: 00:00-08:00",
   "skillsMealtimeCare": "Eet-wacht",
   "skillsMealtimeCareDesc": "AI-analyse van eetstatus beschikbaar na elke voeding",
+  "skillsPetMoment": "Liefste kiekjes",
+  "skillsPetMomentDesc": "AI selecteert op slimme wijze voor u de kostbare momenten van uw huisdier uit recente opnames",
   "skillsUnavailableNoDevice": "Skills niet beschikbaar. Voeg eerst een apparaat toe.",
   "livpetAiOnDuty": "LIVPET AI stand-by",
   "livpetAiOffDuty": "LIVPET AI actief",

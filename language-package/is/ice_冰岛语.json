@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Kyrrðartími: 00:00-08:00",
   "skillsMealtimeCare": "Matarvakt",
   "skillsMealtimeCareDesc": "Greining á matarstöðu sem er í boði eftir hverja fæðingu",
+  "skillsPetMoment": "Sætustu myndir",
+  "skillsPetMomentDesc": "Gervigreindin velur á snjallan hátt fyrir þig dýrmæt augnablik gæludýrsins þíns úr nýlegum upptökum",
   "skillsUnavailableNoDevice": "Færni ekki tiltæk. Bættu við tæki fyrst.",
   "livpetAiOnDuty": "LIVPET AI í biðstöðu",
   "livpetAiOffDuty": "LIVPET AI virk",

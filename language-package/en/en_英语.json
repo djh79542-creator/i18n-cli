@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Quiet hours: 00:00-08:00",
   "skillsMealtimeCare": "Mealtime Care",
   "skillsMealtimeCareDesc": "AI analysis of eating status available after each feeding",
+  "skillsPetMoment": "Paw-fect Snaps",
+  "skillsPetMomentDesc": "AI intelligently curates your pet's precious moments from recent captures for you",
   "skillsUnavailableNoDevice": "Skills unavailable. Add a device first.",
   "livpetAiOnDuty": "LIVPET AI on standby",
   "livpetAiOffDuty": "LIVPET AI on duty",

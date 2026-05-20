@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Sessiz saatler: 00:00-08:00",
   "skillsMealtimeCare": "Yemek Bekçisi",
   "skillsMealtimeCareDesc": "Her beslenmeden sonra mevcut yeme durumunun AI analizi",
+  "skillsPetMoment": "En Sevimli Anlar",
+  "skillsPetMomentDesc": "Yapay zeka, son kayıtlardaki evcil hayvanınızın değerli anlarını sizin için akıllıca seçer",
   "skillsUnavailableNoDevice": "Yetenekler kullanılamıyor. Lütfen önce cihaz ekleyin.",
   "livpetAiOnDuty": "LIVPET AI hazır",
   "livpetAiOffDuty": "LIVPET AI devrede",

@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "静音時間：00:00-08:00",
   "skillsMealtimeCare": "見守りごはん",
   "skillsMealtimeCareDesc": "人工知能は毎回の餌やり後の食事状態を分析する",
+  "skillsPetMoment": "激カワショット",
+  "skillsPetMomentDesc": "AIが最近のキャプチャからペットの貴重な瞬間をあなたのためにスマートに厳選します",
   "skillsUnavailableNoDevice": "スキルは利用できません。先にデバイスを追加してください。",
   "livpetAiOnDuty": "LIVPET AI スタンバイ中",
   "livpetAiOffDuty": "LIVPET AI 稼働中",

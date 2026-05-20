@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Klusuma stundas: 00:00-08:00",
   "skillsMealtimeCare": "Ēšanas sargs",
   "skillsMealtimeCareDesc": "AI pārtikas stāvokļa analīze, kas pieejama pēc katras barošanas",
+  "skillsPetMoment": "Jaukākie mirkļi",
+  "skillsPetMomentDesc": "MI jūsu vietā viedi atlasa vērtīgos jūsu mājdzīvnieka mirkļus no nesenajiem kadriem",
   "skillsUnavailableNoDevice": "Prasmes nav pieejamas. Vispirms pievienojiet ierīci.",
   "livpetAiOnDuty": "LIVPET AI gatavs",
   "livpetAiOffDuty": "LIVPET AI aktīvs",

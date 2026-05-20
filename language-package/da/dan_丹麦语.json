@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Stilletid: 00:00-08:00",
   "skillsMealtimeCare": "Spise-vagt",
   "skillsMealtimeCareDesc": "AI analyse af spisestatus tilgængelig efter hver fodring",
+  "skillsPetMoment": "Sødest pletskud",
+  "skillsPetMomentDesc": "AI udvælger intelligent dit kæledyrs dyrebare øjeblikke fra de seneste optagelser for dig",
   "skillsUnavailableNoDevice": "Skills utilgængelige. Tilføj en enhed først.",
   "livpetAiOnDuty": "LIVPET AI klar",
   "livpetAiOffDuty": "LIVPET AI aktiv",

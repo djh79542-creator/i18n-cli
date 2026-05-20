@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Csendes időszak: 00:00-08:00",
   "skillsMealtimeCare": "Evésvédő",
   "skillsMealtimeCareDesc": "Az étkezési állapot AI elemzése minden táplálás után elérhető",
+  "skillsPetMoment": "Legcukibb",
+  "skillsPetMomentDesc": "Az MI intelligensen kiválogatja Önnek kedvence értékes pillanatait a legutóbbi felvételekből",
   "skillsUnavailableNoDevice": "Skillek nem elérhetők. Előbb adjon hozzá eszközt.",
   "livpetAiOnDuty": "LIVPET AI készen",
   "livpetAiOffDuty": "LIVPET AI aktív",

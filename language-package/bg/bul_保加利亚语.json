@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Тихи часове: 00:00-08:00",
   "skillsMealtimeCare": "Пазач при ядене",
   "skillsMealtimeCareDesc": "Анализ на състоянието на храненето след всяко хранене",
+  "skillsPetMoment": "Най-сладки",
+  "skillsPetMomentDesc": "AI интелигентно подбира за вас ценните моменти на вашия любимец от скорошни заснемания",
   "skillsUnavailableNoDevice": "Уменията са недостъпни. Първо добавете устройство.",
   "livpetAiOnDuty": "LIVPET AI готов",
   "livpetAiOffDuty": "LIVPET AI активен",

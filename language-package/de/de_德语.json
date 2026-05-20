@@ -1237,6 +1237,8 @@
   "skillsQuietHours": "Ruhezeit: 00:00-08:00",
   "skillsMealtimeCare": "Fress-Wächter",
   "skillsMealtimeCareDesc": "KI-Analyse des Ernährungsstatus nach jeder Fütterung verfügbar",
+  "skillsPetMoment": "Süßeste Klicks",
+  "skillsPetMomentDesc": "KI kuratiert für Sie intelligent die wertvollen Momente Ihres Haustiers aus aktuellen Aufnahmen",
   "skillsUnavailableNoDevice": "Skills nicht verfügbar. Bitte zuerst Gerät hinzufügen.",
   "livpetAiOnDuty": "LIVPET AI Standby",
   "livpetAiOffDuty": "LIVPET AI aktiv",
