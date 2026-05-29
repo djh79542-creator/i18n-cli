@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Skills no disponibles. Añade un dispositivo primero.",
   "rules": "reglas",
   "wifiSetupGuideInstructionAir": "1.Mantenga el botón 5s hasta que \"DI\" para desbloquear",
-  "wifiSetupGuideInstructionAir2": "2.Mantenga el botón 14s para restablecer hasta que parpadee la luz verde"
+  "wifiSetupGuideInstructionAir2": "2.Mantenga el botón 14s para restablecer hasta que parpadee la luz verde",
+  "times_one": "vez",
+  "times_other": "veces",
+  "eveningReportMeals": "Comidas",
+  "eveningReportFoodServed": "Comida servida"
 }

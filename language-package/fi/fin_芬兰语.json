@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Taidot eivät ole käytettävissä. Lisää ensin laite.",
   "rules": "säännöt",
   "wifiSetupGuideInstructionAir": "1. Pidä painiketta 5s kunnes \"DI\" avata",
-  "wifiSetupGuideInstructionAir2": "2. Pidä painiketta 14s palauttaa, kunnes vihreä valo vilkkuu"
+  "wifiSetupGuideInstructionAir2": "2. Pidä painiketta 14s palauttaa, kunnes vihreä valo vilkkuu",
+  "times_one": "kerta",
+  "times_other": "kertaa",
+  "eveningReportMeals": "Ruokinnat",
+  "eveningReportFoodServed": "Tarjoiltu ruoka"
 }

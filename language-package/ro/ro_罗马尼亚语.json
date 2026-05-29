@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Abilități indisponibile. Adăugați mai întâi un dispozitiv.",
   "rules": "regule",
   "wifiSetupGuideInstructionAir": "1. Garde o boton 5s zhi kai \"DI\" te phuterdiol",
-  "wifiSetupGuideInstructionAir2": "2. Garde o boton 14s te resel zhi kai e verde vediara parhuvel"
+  "wifiSetupGuideInstructionAir2": "2. Garde o boton 14s te resel zhi kai e verde vediara parhuvel",
+  "times_one": "dată",
+  "times_other": "ori",
+  "eveningReportMeals": "Hrăniri",
+  "eveningReportFoodServed": "Hrană servită"
 }

@@ -1252,5 +1252,10 @@
   "skillsUnsupportedDevice": "Įgūdžiai nepasiekiami. Pirmiausia pridėkite įrenginį.",
   "rules": "taisyklės",
   "wifiSetupGuideInstructionAir": "1.Laikykite mygtuką 5s, kol \"DI\" atirakinti",
-  "wifiSetupGuideInstructionAir2": "2.Laikykite mygtuką 14s, kad iš naujo nustatytumėte, kol mirksi žalia šviesa"
+  "wifiSetupGuideInstructionAir2": "2.Laikykite mygtuką 14s, kad iš naujo nustatytumėte, kol mirksi žalia šviesa",
+  "times_one": "kartą",
+  "times_few": "kartus",
+  "times_many": "kartų",
+  "eveningReportMeals": "Šėrimai",
+  "eveningReportFoodServed": "Maisto kiekis"
 }

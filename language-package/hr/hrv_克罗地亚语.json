@@ -1252,5 +1252,10 @@
   "skillsUnsupportedDevice": "Vještine nisu dostupne. Prvo dodajte uređaj.",
   "rules": "pravila",
   "wifiSetupGuideInstructionAir": "1.Držite gumb 5s do \"DI\" za otključavanje",
-  "wifiSetupGuideInstructionAir2": "2.Držite gumb 14s za resetiranje dok zeleno svjetlo ne treperi"
+  "wifiSetupGuideInstructionAir2": "2.Držite gumb 14s za resetiranje dok zeleno svjetlo ne treperi",
+  "times_one": "put",
+  "times_few": "puta",
+  "times_other": "puta",
+  "eveningReportMeals": "Hranjenja",
+  "eveningReportFoodServed": "Poslužena hrana"
 }

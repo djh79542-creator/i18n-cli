@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Skills nicht verfügbar. Bitte zuerst Gerät hinzufügen.",
   "rules": "Regeln",
   "wifiSetupGuideInstructionAir": "1. Halten Sie die Taste 5s bis \"DI\" zu entriegeln",
-  "wifiSetupGuideInstructionAir2": "2. Halten Sie die Taste 14s zurück, bis grünes Licht blinkt"
+  "wifiSetupGuideInstructionAir2": "2. Halten Sie die Taste 14s zurück, bis grünes Licht blinkt",
+  "times_other": "Mal",
+  "eveningReportMeals": "Fütterungen",
+  "eveningReportFoodServed": "Futtermenge"
 }

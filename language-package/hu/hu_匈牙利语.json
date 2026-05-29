@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Skillek nem elérhetők. Előbb adjon hozzá eszközt.",
   "rules": "szabályok",
   "wifiSetupGuideInstructionAir": "1.Tartsa meg a gombot 5s amíg \"DI\" kinyitni",
-  "wifiSetupGuideInstructionAir2": "2.Tartsa meg a gombot 14s visszaállítani, amíg a zöld fény villog"
+  "wifiSetupGuideInstructionAir2": "2.Tartsa meg a gombot 14s visszaállítani, amíg a zöld fény villog",
+  "times_other": "alkalom",
+  "eveningReportMeals": "Etetések",
+  "eveningReportFoodServed": "Kiadott étel"
 }

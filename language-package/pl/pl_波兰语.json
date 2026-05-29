@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Umiejętności niedostępne. Najpierw dodaj urządzenie.",
   "rules": "zasady",
   "wifiSetupGuideInstructionAir": "1. Przytrzymaj przycisk 5s, aż \"DI\", aby odblokować",
-  "wifiSetupGuideInstructionAir2": "2. Przytrzymaj przycisk 14s, aby zresetować, aż mignie zielone światło"
+  "wifiSetupGuideInstructionAir2": "2. Przytrzymaj przycisk 14s, aby zresetować, aż mignie zielone światło",
+  "times_one": "raz",
+  "times_other": "razy",
+  "eveningReportMeals": "Karmienia",
+  "eveningReportFoodServed": "Podana karma"
 }

@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Færni ekki tiltæk. Bættu við tæki fyrst.",
   "rules": "reglur",
   "wifiSetupGuideInstructionAir": "1.Holdið hnappinn 5s þar til \"DI\" til að opna",
-  "wifiSetupGuideInstructionAir2": "2.Holdið hnappinn 14s til að endurstilla þar til grænt ljós blinkar"
+  "wifiSetupGuideInstructionAir2": "2.Holdið hnappinn 14s til að endurstilla þar til grænt ljós blinkar",
+  "times_other": "skipti",
+  "eveningReportMeals": "Fóðranir",
+  "eveningReportFoodServed": "Fóðurskammtur"
 }

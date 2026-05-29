@@ -1248,9 +1248,13 @@
   "chatWelcomeSubtitle": "I'm your pet's smart co-pilot",
   "chatWelcomeCardDesc": "Managing meals, capturing moments, and making care effortless",
   "chatWelcomeCardQuestion": "Where should we start today?",
-  "rules":"rules",
-  "wifiSetupGuideInstructionAir":"1.Hold the button 5s until \"DI\" to unlock",
-  "wifiSetupGuideInstructionAir2":"2.Hold the button 14s to reset until green light blinks",
+  "rules": "rules",
+  "wifiSetupGuideInstructionAir": "1.Hold the button 5s until \"DI\" to unlock",
+  "wifiSetupGuideInstructionAir2": "2.Hold the button 14s to reset until green light blinks",
   "skillsFreeNow": "Free Now",
-  "skillsUnsupportedDevice": "Skills unavailable. Add a device first."
+  "skillsUnsupportedDevice": "Skills unavailable. Add a device first.",
+  "times_one": "time",
+  "times_other": "times",
+  "eveningReportMeals": "Meals",
+  "eveningReportFoodServed": "Food Served"
 }

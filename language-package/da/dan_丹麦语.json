@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Skills utilgængelige. Tilføj en enhed først.",
   "rules": "regler",
   "wifiSetupGuideInstructionAir": "1.Hold knappen 5s indtil \"DI\" for at låse op",
-  "wifiSetupGuideInstructionAir2": "2.Hold knappen 14s til at nulstille indtil grønt lys blinker"
+  "wifiSetupGuideInstructionAir2": "2.Hold knappen 14s til at nulstille indtil grønt lys blinker",
+  "times_one": "gang",
+  "times_other": "gange",
+  "eveningReportMeals": "Fodringer",
+  "eveningReportFoodServed": "Serveret foder"
 }

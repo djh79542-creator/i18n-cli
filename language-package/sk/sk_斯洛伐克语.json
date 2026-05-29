@@ -1252,5 +1252,10 @@
   "skillsUnsupportedDevice": "Zručnosti nie sú k dispozícii. Najprv pridajte zariadenie.",
   "rules": "pravidlá",
   "wifiSetupGuideInstructionAir": "1.Držte tlačidlo 5s až do \"DI\" odomknúť",
-  "wifiSetupGuideInstructionAir2": "2.Hold tlačidlo 14s resetovať, kým zelené svetlo mrká"
+  "wifiSetupGuideInstructionAir2": "2.Hold tlačidlo 14s resetovať, kým zelené svetlo mrká",
+  "times_one": "raz",
+  "times_few": "razy",
+  "times_other": "krát",
+  "eveningReportMeals": "Kŕmenia",
+  "eveningReportFoodServed": "Podané krmivo"
 }

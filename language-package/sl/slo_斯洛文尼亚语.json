@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Veščine niso na voljo. Najprej dodajte napravo.",
   "rules": "pravila",
   "wifiSetupGuideInstructionAir": "1.Držite gumb 5s, dokler \"DI\" ne odklenete",
-  "wifiSetupGuideInstructionAir2": "2.Držite gumb 14s, da ponastavite, dokler ne utripa zelena luč"
+  "wifiSetupGuideInstructionAir2": "2.Držite gumb 14s, da ponastavite, dokler ne utripa zelena luč",
+  "times_other": "krat",
+  "eveningReportMeals": "Hranjenja",
+  "eveningReportFoodServed": "Postrežena hrana"
 }

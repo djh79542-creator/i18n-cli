@@ -1252,5 +1252,10 @@
   "skillsUnsupportedDevice": "המיומנויות אינן זמינות. הוסף מכשיר תחילה.",
   "rules": "כללים",
   "wifiSetupGuideInstructionAir": "1.החזיק את הכפתור 5s עד \"DI\" לפתוח",
-  "wifiSetupGuideInstructionAir2": "2.החזיק את הכפתור 14s כדי לאפס עד האור הירוק ממפץ"
+  "wifiSetupGuideInstructionAir2": "2.החזיק את הכפתור 14s כדי לאפס עד האור הירוק ממפץ",
+  "times_one": "פעם",
+  "times_two": "פעמיים",
+  "times_other": "פעמים",
+  "eveningReportMeals": "ארוחות",
+  "eveningReportFoodServed": "כמות מזון"
 }

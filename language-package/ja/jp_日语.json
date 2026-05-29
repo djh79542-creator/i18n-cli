@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "スキルは利用できません。先にデバイスを追加してください。",
   "rules": "ルール",
   "wifiSetupGuideInstructionAir": "1.「DI」がロック解除されるまでボタンを5秒間押し続ける",
-  "wifiSetupGuideInstructionAir2": "2.ボタンを14秒間押したまま、緑が点滅するまでリセット"
+  "wifiSetupGuideInstructionAir2": "2.ボタンを14秒間押したまま、緑が点滅するまでリセット",
+  "times_other": "回",
+  "eveningReportMeals": "食事回数",
+  "eveningReportFoodServed": "給餌量"
 }

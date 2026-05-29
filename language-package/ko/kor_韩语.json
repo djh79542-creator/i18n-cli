@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "스킬을 사용할 수 없습니다. 먼저 기기를 추가해 주세요.",
   "rules": "규칙",
   "wifiSetupGuideInstructionAir": "잠금을 열기 위해 \"DI\"까지 1.Hold 버튼 5s",
-  "wifiSetupGuideInstructionAir2": "녹색 빛이 2.Hold 녹녹색 빛이 녹녹색 빛이 2 2 2.Hold 버튼 14s를 재설정하기 위해"
+  "wifiSetupGuideInstructionAir2": "녹색 빛이 2.Hold 녹녹색 빛이 녹녹색 빛이 2 2 2.Hold 버튼 14s를 재설정하기 위해",
+  "times_other": "회",
+  "eveningReportMeals": "급식 횟수",
+  "eveningReportFoodServed": "급식량"
 }

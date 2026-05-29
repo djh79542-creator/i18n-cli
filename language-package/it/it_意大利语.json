@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Skill non disponibili. Aggiungi prima un dispositivo.",
   "rules": "regole",
   "wifiSetupGuideInstructionAir": "1.Hold il pulsante 5s fino a \"DI\" per sbloccare",
-  "wifiSetupGuideInstructionAir2": "2.Hold il pulsante 14s per resettare fino a quando la luce verde lampeggia"
+  "wifiSetupGuideInstructionAir2": "2.Hold il pulsante 14s per resettare fino a quando la luce verde lampeggia",
+  "times_one": "volta",
+  "times_other": "volte",
+  "eveningReportMeals": "Pasti",
+  "eveningReportFoodServed": "Cibo erogato"
 }

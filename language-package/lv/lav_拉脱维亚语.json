@@ -1252,5 +1252,10 @@
   "skillsUnsupportedDevice": "Prasmes nav pieejamas. Vispirms pievienojiet ierīci.",
   "rules": "noteikumi",
   "wifiSetupGuideInstructionAir": "1.Turiet pogu 5s līdz \"DI\", lai atbloķētu",
-  "wifiSetupGuideInstructionAir2": "2.Turiet pogu 14s, lai atjaunotu, līdz zaļā gaisma mirgo"
+  "wifiSetupGuideInstructionAir2": "2.Turiet pogu 14s, lai atjaunotu, līdz zaļā gaisma mirgo",
+  "times_zero": "reižu",
+  "times_one": "reize",
+  "times_other": "reizes",
+  "eveningReportMeals": "Barošanas",
+  "eveningReportFoodServed": "Izsniegtā barība"
 }

@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Skills μη διαθέσιμες. Προσθέστε πρώτα συσκευή.",
   "rules": "κανόνες",
   "wifiSetupGuideInstructionAir": "1.Hold το κουμπί 5s μέχρι \"DI\" για να ξεκλειδώσετε",
-  "wifiSetupGuideInstructionAir2": "2.Hold το κουμπί 14s για να επαναφέρετε μέχρι το πράσινο φως αναβονίζει"
+  "wifiSetupGuideInstructionAir2": "2.Hold το κουμπί 14s για να επαναφέρετε μέχρι το πράσινο φως αναβονίζει",
+  "times_one": "φορά",
+  "times_other": "φορές",
+  "eveningReportMeals": "Γεύματα",
+  "eveningReportFoodServed": "Ποσότητα τροφής"
 }

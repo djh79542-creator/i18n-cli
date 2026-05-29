@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Ferdigheter utilgjengelige. Legg til en enhet først.",
   "rules": "regler",
   "wifiSetupGuideInstructionAir": "1,Hold knappen 5 til \"DI\" skal åpnes",
-  "wifiSetupGuideInstructionAir2": "2.Hold knappen 14 for å gjenoppta til grønt lys blinker"
+  "wifiSetupGuideInstructionAir2": "2.Hold knappen 14 for å gjenoppta til grønt lys blinker",
+  "times_one": "gang",
+  "times_other": "ganger",
+  "eveningReportMeals": "Fôringer",
+  "eveningReportFoodServed": "Fôrmengde"
 }

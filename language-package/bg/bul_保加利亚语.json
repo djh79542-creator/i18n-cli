@@ -1252,5 +1252,9 @@
   "skillsUnsupportedDevice": "Уменията са недостъпни. Първо добавете устройство.",
   "rules": "правила",
   "wifiSetupGuideInstructionAir": "1.Дръжте бутона 5s, докато \"DI\", за да отключите",
-  "wifiSetupGuideInstructionAir2": "2.Дръжте бутона 14s за нулиране, докато зелената светлина мига"
+  "wifiSetupGuideInstructionAir2": "2.Дръжте бутона 14s за нулиране, докато зелената светлина мига",
+  "times_one": "път",
+  "times_other": "пъти",
+  "eveningReportMeals": "Хранения",
+  "eveningReportFoodServed": "Подадена храна"
 }

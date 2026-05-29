@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Dovednosti nejsou k dispozici. Nejprve přidejte zařízení.",
   "rules": "pravidla",
   "wifiSetupGuideInstructionAir": "1.Hold tlačítko 5s, dokud \"DI\" odemknout",
-  "wifiSetupGuideInstructionAir2": "2.Hold tlačítko 14s resetovat, dokud zelené světlo mrká"
+  "wifiSetupGuideInstructionAir2": "2.Hold tlačítko 14s resetovat, dokud zelené světlo mrká",
+  "times_other": "krát",
+  "eveningReportMeals": "Krmení",
+  "eveningReportFoodServed": "Podané krmivo"
 }

@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Skills indisponibles. Ajoutez d'abord un appareil.",
   "rules": "règles",
   "wifiSetupGuideInstructionAir": "1.Maintenez le bouton 5s jusqu'à \"DI\" pour débloquer",
-  "wifiSetupGuideInstructionAir2": "2.Maintenez le bouton 14s pour réinitialiser jusqu'à ce que la lumière verte clignote"
+  "wifiSetupGuideInstructionAir2": "2.Maintenez le bouton 14s pour réinitialiser jusqu'à ce que la lumière verte clignote",
+  "times_other": "fois",
+  "eveningReportMeals": "Repas",
+  "eveningReportFoodServed": "Quantité servie"
 }

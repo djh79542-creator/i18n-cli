@@ -1252,5 +1252,12 @@
   "skillsUnsupportedDevice": "المهارات غير متوفرة. أضف جهازاً أولاً.",
   "rules": "القواعد",
   "wifiSetupGuideInstructionAir": "1. امسك الزر 5s حتى \"دي\" لفتح القفل",
-  "wifiSetupGuideInstructionAir2": "2. امسك الزر 14s لإعادة تعيين حتى يضيء الضوء الأخضر"
+  "wifiSetupGuideInstructionAir2": "2. امسك الزر 14s لإعادة تعيين حتى يضيء الضوء الأخضر",
+  "times_zero": "مرات",
+  "times_one": "مرة",
+  "times_two": "مرتان",
+  "times_few": "مرات",
+  "times_many": "مرة",
+  "eveningReportMeals": "الوجبات",
+  "eveningReportFoodServed": "كمية الطعام"
 }

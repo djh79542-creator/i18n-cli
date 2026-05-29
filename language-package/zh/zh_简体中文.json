@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "技能暂不可用，请先添加设备",
   "rules": "规则",
   "wifiSetupGuideInstructionAir": "1.按住按钮5秒，直到“DI”解锁",
-  "wifiSetupGuideInstructionAir2": "2.按住按钮14秒重置，直到绿灯闪烁"
+  "wifiSetupGuideInstructionAir2": "2.按住按钮14秒重置，直到绿灯闪烁",
+  "times_other": "次",
+  "eveningReportMeals": "喂食次数",
+  "eveningReportFoodServed": "出粮量"
 }

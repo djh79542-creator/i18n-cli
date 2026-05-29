@@ -1252,5 +1252,10 @@
   "skillsUnsupportedDevice": "Навички недоступні. Спочатку додайте пристрій.",
   "rules": "правила",
   "wifiSetupGuideInstructionAir": "1.Hold кнопку 5s до \"DI\", щоб розблокувати",
-  "wifiSetupGuideInstructionAir2": "2.Hold кнопку 14s, щоб скинути, поки зелене світло мигає"
+  "wifiSetupGuideInstructionAir2": "2.Hold кнопку 14s, щоб скинути, поки зелене світло мигає",
+  "times_one": "раз",
+  "times_few": "рази",
+  "times_many": "разів",
+  "eveningReportMeals": "Годування",
+  "eveningReportFoodServed": "Видано корму"
 }

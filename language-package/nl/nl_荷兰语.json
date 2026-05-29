@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Skills niet beschikbaar. Voeg eerst een apparaat toe.",
   "rules": "regels",
   "wifiSetupGuideInstructionAir": "1.Hold de knop 5s totdat \"DI\" om te ontgrendelen",
-  "wifiSetupGuideInstructionAir2": "2.Hold de knop 14s om te resetten totdat het groene licht knippert"
+  "wifiSetupGuideInstructionAir2": "2.Hold de knop 14s om te resetten totdat het groene licht knippert",
+  "times_other": "keer",
+  "eveningReportMeals": "Voedingen",
+  "eveningReportFoodServed": "Voerhoeveelheid"
 }

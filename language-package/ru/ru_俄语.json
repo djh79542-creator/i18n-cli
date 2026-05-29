@@ -1252,5 +1252,10 @@
   "skillsUnsupportedDevice": "Навыки недоступны. Сначала добавьте устройство.",
   "rules": "правила",
   "wifiSetupGuideInstructionAir": "1.Hold кнопку 5s до \"DI\" для разблокировки",
-  "wifiSetupGuideInstructionAir2": "2.Hold кнопку 14s для сброса, пока зеленый свет не мигает"
+  "wifiSetupGuideInstructionAir2": "2.Hold кнопку 14s для сброса, пока зеленый свет не мигает",
+  "times_one": "раз",
+  "times_few": "раза",
+  "times_many": "раз",
+  "eveningReportMeals": "Кормления",
+  "eveningReportFoodServed": "Выдано корма"
 }

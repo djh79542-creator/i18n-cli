@@ -1252,5 +1252,8 @@
   "skillsUnsupportedDevice": "Yetenekler kullanılamıyor. Lütfen önce cihaz ekleyin.",
   "rules": "kurallar",
   "wifiSetupGuideInstructionAir": "1. kilidini açmak için \"DI\"ye kadar 5s düğmesini tutun",
-  "wifiSetupGuideInstructionAir2": "2. Yeşil ışık yanıp parılana kadar sıfırlamak için 14s düğmesini tutun"
+  "wifiSetupGuideInstructionAir2": "2. Yeşil ışık yanıp parılana kadar sıfırlamak için 14s düğmesini tutun",
+  "times_other": "kez",
+  "eveningReportMeals": "Öğünler",
+  "eveningReportFoodServed": "Verilen mama"
 }
