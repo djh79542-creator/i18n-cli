@@ -1257,5 +1257,7 @@
   "times_few": "puta",
   "times_other": "puta",
   "eveningReportMeals": "Hranjenja",
-  "eveningReportFoodServed": "Poslužena hrana"
+  "eveningReportFoodServed": "Poslužena hrana",
+  "skillsPetDaily": "Sažetak ljubimca",
+  "skillsPetDailyDesc": "AI prati hranu, aktivnost i podsjetnike cijeli dan te ih sažima navečer."
 }

@@ -1256,5 +1256,7 @@
   "times_one": "kord",
   "times_other": "korda",
   "eveningReportMeals": "Toidukorrad",
-  "eveningReportFoodServed": "Serveeritud toit"
+  "eveningReportFoodServed": "Serveeritud toit",
+  "skillsPetDaily": "Lemmiku kokkuvõte",
+  "skillsPetDailyDesc": "AI jälgib toitu, aktiivsust ja meeldetuletusi ning teeb õhtul kokkuvõtte."
 }

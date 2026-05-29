@@ -1256,5 +1256,7 @@
   "times_one": "път",
   "times_other": "пъти",
   "eveningReportMeals": "Хранения",
-  "eveningReportFoodServed": "Подадена храна"
+  "eveningReportFoodServed": "Подадена храна",
+  "skillsPetDaily": "Обзор на любимеца",
+  "skillsPetDailyDesc": "AI следи хранене, активност и напомняния цял ден и обобщава вечер."
 }

@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "녹색 빛이 2.Hold 녹녹색 빛이 녹녹색 빛이 2 2 2.Hold 버튼 14s를 재설정하기 위해",
   "times_other": "회",
   "eveningReportMeals": "급식 횟수",
-  "eveningReportFoodServed": "급식량"
+  "eveningReportFoodServed": "급식량",
+  "skillsPetDaily": "펫 데일리",
+  "skillsPetDailyDesc": "AI가 하루 동안 급식, 활동, 알림을 살피고 저녁에 요약해요."
 }

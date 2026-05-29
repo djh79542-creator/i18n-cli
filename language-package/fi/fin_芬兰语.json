@@ -1256,5 +1256,7 @@
   "times_one": "kerta",
   "times_other": "kertaa",
   "eveningReportMeals": "Ruokinnat",
-  "eveningReportFoodServed": "Tarjoiltu ruoka"
+  "eveningReportFoodServed": "Tarjoiltu ruoka",
+  "skillsPetDaily": "Lemmikkikooste",
+  "skillsPetDailyDesc": "AI seuraa ruokaa, aktiivisuutta ja muistutuksia ja tekee illalla yhteenvedon."
 }

@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2. Halten Sie die Taste 14s zurück, bis grünes Licht blinkt",
   "times_other": "Mal",
   "eveningReportMeals": "Fütterungen",
-  "eveningReportFoodServed": "Futtermenge"
+  "eveningReportFoodServed": "Futtermenge",
+  "skillsPetDaily": "Tierbericht",
+  "skillsPetDailyDesc": "KI verfolgt Fütterung, Aktivität und Erinnerungen und fasst den Tag abends zusammen."
 }

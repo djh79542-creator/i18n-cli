@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2.Maintenez le bouton 14s pour réinitialiser jusqu'à ce que la lumière verte clignote",
   "times_other": "fois",
   "eveningReportMeals": "Repas",
-  "eveningReportFoodServed": "Quantité servie"
+  "eveningReportFoodServed": "Quantité servie",
+  "skillsPetDaily": "Récap animal",
+  "skillsPetDailyDesc": "L'IA suit repas, activité et rappels toute la journée, puis résume le soir."
 }

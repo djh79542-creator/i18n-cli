@@ -1256,5 +1256,7 @@
   "times_one": "dată",
   "times_other": "ori",
   "eveningReportMeals": "Hrăniri",
-  "eveningReportFoodServed": "Hrană servită"
+  "eveningReportFoodServed": "Hrană servită",
+  "skillsPetDaily": "Rezumat animal",
+  "skillsPetDailyDesc": "AI urmărește hrana, activitatea și mementourile ziua, apoi rezumă seara."
 }

@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2. Yeşil ışık yanıp parılana kadar sıfırlamak için 14s düğmesini tutun",
   "times_other": "kez",
   "eveningReportMeals": "Öğünler",
-  "eveningReportFoodServed": "Verilen mama"
+  "eveningReportFoodServed": "Verilen mama",
+  "skillsPetDaily": "Pet özeti",
+  "skillsPetDailyDesc": "AI gün boyu mama, aktivite ve hatırlatmaları izler; akşam özetler."
 }

@@ -1256,5 +1256,7 @@
   "times_one": "volta",
   "times_other": "volte",
   "eveningReportMeals": "Pasti",
-  "eveningReportFoodServed": "Cibo erogato"
+  "eveningReportFoodServed": "Cibo erogato",
+  "skillsPetDaily": "Riepilogo pet",
+  "skillsPetDailyDesc": "L'AI segue pasti, attività e promemoria tutto il giorno e li riassume la sera."
 }

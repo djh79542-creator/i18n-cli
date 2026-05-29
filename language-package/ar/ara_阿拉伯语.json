@@ -1259,5 +1259,7 @@
   "times_few": "مرات",
   "times_many": "مرة",
   "eveningReportMeals": "الوجبات",
-  "eveningReportFoodServed": "كمية الطعام"
+  "eveningReportFoodServed": "كمية الطعام",
+  "skillsPetDaily": "ملخص الحيوان الأليف",
+  "skillsPetDailyDesc": "يتابع AI الطعام والنشاط والتنبيهات طوال اليوم، ثم يرسل ملخصًا مساءً."
 }

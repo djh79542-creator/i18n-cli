@@ -1256,5 +1256,7 @@
   "times_one": "φορά",
   "times_other": "φορές",
   "eveningReportMeals": "Γεύματα",
-  "eveningReportFoodServed": "Ποσότητα τροφής"
+  "eveningReportFoodServed": "Ποσότητα τροφής",
+  "skillsPetDaily": "Σύνοψη κατοικιδίου",
+  "skillsPetDailyDesc": "Η AI παρακολουθεί τροφή, δραστηριότητα και υπενθυμίσεις και συνοψίζει το βράδυ."
 }

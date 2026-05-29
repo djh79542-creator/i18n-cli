@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2.ボタンを14秒間押したまま、緑が点滅するまでリセット",
   "times_other": "回",
   "eveningReportMeals": "食事回数",
-  "eveningReportFoodServed": "給餌量"
+  "eveningReportFoodServed": "給餌量",
+  "skillsPetDaily": "ペットデイリー",
+  "skillsPetDailyDesc": "AIが食事・活動・通知を一日見守り、夜にまとめます。"
 }

@@ -1257,5 +1257,7 @@
   "times_two": "פעמיים",
   "times_other": "פעמים",
   "eveningReportMeals": "ארוחות",
-  "eveningReportFoodServed": "כמות מזון"
+  "eveningReportFoodServed": "כמות מזון",
+  "skillsPetDaily": "סיכום חיית המחמד",
+  "skillsPetDailyDesc": "ה-AI עוקב כל היום אחר אוכל, פעילות ותזכורות ומסכם בערב."
 }

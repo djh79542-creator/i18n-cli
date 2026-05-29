@@ -1256,5 +1256,7 @@
   "times_one": "time",
   "times_other": "times",
   "eveningReportMeals": "Meals",
-  "eveningReportFoodServed": "Food Served"
+  "eveningReportFoodServed": "Food Served",
+  "skillsPetDaily": "Pet Daily",
+  "skillsPetDailyDesc": "AI tracks meals, activity & alerts all day, then sends an evening summary."
 }

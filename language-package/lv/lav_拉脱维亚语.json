@@ -1257,5 +1257,7 @@
   "times_one": "reize",
   "times_other": "reizes",
   "eveningReportMeals": "Barošanas",
-  "eveningReportFoodServed": "Izsniegtā barība"
+  "eveningReportFoodServed": "Izsniegtā barība",
+  "skillsPetDaily": "Mīluļa kopsavilkums",
+  "skillsPetDailyDesc": "AI visu dienu seko ēšanai, aktivitātei un atgādinājumiem, vakarā apkopo."
 }

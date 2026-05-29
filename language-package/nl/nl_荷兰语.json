@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2.Hold de knop 14s om te resetten totdat het groene licht knippert",
   "times_other": "keer",
   "eveningReportMeals": "Voedingen",
-  "eveningReportFoodServed": "Voerhoeveelheid"
+  "eveningReportFoodServed": "Voerhoeveelheid",
+  "skillsPetDaily": "Huisdieroverzicht",
+  "skillsPetDailyDesc": "AI volgt eten, activiteit en herinneringen de hele dag en vat 's avonds samen."
 }

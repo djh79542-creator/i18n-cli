@@ -1256,5 +1256,7 @@
   "times_one": "gang",
   "times_other": "ganger",
   "eveningReportMeals": "Fôringer",
-  "eveningReportFoodServed": "Fôrmengde"
+  "eveningReportFoodServed": "Fôrmengde",
+  "skillsPetDaily": "Kjæledyroversikt",
+  "skillsPetDailyDesc": "AI følger mat, aktivitet og påminnelser hele dagen og oppsummerer om kvelden."
 }

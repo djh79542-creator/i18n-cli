@@ -1256,5 +1256,7 @@
   "times_one": "vez",
   "times_other": "veces",
   "eveningReportMeals": "Comidas",
-  "eveningReportFoodServed": "Comida servida"
+  "eveningReportFoodServed": "Comida servida",
+  "skillsPetDaily": "Resumen mascota",
+  "skillsPetDailyDesc": "La IA sigue comida, actividad y avisos todo el día, y resume por la noche."
 }

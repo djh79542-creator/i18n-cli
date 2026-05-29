@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2.Tartsa meg a gombot 14s visszaállítani, amíg a zöld fény villog",
   "times_other": "alkalom",
   "eveningReportMeals": "Etetések",
-  "eveningReportFoodServed": "Kiadott étel"
+  "eveningReportFoodServed": "Kiadott étel",
+  "skillsPetDaily": "Kedvencnapló",
+  "skillsPetDailyDesc": "Az AI egész nap figyeli az etetést, aktivitást és emlékeztetőket, este összegzi."
 }

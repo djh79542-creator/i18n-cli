@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2.Holdið hnappinn 14s til að endurstilla þar til grænt ljós blinkar",
   "times_other": "skipti",
   "eveningReportMeals": "Fóðranir",
-  "eveningReportFoodServed": "Fóðurskammtur"
+  "eveningReportFoodServed": "Fóðurskammtur",
+  "skillsPetDaily": "Yfirlit gæludýrs",
+  "skillsPetDailyDesc": "AI fylgist með fóðrun, virkni og áminningum og tekur saman um kvöldið."
 }

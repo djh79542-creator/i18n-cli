@@ -1257,5 +1257,7 @@
   "times_few": "kartus",
   "times_many": "kartų",
   "eveningReportMeals": "Šėrimai",
-  "eveningReportFoodServed": "Maisto kiekis"
+  "eveningReportFoodServed": "Maisto kiekis",
+  "skillsPetDaily": "Augintinio suvestinė",
+  "skillsPetDailyDesc": "AI visą dieną stebi maistą, aktyvumą ir priminimus, vakare apibendrina."
 }

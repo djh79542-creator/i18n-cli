@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2.Hold tlačítko 14s resetovat, dokud zelené světlo mrká",
   "times_other": "krát",
   "eveningReportMeals": "Krmení",
-  "eveningReportFoodServed": "Podané krmivo"
+  "eveningReportFoodServed": "Podané krmivo",
+  "skillsPetDaily": "Přehled mazlíčka",
+  "skillsPetDailyDesc": "AI celý den sleduje krmení, aktivitu a připomínky a večer je shrne."
 }

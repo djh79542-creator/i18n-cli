@@ -1257,5 +1257,7 @@
   "times_few": "раза",
   "times_many": "раз",
   "eveningReportMeals": "Кормления",
-  "eveningReportFoodServed": "Выдано корма"
+  "eveningReportFoodServed": "Выдано корма",
+  "skillsPetDaily": "Сводка питомца",
+  "skillsPetDailyDesc": "AI весь день следит за едой, активностью и напоминаниями, а вечером подводит итог."
 }

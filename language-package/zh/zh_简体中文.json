@@ -1255,5 +1255,7 @@
   "wifiSetupGuideInstructionAir2": "2.按住按钮14秒重置，直到绿灯闪烁",
   "times_other": "次",
   "eveningReportMeals": "喂食次数",
-  "eveningReportFoodServed": "出粮量"
+  "eveningReportFoodServed": "出粮量",
+  "skillsPetDaily": "宠物晚报",
+  "skillsPetDailyDesc": "AI全天关注喂食、活动与提醒，晚间生成总结"
 }

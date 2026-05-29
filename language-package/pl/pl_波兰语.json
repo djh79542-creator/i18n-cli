@@ -1256,5 +1256,7 @@
   "times_one": "raz",
   "times_other": "razy",
   "eveningReportMeals": "Karmienia",
-  "eveningReportFoodServed": "Podana karma"
+  "eveningReportFoodServed": "Podana karma",
+  "skillsPetDaily": "Podsumowanie pupila",
+  "skillsPetDailyDesc": "AI śledzi jedzenie, aktywność i przypomnienia cały dzień, a wieczorem podsumowuje."
 }

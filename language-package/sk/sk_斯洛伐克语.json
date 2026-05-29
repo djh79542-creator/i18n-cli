@@ -1257,5 +1257,7 @@
   "times_few": "razy",
   "times_other": "krát",
   "eveningReportMeals": "Kŕmenia",
-  "eveningReportFoodServed": "Podané krmivo"
+  "eveningReportFoodServed": "Podané krmivo",
+  "skillsPetDaily": "Súhrn miláčika",
+  "skillsPetDailyDesc": "AI celý deň sleduje jedlo, aktivitu a pripomienky a večer ich zhrnie."
 }
