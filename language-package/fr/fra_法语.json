@@ -1044,6 +1044,7 @@
   "emailAlreadyRegistered": "Cet email a été enregistré par un autre utilisateur, veuillez réessayer",
   "deviceIsOffline": "L'appareil est hors ligne",
   "viewDevice": "Afficher le périphérique",
+  "viewDetails": "Voir les détails",
   "notice": "Avis",
   "capture": "Capture",
   "settings": "Paramètres",

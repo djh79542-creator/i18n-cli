@@ -1043,6 +1043,7 @@
   "emailAlreadyRegistered": "Bu e-posta başka bir kullanıcı tarafından kaydedilmiştir, lütfen tekrar deneyin",
   "deviceIsOffline": "Cihaz çevrimdışıdır",
   "viewDevice": "Cihazı Görüntüle",
+  "viewDetails": "Detayları Görüntüle",
   "notice": "Uyarı",
   "capture": "Yakalama",
   "settings": "Ayarlar",

@@ -1043,6 +1043,7 @@
   "emailAlreadyRegistered": "이 이메일은 다른 사용자에 의해 등록되었습니다. 다시 시도하십시오.",
   "deviceIsOffline": "장치가 오프라인입니다.",
   "viewDevice": "장치 보기",
+  "viewDetails": "세부 정보 보기",
   "notice": "통지",
   "capture": "캡처",
   "settings": "설정",

@@ -1043,6 +1043,7 @@
   "emailAlreadyRegistered": "تم تسجيل هذا البريد الإلكتروني من قبل مستخدم آخر، يرجى محاولة مرة أخرى",
   "deviceIsOffline": "الجهاز غير متصل",
   "viewDevice": "عرض الجهاز",
+  "viewDetails": "عرض التفاصيل",
   "notice": "إشعار",
   "capture": "التقاط",
   "settings": "إعدادات",

@@ -1043,6 +1043,7 @@
   "emailAlreadyRegistered": "此电子邮件已被其他用户注册，请重试",
   "deviceIsOffline": "设备已离线",
   "viewDevice": "查看设备",
+  "viewDetails": "查看详情",
   "notice": "通知",
   "capture": "捕捉",
   "settings": "设置",

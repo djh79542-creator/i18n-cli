@@ -1043,6 +1043,7 @@
   "emailAlreadyRegistered": "Šo e-pastu ir reģistrējis cits lietotājs, lūdzu, mēģiniet vēlreiz",
   "deviceIsOffline": "Ierīce ir bezsaistē",
   "viewDevice": "Skatīt ierīci",
+  "viewDetails": "Skatīt detaļas",
   "notice": "Paziņojums",
   "capture": "Uzņemšana",
   "settings": "Iestatījumi",

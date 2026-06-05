@@ -1043,6 +1043,7 @@
   "emailAlreadyRegistered": "Tämä sähköposti on rekisteröity toisen käyttäjän, yritä uudelleen",
   "deviceIsOffline": "Laite on offline",
   "viewDevice": "Näytä laite",
+  "viewDetails": "Näytä tiedot",
   "notice": "Huomautus",
   "capture": "Kaappaus",
   "settings": "Asetukset",

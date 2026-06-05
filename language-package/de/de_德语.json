@@ -1043,6 +1043,7 @@
   "emailAlreadyRegistered": "Diese E-Mail wurde von einem anderen Benutzer registriert, bitte versuchen Sie es erneut",
   "deviceIsOffline": "Das Gerät ist offline",
   "viewDevice": "Gerät anzeigen",
+  "viewDetails": "Details anzeigen",
   "notice": "Hinweis",
   "capture": "Erfassen",
   "settings": "Einstellungen",

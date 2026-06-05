@@ -1044,6 +1044,7 @@
   "emailAlreadyRegistered": "Þessi tölvupóstur hefur verið skráður af öðrum notanda, vinsamlegast reyndu aftur",
   "deviceIsOffline": "Tækið er offline",
   "viewDevice": "Skoða tæki",
+  "viewDetails": "Skoða nánar",
   "notice": "Tilkynning",
   "capture": "Taka",
   "settings": "Stillingar",
